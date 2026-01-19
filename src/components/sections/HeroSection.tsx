@@ -38,14 +38,18 @@ const HeroSection = () => {
 
           {/* CTAs */}
           <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
-            <Button variant="hero" size="xl" className="group">
-              Conheça nossa rede de saúde
-              <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
-            </Button>
-            <Button variant="heroOutline" size="xl">
-              <GraduationCap className="w-5 h-5" />
-              Explore nossas instituições
-            </Button>
+            <a href="#rede">
+              <Button variant="hero" size="xl" className="group">
+                Conheça nossa rede de saúde
+                <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
+              </Button>
+            </a>
+            <a href="#instituicoes">
+              <Button variant="heroOutline" size="xl">
+                <GraduationCap className="w-5 h-5" />
+                Explore nossas instituições
+              </Button>
+            </a>
           </div>
 
           {/* Stats */}

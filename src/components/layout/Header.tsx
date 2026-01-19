@@ -42,9 +42,11 @@ const Header = () => {
 
           {/* CTA Button */}
           <div className="hidden md:block">
-            <Button variant="institutional" size="default">
-              Parcerias Acadêmicas
-            </Button>
+            <a href="#contato">
+              <Button variant="institutional" size="default">
+                Parcerias Acadêmicas
+              </Button>
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -76,9 +78,11 @@ const Header = () => {
                 </a>
               ))}
               <div className="pt-2 px-4">
-                <Button variant="institutional" size="default" className="w-full">
-                  Parcerias Acadêmicas
-                </Button>
+                <a href="#contato" onClick={() => setIsMenuOpen(false)}>
+                  <Button variant="institutional" size="default" className="w-full">
+                    Parcerias Acadêmicas
+                  </Button>
+                </a>
               </div>
             </div>
           </nav>

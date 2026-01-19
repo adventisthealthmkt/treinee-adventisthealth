@@ -28,10 +28,12 @@ const ClosingSection = () => {
                 Saiba mais sobre parcerias acadêmicas
                 <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
               </Button>
-              <Button variant="outline" size="lg">
-                <Mail className="w-5 h-5" />
-                Entre em contato
-              </Button>
+              <a href="mailto:marketing.ah@adventisthealth.com.br">
+                <Button variant="outline" size="lg">
+                  <Mail className="w-5 h-5" />
+                  Entre em contato
+                </Button>
+              </a>
             </div>
           </div>
 

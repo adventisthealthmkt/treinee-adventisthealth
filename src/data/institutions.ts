@@ -237,7 +237,7 @@ export const clinics: Institution[] = [
 
 export const medicalSpas: Institution[] = [
   {
-    name: "Spa Médico Adventista CEVISA",
+    name: "Spa Médico Adventista Cevisa",
     type: "spa-medico",
     city: PLACEHOLDER,
     state: PLACEHOLDER,
