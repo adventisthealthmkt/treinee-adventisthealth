@@ -23,7 +23,7 @@ const Header = () => {
             <img 
               src={logoAHB} 
               alt="Adventist Health Brasil" 
-              className="h-14 md:h-16 w-auto"
+              className="h-16 md:h-20 w-auto"
             />
           </a>
 
