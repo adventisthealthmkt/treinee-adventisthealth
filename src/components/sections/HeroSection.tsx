@@ -9,9 +9,9 @@ const HeroSection = () => {
       </div>
 
       <div className="section-container relative z-10 pt-24 pb-16">
-        <div className="max-w-4xl">
+        <div className="max-w-4xl flex flex-col items-center text-center">
           {/* Badge */}
-          <div className="inline-flex items-center px-4 py-2 rounded-full bg-primary-foreground/10 border border-primary-foreground/20 mb-8 animate-fade-in">
+          <div className="inline-flex items-center px-4 py-2 rounded-full bg-primary-foreground/10 border border-primary-foreground/20 mb-8 animate-fade-in mx-auto">
             <span className="text-sm font-medium text-primary-foreground">
               Rede de Saúde Adventista no Brasil
             </span>
