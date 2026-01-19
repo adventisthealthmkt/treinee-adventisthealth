@@ -1,4 +1,5 @@
 import { Heart } from "lucide-react";
+import logoAHB from "@/assets/logo-adventist-health.png";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -9,15 +10,13 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* Brand */}
           <div>
-            <div className="flex items-center gap-3 mb-4">
-              <div className="w-10 h-10 rounded-lg bg-primary-foreground/10 flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">A</span>
-              </div>
-              <div>
-                <span className="font-semibold">Adventist Health</span>
-                <span className="font-bold ml-1">Brasil</span>
-              </div>
-            </div>
+            <a href="https://adventisthealth.com.br" target="_blank" rel="noopener noreferrer" className="block mb-4">
+              <img 
+                src={logoAHB} 
+                alt="Adventist Health Brasil" 
+                className="h-10 w-auto brightness-0 invert"
+              />
+            </a>
             <p className="text-primary-foreground/70 text-sm leading-relaxed">
               Servir, curar e salvar, promovendo a saúde física, mental, social e espiritual.
             </p>
