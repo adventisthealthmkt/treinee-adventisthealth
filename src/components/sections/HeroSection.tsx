@@ -1,7 +1,9 @@
 import { ArrowRight, GraduationCap } from "lucide-react";
 import { Button } from "@/components/ui/button";
+
 const HeroSection = () => {
-  return <section className="relative min-h-[90vh] flex items-center gradient-hero overflow-hidden">
+  return (
+    <section className="relative min-h-[90vh] flex items-center gradient-hero overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-10">
         <div className="absolute top-20 left-10 w-64 h-64 rounded-full bg-primary-foreground blur-3xl" />
@@ -18,27 +20,23 @@ const HeroSection = () => {
           </div>
 
           {/* Main Title */}
-          
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-primary-foreground leading-tight mb-6 animate-fade-in-up">
+            Adventist Health Brasil
+          </h1>
 
           {/* Subtitle */}
-          <p className="text-xl sm:text-2xl text-primary-foreground/90 mb-4 animate-fade-in-up font-semibold md:text-7xl" style={{
-          animationDelay: "0.1s"
-        }}>
+          <p className="text-xl sm:text-2xl md:text-3xl text-primary-foreground/90 font-light mb-4 animate-fade-in-up" style={{ animationDelay: "0.1s" }}>
             Cuidado, formação e missão a serviço da vida
           </p>
 
           {/* Description */}
-          <p className="text-lg text-primary-foreground/80 max-w-2xl mb-10 leading-relaxed animate-fade-in-up" style={{
-          animationDelay: "0.2s"
-        }}>
+          <p className="text-lg text-primary-foreground/80 max-w-2xl mb-10 leading-relaxed animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
             Uma rede de saúde comprometida com a excelência assistencial, o desenvolvimento 
             profissional e a integração entre fé, ciência e educação.
           </p>
 
           {/* CTAs */}
-          <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up" style={{
-          animationDelay: "0.3s"
-        }}>
+          <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
             <a href="#rede">
               <Button variant="hero" size="xl" className="group">
                 Conheça nossa rede de saúde
@@ -54,9 +52,7 @@ const HeroSection = () => {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 mt-16 pt-8 border-t border-primary-foreground/20 animate-fade-in-up" style={{
-          animationDelay: "0.4s"
-        }}>
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 mt-16 pt-8 border-t border-primary-foreground/20 animate-fade-in-up" style={{ animationDelay: "0.4s" }}>
             <div>
               <p className="text-3xl md:text-4xl font-bold text-primary-foreground">7+</p>
               <p className="text-sm text-primary-foreground/70 mt-1">Hospitais</p>
@@ -76,6 +72,8 @@ const HeroSection = () => {
           </div>
         </div>
       </div>
-    </section>;
+    </section>
+  );
 };
+
 export default HeroSection;
