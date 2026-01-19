@@ -22,14 +22,9 @@ const ClosingSection = () => {
               acadêmicas que compartilham do compromisso com a vida, a ética e a excelência.
             </p>
 
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button variant="institutional" size="lg" className="group">
-                <GraduationCap className="w-5 h-5" />
-                Saiba mais sobre parcerias acadêmicas
-                <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
-              </Button>
+            <div className="flex justify-center">
               <a href="mailto:marketing.ah@adventisthealth.com.br">
-                <Button variant="outline" size="lg">
+                <Button variant="institutional" size="lg">
                   <Mail className="w-5 h-5" />
                   Entre em contato
                 </Button>
