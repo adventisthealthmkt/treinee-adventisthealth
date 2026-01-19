@@ -1,6 +1,7 @@
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
+import logoAHB from "@/assets/logo-adventist-health.png";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -18,14 +19,12 @@ const Header = () => {
       <div className="section-container">
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-lg">A</span>
-            </div>
-            <div className="hidden sm:block">
-              <span className="font-semibold text-foreground">Adventist Health</span>
-              <span className="text-primary font-bold ml-1">Brasil</span>
-            </div>
+          <a href="https://adventisthealth.com.br" target="_blank" rel="noopener noreferrer" className="flex items-center">
+            <img 
+              src={logoAHB} 
+              alt="Adventist Health Brasil" 
+              className="h-10 md:h-12 w-auto"
+            />
           </a>
 
           {/* Desktop Navigation */}
