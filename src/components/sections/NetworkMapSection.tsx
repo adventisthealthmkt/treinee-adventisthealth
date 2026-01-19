@@ -29,19 +29,14 @@ const NetworkMapSection = () => {
 
         {/* Map Placeholder + Locations */}
         <div className="grid lg:grid-cols-2 gap-8 items-center">
-          {/* Map Visual */}
-          <div className="card-institutional p-8 md:p-12 flex items-center justify-center min-h-[400px] bg-gradient-to-br from-primary-light to-accent">
-            <div className="text-center">
-              <div className="w-24 h-24 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-6">
-                <MapPin className="w-12 h-12 text-primary" />
-              </div>
-              <h3 className="text-xl font-semibold text-foreground mb-2">
-                Mapa Interativo
-              </h3>
-              <p className="text-muted-foreground text-sm max-w-xs">
-                Visualização geográfica das unidades da rede em desenvolvimento
-              </p>
-            </div>
+          {/* Interactive Map */}
+          <div className="relative w-full max-w-[980px] aspect-square rounded-[28px] overflow-hidden p-3.5 bg-gradient-to-br from-[hsl(var(--primary-light))] to-[hsl(var(--accent))] shadow-[0_20px_40px_rgba(0,0,0,0.18),inset_0_0_0_1px_rgba(255,255,255,0.35)]">
+            <iframe
+              src="https://josuealvesm.github.io/mapadventisthealth/"
+              loading="lazy"
+              title="Mapa Adventist Health"
+              className="w-full h-full block border-0 rounded-[20px] bg-[hsl(var(--accent))] shadow-[inset_0_0_0_1px_rgba(0,0,0,0.06)]"
+            />
           </div>
 
           {/* Locations List */}
