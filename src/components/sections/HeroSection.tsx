@@ -28,7 +28,7 @@ const HeroSection = () => {
           </p>
 
           {/* Description */}
-          <p className="text-lg text-primary-foreground/80 max-w-2xl mb-10 leading-relaxed animate-fade-in-up text-left" style={{
+          <p className="text-lg text-primary-foreground/80 max-w-2xl mb-10 leading-relaxed animate-fade-in-up text-left mx-0 px-0" style={{
           animationDelay: "0.2s"
         }}>
             Uma rede de saúde comprometida com a excelência assistencial, o desenvolvimento 
