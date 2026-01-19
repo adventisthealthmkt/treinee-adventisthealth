@@ -14,7 +14,7 @@ const Footer = () => {
               <img 
                 src={logoAHB} 
                 alt="Adventist Health Brasil" 
-                className="h-10 w-auto"
+                className="h-14 w-auto"
               />
             </a>
             <p className="text-primary-foreground/70 text-sm leading-relaxed">
