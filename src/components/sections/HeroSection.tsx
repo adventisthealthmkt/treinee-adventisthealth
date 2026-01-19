@@ -28,7 +28,7 @@ const HeroSection = () => {
           </p>
 
           {/* Description */}
-          <p className="text-lg text-primary-foreground/80 max-w-2xl mb-10 leading-relaxed animate-fade-in-up" style={{
+          <p className="text-lg text-primary-foreground/80 max-w-2xl mb-10 leading-relaxed animate-fade-in-up text-left" style={{
           animationDelay: "0.2s"
         }}>
             Uma rede de saúde comprometida com a excelência assistencial, o desenvolvimento 
@@ -36,7 +36,7 @@ const HeroSection = () => {
           </p>
 
           {/* CTAs */}
-          <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up" style={{
+          <div className="flex-col gap-4 animate-fade-in-up items-start justify-center flex sm:flex-row" style={{
           animationDelay: "0.3s"
         }}>
             <a href="#rede">
