@@ -1,5 +1,5 @@
 import { Heart } from "lucide-react";
-import logoAHB from "@/assets/logo-adventist-health.png";
+import logoAHB from "@/assets/logo-ahb-branco.png";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -14,7 +14,7 @@ const Footer = () => {
               <img 
                 src={logoAHB} 
                 alt="Adventist Health Brasil" 
-                className="h-10 w-auto brightness-0 invert"
+                className="h-10 w-auto"
               />
             </a>
             <p className="text-primary-foreground/70 text-sm leading-relaxed">
