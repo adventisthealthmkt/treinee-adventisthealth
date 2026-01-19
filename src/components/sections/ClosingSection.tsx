@@ -1,9 +1,7 @@
 import { ArrowRight, Mail, GraduationCap } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
 const ClosingSection = () => {
-  return (
-    <section id="contato" className="section-padding bg-background">
+  return <section id="contato" className="section-padding bg-background">
       <div className="section-container">
         <div className="max-w-4xl mx-auto">
           {/* Main Card */}
@@ -34,18 +32,11 @@ const ClosingSection = () => {
 
           {/* Partner Institutions Note */}
           <div className="mt-8 text-center">
-            <p className="text-sm text-muted-foreground mb-4">
-              Instituições parceiras e de interesse incluem:
-            </p>
+            <p className="text-sm mb-4 text-primary font-bold">Instituições parceiras:</p>
             <div className="flex flex-wrap justify-center gap-3">
-              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENE"].map((inst) => (
-                <span
-                  key={inst}
-                  className="px-4 py-2 rounded-full bg-accent text-accent-foreground text-sm font-medium"
-                >
+              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENE"].map(inst => <span key={inst} className="px-4 py-2 rounded-full bg-accent text-accent-foreground text-sm font-medium">
                   {inst}
-                </span>
-              ))}
+                </span>)}
               <span className="px-4 py-2 rounded-full bg-muted text-muted-foreground text-sm">
                 e outras IES do Brasil e exterior
               </span>
@@ -53,8 +44,6 @@ const ClosingSection = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>;
 };
-
 export default ClosingSection;
