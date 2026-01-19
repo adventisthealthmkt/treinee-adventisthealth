@@ -38,7 +38,7 @@ const ClosingSection = () => {
               Instituições parceiras e de interesse incluem:
             </p>
             <div className="flex flex-wrap justify-center gap-3">
-              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENSE"].map((inst) => (
+              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENE"].map((inst) => (
                 <span
                   key={inst}
                   className="px-4 py-2 rounded-full bg-accent text-accent-foreground text-sm font-medium"
