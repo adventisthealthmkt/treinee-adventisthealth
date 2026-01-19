@@ -58,20 +58,20 @@ const HeroSection = () => {
           animationDelay: "0.4s"
         }}>
             <div>
-              <p className="text-3xl md:text-4xl font-bold text-primary-foreground">7+</p>
-              <p className="text-sm text-primary-foreground/70 mt-1">Hospitais</p>
+              <p className="text-3xl md:text-4xl font-bold text-primary-foreground text-center">16</p>
+              <p className="text-sm text-primary-foreground/70 mt-1 text-center">Instituições de saúde</p>
             </div>
             <div>
-              <p className="text-3xl md:text-4xl font-bold text-primary-foreground">5+</p>
-              <p className="text-sm text-primary-foreground/70 mt-1">Centros Médicos</p>
+              <p className="text-3xl md:text-4xl font-bold text-primary-foreground text-center">8</p>
+              <p className="text-sm text-primary-foreground/70 mt-1 text-center">Hospitais</p>
             </div>
             <div>
-              <p className="text-3xl md:text-4xl font-bold text-primary-foreground">80+</p>
-              <p className="text-sm text-primary-foreground/70 mt-1">Anos de História</p>
+              <p className="text-3xl md:text-4xl font-bold text-primary-foreground text-center">+80</p>
+              <p className="text-sm text-primary-foreground/70 mt-1 text-center">Anos de História</p>
             </div>
             <div>
-              <p className="text-3xl md:text-4xl font-bold text-primary-foreground">6.000+</p>
-              <p className="text-sm text-primary-foreground/70 mt-1">Colaboradores</p>
+              <p className="text-3xl md:text-4xl font-bold text-primary-foreground text-center">+6.500</p>
+              <p className="text-sm text-primary-foreground/70 mt-1 text-center">Colaboradores</p>
             </div>
           </div>
         </div>
