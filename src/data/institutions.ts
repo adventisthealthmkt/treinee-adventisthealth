@@ -25,7 +25,8 @@ export const hospitals: Institution[] = [
     yearFounded: "1953",
     technicalDirector: "Markus Barcellos de Albuquerque",
     complexityLevel: "Alta complexidade",
-    specialties: "42 especialidades; emergência, cirurgia, internação, exames diagnósticos e tratamento de doenças crônicas",
+    specialties:
+      "42 especialidades; emergência, cirurgia, internação, exames diagnósticos e tratamento de doenças crônicas",
     beds: "190",
     employees: "1.650",
     website: PLACEHOLDER,
@@ -55,7 +56,8 @@ export const hospitals: Institution[] = [
     yearFounded: "1950",
     technicalDirector: "Karin Kiefer Martins",
     complexityLevel: "Alta complexidade",
-    specialties: "26 especialidades; clínica médica, obstetrícia, cirurgias ginecológicas, ortopédicas, vasculares, plásticas e gerais; transplantes de fígado e córneas",
+    specialties:
+      "26 especialidades; clínica médica, obstetrícia, cirurgias ginecológicas, ortopédicas, vasculares, plásticas e gerais; transplantes de fígado e córneas",
     beds: "130 (106 internação + 30 UTI)",
     employees: "700",
     website: PLACEHOLDER,
@@ -85,7 +87,8 @@ export const hospitals: Institution[] = [
     yearFounded: "1978",
     technicalDirector: "Francisco Mateus João",
     complexityLevel: "Alta complexidade",
-    specialties: "45 especialidades; centro cirúrgico, hemodinâmica, oncologia, diagnóstico por imagem, análises clínicas",
+    specialties:
+      "45 especialidades; centro cirúrgico, hemodinâmica, oncologia, diagnóstico por imagem, análises clínicas",
     beds: "160",
     employees: "1.577",
     website: PLACEHOLDER,
@@ -206,7 +209,7 @@ export const medicalCenters: Institution[] = [
     city: "Engenheiro Coelho",
     state: "SP",
     yearFounded: PLACEHOLDER,
-    technicalDirector: PLACEHOLDER,
+    technicalDirector: "Luana das Graças de Oliveira",
     complexityLevel: "Atenção ambulatorial",
     specialties: PLACEHOLDER,
     beds: "N/A",
