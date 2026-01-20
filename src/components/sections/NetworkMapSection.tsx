@@ -4,7 +4,7 @@ const locations = [
   { city: "Pará", state: "Belém e Barcarena", units: 2 },
   { city: "Amazonas", state: "Manaus", units: 1 },
   { city: "Mato Grosso do Sul", state: "Campo Grande", units: 1 },
-  { city: "São Paulo", state: "SP", units: 3 },
+  { city: "São Paulo", state: "São Paulo, Capão Redondo e Engenheiro Coelho", units: 3 },
   { city: "Rio de Janeiro / Itaboraí", state: "RJ", units: 3 },
   { city: "Curitiba", state: "PR", units: 1 },
   { city: "Porto Alegre", state: "RS", units: 1 },
