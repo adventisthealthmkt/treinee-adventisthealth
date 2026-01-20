@@ -126,7 +126,7 @@ export const hospitals: Institution[] = [
 
 export const medicalCenters: Institution[] = [
   {
-    name: "Centro Médico Adventista de Curitiba",
+    name: "Centro Médico Adventista Curitiba",
     type: "centro-medico",
     city: "Curitiba",
     state: "PR",
@@ -141,7 +141,7 @@ export const medicalCenters: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Centro Médico Adventista de Porto Alegre",
+    name: "Centro Médico Adventista Porto Alegre",
     type: "centro-medico",
     city: "Porto Alegre",
     state: "RS",
@@ -156,7 +156,7 @@ export const medicalCenters: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Centro Médico Adventista de Botafogo",
+    name: "Centro Médico Adventista Botafogo",
     type: "centro-medico",
     city: "Rio de Janeiro",
     state: "RJ",
@@ -171,7 +171,7 @@ export const medicalCenters: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Centro Médico Adventista do Capão Redondo",
+    name: "Centro Médico Adventista Capão Redondo",
     type: "centro-medico",
     city: "São Paulo",
     state: "SP",
@@ -186,7 +186,7 @@ export const medicalCenters: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Centro Médico Adventista de Engenheiro Coelho",
+    name: "Centro Médico Adventista Engenheiro Coelho",
     type: "centro-medico",
     city: "Engenheiro Coelho",
     state: "SP",
@@ -204,7 +204,7 @@ export const medicalCenters: Institution[] = [
 
 export const clinics: Institution[] = [
   {
-    name: "Clínica Adventista da Vila Andrade",
+    name: "Clínica Adventista Vila Andrade",
     type: "clinica",
     city: "São Paulo",
     state: "SP",
@@ -219,7 +219,7 @@ export const clinics: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Clínica Adventista de Belém",
+    name: "Clínica Adventista Belém",
     type: "clinica",
     city: "Belém",
     state: "PA",
