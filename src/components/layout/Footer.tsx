@@ -56,9 +56,7 @@ const Footer = () => {
           <p className="text-sm text-primary-foreground/60">
             © {currentYear} Adventist Health Brasil. Todos os direitos reservados.
           </p>
-          <p className="flex items-center gap-1 text-sm text-primary-foreground/60">
-            Feito com <Heart className="w-4 h-4 text-primary-foreground/80" /> para a vida
-          </p>
+          
         </div>
       </div>
     </footer>;
