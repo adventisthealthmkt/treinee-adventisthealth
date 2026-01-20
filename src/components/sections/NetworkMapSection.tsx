@@ -7,7 +7,7 @@ const locations = [
   { city: "São Paulo", state: "São Paulo, Capão Redondo e Engenheiro Coelho", units: 3 },
   { city: "Rio de Janeiro", state: "Rio de Janeiro, Botafogo e Itaboraí", units: 3 },
   { city: "Paraná", state: "Curitiba", units: 1 },
-  { city: "Porto Alegre", state: "RS", units: 1 },
+  { city: "Rio Grande do Sul", state: "RS", units: 1 },
 ];
 
 const NetworkMapSection = () => {
