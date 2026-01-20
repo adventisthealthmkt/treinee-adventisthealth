@@ -115,7 +115,7 @@ export const hospitals: Institution[] = [
     yearFounded: "2014",
     technicalDirector: PLACEHOLDER,
     complexityLevel: "Alta complexidade",
-    specialties: PLACEHOLDER,
+    specialties: "Integrado ao Hospital Adventista Silvestre",
     beds: PLACEHOLDER,
     employees: PLACEHOLDER,
     website: PLACEHOLDER,
