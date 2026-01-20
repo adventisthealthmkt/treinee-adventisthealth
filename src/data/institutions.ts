@@ -48,7 +48,7 @@ export const hospitals: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Hospital Adventista do Pênfigo",
+    name: "Hospital Adventista Pênfigo",
     type: "hospital",
     city: "Campo Grande",
     state: "MS",
