@@ -6,6 +6,7 @@ import ObjectivesSection from "@/components/sections/ObjectivesSection";
 import NetworkMapSection from "@/components/sections/NetworkMapSection";
 import InstitutionsSection from "@/components/sections/InstitutionsSection";
 import ClosingSection from "@/components/sections/ClosingSection";
+import ScrollToTop from "@/components/ScrollToTop";
 
 const Index = () => {
   return (
@@ -20,6 +21,7 @@ const Index = () => {
         <ClosingSection />
       </main>
       <Footer />
+      <ScrollToTop />
     </div>
   );
 };
