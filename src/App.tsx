@@ -8,9 +8,9 @@ import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
 
-// 👇 AQUI: basename só no Pages (produção)
-const basename =
-  import.meta.env.PROD ? "/treinee-adventisthealth" : "/";
+// Vite define BASE_URL com base no `base` do vite.config
+const rawBase = import.meta.env.BASE_URL || "/";
+const basename = rawBase === "/" ? "/" : rawBase.replace(/\/$/, ""); // remove barra final
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
