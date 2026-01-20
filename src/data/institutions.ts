@@ -18,7 +18,7 @@ const PLACEHOLDER = "Informação institucional em atualização";
 
 export const hospitals: Institution[] = [
   {
-    name: "Hospital Adventista de Belém",
+    name: "Hospital Adventista Belém",
     type: "hospital",
     city: "Belém",
     state: "PA",
