@@ -3,7 +3,7 @@ import { MapPin } from "lucide-react";
 const locations = [
   { city: "Pará", state: "Belém e Barcarena", units: 2 },
   { city: "Amazonas", state: "Manaus", units: 1 },
-  { city: "Mato Grosso do Sul", state: "MS", units: 1 },
+  { city: "Mato Grosso do Sul", state: "Campo Grande", units: 1 },
   { city: "São Paulo / Engenheiro Coelho", state: "SP", units: 3 },
   { city: "Rio de Janeiro / Itaboraí", state: "RJ", units: 3 },
   { city: "Curitiba", state: "PR", units: 1 },
