@@ -33,7 +33,7 @@ export const hospitals: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Hospital Adventista de Barcarena",
+    name: "Hospital Adventista Barcarena",
     type: "hospital",
     city: "Barcarena",
     state: "PA",
@@ -63,7 +63,7 @@ export const hospitals: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Hospital Adventista de Manaus",
+    name: "Hospital Adventista Manaus",
     type: "hospital",
     city: "Manaus",
     state: "AM",
@@ -78,7 +78,7 @@ export const hospitals: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Hospital Adventista de São Paulo",
+    name: "Hospital Adventista São Paulo",
     type: "hospital",
     city: "São Paulo",
     state: "SP",
@@ -108,7 +108,7 @@ export const hospitals: Institution[] = [
     socialProjects: PLACEHOLDER,
   },
   {
-    name: "Hospital Adventista de Itaboraí",
+    name: "Hospital Adventista Itaboraí",
     type: "hospital",
     city: "Itaboraí",
     state: "RJ",
