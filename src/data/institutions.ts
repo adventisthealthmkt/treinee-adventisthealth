@@ -261,7 +261,7 @@ export const medicalSpas: Institution[] = [
     city: PLACEHOLDER,
     state: PLACEHOLDER,
     yearFounded: PLACEHOLDER,
-    technicalMedicalDirector: PLACEHOLDER,
+    technicalMedicalDirector: "Januário de Farias",
     complexityLevel: "Medicina do estilo de vida e reabilitação",
     specialties: "Hidroterapia, massoterapia, estética terapêutica, atividade física assistida",
     beds: "10 quartos",
