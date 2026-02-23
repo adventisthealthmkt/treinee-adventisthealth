@@ -68,15 +68,15 @@ const InstitutionCard = ({ institution }: { institution: Institution }) => {
       )}
 
       {/* Technical Director */}
-      {!isPlaceholder(institution.technicalDirector) && (
+      {!isPlaceholder(institution.technicalMedicalDirector) && (
         <div className="pt-4 border-t border-border">
-          <p className="text-xs text-muted-foreground">Diretor Técnico</p>
-          <p className="text-sm font-medium text-foreground">{institution.technicalDirector}</p>
+          <p className="text-xs text-muted-foreground">Diretor Técnico-Médico</p>
+          <p className="text-sm font-medium text-foreground">{institution.technicalMedicalDirector}</p>
         </div>
       )}
 
       {/* Placeholder Notice */}
-      {isPlaceholder(institution.specialties) && isPlaceholder(institution.technicalDirector) && (
+      {isPlaceholder(institution.specialties) && isPlaceholder(institution.technicalMedicalDirector) && (
         <div className="pt-4 border-t border-border">
           <p className="text-sm text-muted-foreground italic">
             {PLACEHOLDER}
