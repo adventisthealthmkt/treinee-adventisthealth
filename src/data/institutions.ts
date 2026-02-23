@@ -264,7 +264,7 @@ export const medicalSpas: Institution[] = [
     technicalMedicalDirector: PLACEHOLDER,
     complexityLevel: "Medicina do estilo de vida e reabilitação",
     specialties: "Hidroterapia, massoterapia, estética terapêutica, atividade física assistida",
-    beds: PLACEHOLDER,
+    beds: "10 quartos",
     employees: PLACEHOLDER,
     website: PLACEHOLDER,
     socialMedia: PLACEHOLDER,
