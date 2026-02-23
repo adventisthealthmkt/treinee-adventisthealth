@@ -150,7 +150,7 @@ export const medicalCenters: Institution[] = [
     city: "Porto Alegre",
     state: "RS",
     yearFounded: "1989",
-    technicalDirector: PLACEHOLDER,
+    technicalDirector: "Eli Arado Filho",
     complexityLevel: "Atenção ambulatorial especializada",
     specialties: "Mais de 30 especialidades",
     beds: "N/A",
