@@ -30,7 +30,8 @@ export const hospitals: Institution[] = [
     beds: "190",
     employees: "1.650",
     website: "https://www.hab.org.br/",
-    socialMedia: "Instagram: https://www.instagram.com/hospitalbelem/ | LinkedIn: https://www.linkedin.com/company/hospitalbelem",
+    socialMedia:
+      "Instagram: https://www.instagram.com/hospitalbelem/ | LinkedIn: https://www.linkedin.com/company/hospitalbelem",
     socialProjects: "Comunidade Encontro Vida - https://www.encontrovida.com.br/nossacomunidade",
   },
   {
@@ -39,7 +40,7 @@ export const hospitals: Institution[] = [
     city: "Barcarena",
     state: "PA",
     yearFounded: "2021",
-    technicalDirector: PLACEHOLDER,
+    technicalDirector: "Markus Barcellos de Albuquerque",
     complexityLevel: "Alta complexidade",
     specialties: "Integrado ao Hospital Adventista de Belém",
     beds: "Integrado ao Hospital Adventista de Belém",
