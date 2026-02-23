@@ -150,7 +150,7 @@ export const medicalCenters: Institution[] = [
     city: "Curitiba",
     state: "PR",
     yearFounded: "1994",
-    technicalDirector: PLACEHOLDER,
+    technicalDirector: "Felipe Calderon Scarin",
     complexityLevel: "Atenção ambulatorial especializada",
     specialties: "Mais de 30 especialidades",
     beds: "N/A",
