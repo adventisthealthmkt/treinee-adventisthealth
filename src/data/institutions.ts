@@ -29,9 +29,9 @@ export const hospitals: Institution[] = [
       "42 especialidades; emergência, cirurgia, internação, exames diagnósticos e tratamento de doenças crônicas",
     beds: "190",
     employees: "1.650",
-    website: PLACEHOLDER,
-    socialMedia: PLACEHOLDER,
-    socialProjects: PLACEHOLDER,
+    website: "https://www.hab.org.br/",
+    socialMedia: "Instagram: https://www.instagram.com/hospitalbelem/ | LinkedIn: https://www.linkedin.com/company/hospitalbelem",
+    socialProjects: "Comunidade Encontro Vida - https://www.encontrovida.com.br/nossacomunidade",
   },
   {
     name: "Hospital Adventista Barcarena",
