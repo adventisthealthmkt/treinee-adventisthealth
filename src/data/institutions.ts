@@ -62,7 +62,7 @@ export const hospitals: Institution[] = [
     complexityLevel: "Alta complexidade",
     specialties: "26 especialidades",
     services: "Clínica médica, obstetrícia, cirurgias ginecológicas, ortopédicas, vasculares, plásticas e gerais; transplantes de fígado e córneas",
-    beds: "136 (106 internação + 30 UTI)",
+    beds: "136",
     employees: "700",
     website: PLACEHOLDER,
     socialMedia: PLACEHOLDER,
