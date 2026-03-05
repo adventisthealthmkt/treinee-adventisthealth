@@ -42,9 +42,10 @@ export const hospitals: Institution[] = [
     yearFounded: "2021",
     technicalMedicalDirector: "Markus Barcellos de Albuquerque",
     complexityLevel: "Alta complexidade",
-    specialties: "Integrado ao Hospital Adventista de Belém",
-    beds: "Integrado ao Hospital Adventista de Belém",
-    employees: "Integrado ao Hospital Adventista de Belém",
+    specialties:
+      "Clínico Geral, Pediatria, Ortopedia, Ginecologia, Obstetrícia, Urologia, Geriatria, Cardiologia, Cirurgia Geral, Gastrologia, Proctologia, Cirurgia Vascular, Otorrinolaringologia, Oftalmologia, Neurocirurgia, Bucomaxilo. Serviços: Pronto Atendimento Infantil e Adulto, Internação, Consultórios Médicos, Laboratório de Análises Clínicas, Diagnóstico por Imagem (Raio X, Tomografia, Mamografia, Ressonância Magnética, Ultrassonografia, Ecocardiograma, MAPA, Holter, Teste Ergométrico, ECG, EEG, Endoscopia, Colonoscopia, Retosigmoidoscopia)",
+    beds: "12 (4 apartamentos + 2 enfermaria adulta + 6 enfermaria infantil)",
+    employees: "180",
     website: PLACEHOLDER,
     socialMedia: PLACEHOLDER,
     socialProjects: PLACEHOLDER,
