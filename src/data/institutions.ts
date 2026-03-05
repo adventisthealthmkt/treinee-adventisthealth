@@ -7,6 +7,7 @@ export interface Institution {
   technicalMedicalDirector: string;
   complexityLevel: string;
   specialties: string;
+  services?: string;
   beds: string;
   employees: string;
   website: string;
@@ -25,8 +26,8 @@ export const hospitals: Institution[] = [
     yearFounded: "1953",
     technicalMedicalDirector: "Markus Barcellos de Albuquerque",
     complexityLevel: "Alta complexidade",
-    specialties:
-      "42 especialidades; emergência, cirurgia, internação, exames diagnósticos e tratamento de doenças crônicas",
+    specialties: "42 especialidades",
+    services: "Emergência, cirurgia, internação, exames diagnósticos e tratamento de doenças crônicas",
     beds: "190",
     employees: "1.650",
     website: "https://www.hab.org.br/",
@@ -43,7 +44,8 @@ export const hospitals: Institution[] = [
     technicalMedicalDirector: "Markus Barcellos de Albuquerque",
     complexityLevel: "Alta complexidade",
     specialties:
-      "Clínico Geral, Pediatria, Ortopedia, Ginecologia, Obstetrícia, Urologia, Geriatria, Cardiologia, Cirurgia Geral, Gastrologia, Proctologia, Cirurgia Vascular, Otorrinolaringologia, Oftalmologia, Neurocirurgia, Bucomaxilo. Serviços: Pronto Atendimento Infantil e Adulto, Internação, Consultórios Médicos, Laboratório de Análises Clínicas, Diagnóstico por Imagem (Raio X, Tomografia, Mamografia, Ressonância Magnética, Ultrassonografia, Ecocardiograma, MAPA, Holter, Teste Ergométrico, ECG, EEG, Endoscopia, Colonoscopia, Retosigmoidoscopia)",
+      "Clínico Geral, Pediatria, Ortopedia, Ginecologia, Obstetrícia, Urologia, Geriatria, Cardiologia, Cirurgia Geral, Gastrologia, Proctologia, Cirurgia Vascular, Otorrinolaringologia, Oftalmologia, Neurocirurgia, Bucomaxilo",
+    services: "Pronto Atendimento Infantil e Adulto, Internação, Consultórios Médicos, Laboratório de Análises Clínicas, Diagnóstico por Imagem (Raio X, Tomografia, Mamografia, Ressonância Magnética, Ultrassonografia, Ecocardiograma, MAPA, Holter, Teste Ergométrico, ECG, EEG, Endoscopia, Colonoscopia, Retosigmoidoscopia)",
     beds: "12 (4 apartamentos + 2 enfermaria adulta + 6 enfermaria infantil)",
     employees: "180",
     website: PLACEHOLDER,
@@ -58,8 +60,8 @@ export const hospitals: Institution[] = [
     yearFounded: "1950",
     technicalMedicalDirector: "Karin Kiefer Martins",
     complexityLevel: "Alta complexidade",
-    specialties:
-      "26 especialidades; clínica médica, obstetrícia, cirurgias ginecológicas, ortopédicas, vasculares, plásticas e gerais; transplantes de fígado e córneas",
+    specialties: "26 especialidades",
+    services: "Clínica médica, obstetrícia, cirurgias ginecológicas, ortopédicas, vasculares, plásticas e gerais; transplantes de fígado e córneas",
     beds: "136 (106 internação + 30 UTI)",
     employees: "700",
     website: PLACEHOLDER,
@@ -74,8 +76,8 @@ export const hospitals: Institution[] = [
     yearFounded: "1978",
     technicalMedicalDirector: "Francisco Mateus João",
     complexityLevel: "Alta complexidade",
-    specialties:
-      "45 especialidades; centro cirúrgico, hemodinâmica, oncologia, diagnóstico por imagem, análises clínicas",
+    specialties: "45 especialidades",
+    services: "Centro cirúrgico, hemodinâmica, oncologia, diagnóstico por imagem, análises clínicas",
     beds: "160",
     employees: "1.577",
     website: PLACEHOLDER,
@@ -90,7 +92,8 @@ export const hospitals: Institution[] = [
     yearFounded: "1942",
     technicalMedicalDirector: "Douglas Charpinel",
     complexityLevel: "Alta complexidade",
-    specialties: "32 especialidades; centro cirúrgico, UTI, diagnóstico",
+    specialties: "32 especialidades",
+    services: "Centro cirúrgico, UTI, diagnóstico",
     beds: "105",
     employees: "540",
     website: PLACEHOLDER,
@@ -105,7 +108,8 @@ export const hospitals: Institution[] = [
     yearFounded: "1942",
     technicalMedicalDirector: "Ranieri Carvalho Leitão",
     complexityLevel: "Alta complexidade",
-    specialties: "47 especialidades; centros médicos, medicina diagnóstica e laboratórios",
+    specialties: "47 especialidades",
+    services: "Centros médicos, medicina diagnóstica e laboratórios",
     beds: "95",
     employees: "1.054",
     website: PLACEHOLDER,
@@ -121,7 +125,8 @@ export const hospitals: Institution[] = [
     technicalMedicalDirector: "Guillermo Alberto Siado Camargo",
     complexityLevel: "Alta complexidade — Reconhecimentos: Top Performer e UTI Eficiente (2023 e 2024)",
     specialties:
-      "Anestesiologia, Cardiologia, Cirurgia Geral, Cirurgia Torácica, Cirurgia Oncológica, Dermatologia, Endocrinologia, Gastroenterologia, Hematologia, Neurologia, Neurocirurgia, Cirurgia e Traumatologia Bucomaxilofacial, Oftalmologia, Psicologia, Psiquiatria, Ortopedia e Traumatologia, Medicina Intensiva, Urologia, Cirurgia Bariátrica, Fisioterapia, Otorrinolaringologia, Nefrologia. 2 salas cirúrgicas.",
+      "Anestesiologia, Cardiologia, Cirurgia Geral, Cirurgia Torácica, Cirurgia Oncológica, Dermatologia, Endocrinologia, Gastroenterologia, Hematologia, Neurologia, Neurocirurgia, Cirurgia e Traumatologia Bucomaxilofacial, Oftalmologia, Psicologia, Psiquiatria, Ortopedia e Traumatologia, Medicina Intensiva, Urologia, Cirurgia Bariátrica, Fisioterapia, Otorrinolaringologia, Nefrologia",
+    services: "2 salas cirúrgicas, UTI, internação",
     beds: "20 (8 UTI + 12 internação)",
     employees: "110",
     website: PLACEHOLDER,
@@ -250,7 +255,8 @@ export const medicalSpas: Institution[] = [
     yearFounded: PLACEHOLDER,
     technicalMedicalDirector: "Luana das Graças de Oliveira",
     complexityLevel: "Medicina do estilo de vida e reabilitação",
-    specialties: "Hidroterapia, fisioterapia, terapias naturais, massoterapia, pilates, atividade física assistida",
+    specialties: "Medicina do estilo de vida e reabilitação",
+    services: "Hidroterapia, fisioterapia, terapias naturais, massoterapia, pilates, atividade física assistida",
     beds: "40 quartos",
     employees: PLACEHOLDER,
     website: PLACEHOLDER,
@@ -265,7 +271,8 @@ export const medicalSpas: Institution[] = [
     yearFounded: PLACEHOLDER,
     technicalMedicalDirector: "Januário de Farias",
     complexityLevel: "Medicina do estilo de vida e reabilitação",
-    specialties: "Hidroterapia, massoterapia, estética terapêutica, atividade física assistida",
+    specialties: "Medicina do estilo de vida e reabilitação",
+    services: "Hidroterapia, massoterapia, estética terapêutica, atividade física assistida",
     beds: "10 quartos",
     employees: PLACEHOLDER,
     website: PLACEHOLDER,
