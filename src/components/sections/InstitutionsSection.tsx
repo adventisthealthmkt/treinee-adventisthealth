@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Building2, Stethoscope, Heart, Leaf, MapPin, Calendar, Users, Bed } from "lucide-react";
+import { Building2, Stethoscope, Heart, Leaf, MapPin, Calendar, Users, Bed, Briefcase } from "lucide-react";
 import { hospitals, medicalCenters, clinics, medicalSpas, type Institution } from "@/data/institutions";
 
 const tabs = [
@@ -59,10 +59,23 @@ const InstitutionCard = ({ institution }: { institution: Institution }) => {
 
       {/* Specialties */}
       {!isPlaceholder(institution.specialties) && (
-        <div className="mb-4">
+        <div className="mb-3">
           <p className="text-xs text-muted-foreground mb-1">Especialidades</p>
           <p className="text-sm text-foreground leading-relaxed">
             {institution.specialties}
+          </p>
+        </div>
+      )}
+
+      {/* Services */}
+      {institution.services && !isPlaceholder(institution.services) && (
+        <div className="mb-4">
+          <div className="flex items-center gap-1.5 mb-1">
+            <Briefcase className="w-3.5 h-3.5 text-primary" />
+            <p className="text-xs text-muted-foreground">Serviços</p>
+          </div>
+          <p className="text-sm text-foreground leading-relaxed">
+            {institution.services}
           </p>
         </div>
       )}
