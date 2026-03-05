@@ -67,7 +67,7 @@ const ObjectivesSection = () => {
           <span className="inline-block px-4 py-1.5 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
             Direcionamento Estratégico
           </span>
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-4">7 Perspectivas Estratégicas
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-4">Objetivos Estratégicos
 
           </h2>
           <p className="text-lg text-muted-foreground">
