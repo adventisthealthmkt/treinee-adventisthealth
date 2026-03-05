@@ -1,14 +1,14 @@
 import { Target, Eye, Heart, Sparkles, Shield, Users, Leaf, HandHeart } from "lucide-react";
 
 const values = [
-  { icon: Heart, label: "Amor a Deus e ao próximo" },
-  { icon: Shield, label: "Respeito aos princípios bíblicos" },
-  { icon: Sparkles, label: "Integridade, ética e transparência" },
-  { icon: Target, label: "Excelência em servir" },
-  { icon: HandHeart, label: "Acolhimento, cuidado e compaixão" },
-  { icon: Users, label: "Competência técnica com inovação" },
-  { icon: Leaf, label: "Sustentabilidade integral" },
-];
+{ icon: Heart, label: "Amor a Deus e ao próximo" },
+{ icon: Shield, label: "Respeito aos princípios bíblicos" },
+{ icon: Sparkles, label: "Integridade, ética e transparência" },
+{ icon: Target, label: "Excelência em servir" },
+{ icon: HandHeart, label: "Acolhimento, cuidado e compaixão" },
+{ icon: Users, label: "Competência técnica com inovação" },
+{ icon: Leaf, label: "Sustentabilidade integral" }];
+
 
 const AboutSection = () => {
   return (
@@ -22,8 +22,8 @@ const AboutSection = () => {
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-4">
             Sobre a Adventist Health Brasil
           </h2>
-          <p className="text-lg text-muted-foreground">
-            Uma tradição centenária de cuidado com a vida
+          <p className="text-lg text-muted-foreground">Uma longa tradição de cuidado com a vida
+
           </p>
         </div>
 
@@ -64,15 +64,15 @@ const AboutSection = () => {
             Nossos Valores
           </h3>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {values.map((value, index) => (
-              <div
-                key={index}
-                className="flex items-center gap-3 p-4 rounded-xl bg-accent/50 hover:bg-accent transition-colors"
-              >
+            {values.map((value, index) =>
+            <div
+              key={index}
+              className="flex items-center gap-3 p-4 rounded-xl bg-accent/50 hover:bg-accent transition-colors">
+              
                 <value.icon className="w-5 h-5 text-primary flex-shrink-0" />
                 <span className="text-sm font-medium text-foreground">{value.label}</span>
               </div>
-            ))}
+            )}
           </div>
         </div>
 
@@ -88,8 +88,8 @@ const AboutSection = () => {
           </p>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default AboutSection;
