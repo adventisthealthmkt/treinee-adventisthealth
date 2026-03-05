@@ -14,47 +14,47 @@ const objectives = [
 {
   icon: Users,
   title: "Desenvolvimento e Retenção de Talentos",
-  description: "Formação contínua e valorização dos profissionais da rede"
+  description: "Promover a atração, desenvolvimento e retenção de talentos dos colaboradores e corpo clínico."
 },
 {
   icon: Settings,
   title: "Eficiência Operacional",
-  description: "Processos assistenciais e administrativos de excelência"
+  description: "Aprimorar a eficiência dos processos assistenciais e administrativos."
 },
 {
   icon: Shield,
   title: "Governança e Conformidade",
-  description: "Fortalecimento regulatório e práticas de compliance"
+  description: "Implementar certificações nacionais e internacionais de acordo com a estratégia para cada unidade."
 },
 {
   icon: Leaf,
   title: "Sustentabilidade Ambiental",
-  description: "Compromisso com práticas sustentáveis e meio ambiente"
+  description: "Reduzir o impacto ambiental das operações por meio de práticas sustentáveis."
 },
 {
   icon: Heart,
   title: "Experiência do Paciente",
-  description: "Cuidado centrado no paciente e fortalecimento da marca"
+  description: "Melhorar a experiência e a satisfação dos clientes e mercado, gerando valor com ênfase na saúde integral."
 },
 {
   icon: TrendingUp,
   title: "Sustentabilidade Financeira",
-  description: "Gestão responsável e viabilidade econômica de longo prazo"
+  description: "Garantir a sustentabilidade financeira por meio da gestão de custos e do aumento de receitas."
 },
 {
   icon: GraduationCap,
   title: "Educação e Impacto Social",
-  description: "Promoção da saúde e parcerias educacionais"
+  description: "Engajar a comunidade em programas de prevenção de doenças, hábitos saudáveis e de assistência social em parceria com entidades públicas e privadas."
 },
 {
   icon: HandHeart,
   title: "Filantropia e Assistência",
-  description: "Compromisso social e atuação filantrópica"
+  description: "Fortalecer iniciativas e cumprir os requisitos de filantropia."
 },
 {
   icon: Sparkles,
   title: "Dimensão Espiritual",
-  description: "Integração do cuidado espiritual na assistência"
+  description: "Promover o cumprimento da missão, visão e valores em todos os níveis institucionais, atendendo às necessidades espirituais dos colaboradores, pacientes e beneficiários."
 }];
 
 
