@@ -79,12 +79,12 @@ const AboutSection = () => {
         {/* History */}
         <div className="mt-12 max-w-4xl mx-auto text-center">
           <h3 className="text-xl font-semibold text-foreground mb-4">Nossa História</h3>
-          <p className="text-muted-foreground leading-relaxed">
-            A Adventist Health Brasil integra uma tradição centenária da Igreja Adventista do Sétimo Dia 
-            no cuidado com a vida. Ao longo das décadas, a rede expandiu sua atuação no Brasil, 
-            consolidando hospitais, centros médicos, clínicas e spas médicos comprometidos com 
-            excelência assistencial, missão cristã, formação profissional e contribuição social, 
-            atuando de forma integrada com instituições educacionais no Brasil e no exterior.
+          <p className="text-muted-foreground leading-relaxed">A Adventist Health Brasil integra uma longa tradição da Igreja Adventista do Sétimo Dia no cuidado com a vida. Ao longo das décadas, a rede expandiu sua atuação no Brasil, consolidando hospitais, centros médicos, clínicas e spas médicos comprometidos com excelência na assistência médico-hospitalar, princípios cristãos, formação que integra fé e ciência e contribuição social, atuando de forma conjunta com instituições educacionais no Brasil e no exterior.
+
+
+
+
+
           </p>
         </div>
       </div>
