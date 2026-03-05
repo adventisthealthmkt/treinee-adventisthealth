@@ -12,9 +12,9 @@ const HeroSection = () => {
         <div className="max-w-4xl flex flex-col items-center text-center">
           {/* Badge */}
           <div className="inline-flex items-center px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-primary-foreground/10 border border-primary-foreground/20 mb-4 md:mb-8 animate-fade-in mx-auto">
-            <span className="text-xs md:text-sm font-medium text-primary-foreground">
-              Rede de Saúde Adventista no Brasil
-            </span>
+            <span className="text-xs md:text-sm font-medium text-primary-foreground">Rede de instituições adventistas de saúde no Brasil
+
+          </span>
           </div>
 
           {/* Main Title */}
