@@ -34,7 +34,7 @@ const ClosingSection = () => {
           <div className="mt-8 text-center">
             <p className="text-sm mb-4 text-primary font-bold">Instituições parceiras:</p>
             <div className="flex flex-wrap justify-center gap-3">
-              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENE"].map(inst => <span key={inst} className="px-4 py-2 rounded-full bg-accent text-accent-foreground text-sm font-medium">
+              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENE", "FADMINAS"].map(inst => <span key={inst} className="px-4 py-2 rounded-full bg-accent text-accent-foreground text-sm font-medium">
                   {inst}
                 </span>)}
               <span className="px-4 py-2 rounded-full bg-muted text-muted-foreground text-sm">
