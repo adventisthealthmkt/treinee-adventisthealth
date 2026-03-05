@@ -46,7 +46,7 @@ export const hospitals: Institution[] = [
     specialties:
       "Clínico Geral, Pediatria, Ortopedia, Ginecologia, Obstetrícia, Urologia, Geriatria, Cardiologia, Cirurgia Geral, Gastrologia, Proctologia, Cirurgia Vascular, Otorrinolaringologia, Oftalmologia, Neurocirurgia, Bucomaxilo",
     services: "Pronto Atendimento Infantil e Adulto, Internação, Consultórios Médicos, Laboratório de Análises Clínicas, Diagnóstico por Imagem (Raio X, Tomografia, Mamografia, Ressonância Magnética, Ultrassonografia, Ecocardiograma, MAPA, Holter, Teste Ergométrico, ECG, EEG, Endoscopia, Colonoscopia, Retosigmoidoscopia)",
-    beds: "12 (4 apartamentos + 2 enfermaria adulta + 6 enfermaria infantil)",
+    beds: "12",
     employees: "180",
     website: PLACEHOLDER,
     socialMedia: PLACEHOLDER,
