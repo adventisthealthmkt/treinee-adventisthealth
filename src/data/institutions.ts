@@ -121,7 +121,7 @@ export const hospitals: Institution[] = [
     technicalMedicalDirector: "Guillermo Alberto Siado Camargo",
     complexityLevel: "Alta complexidade — Reconhecimentos: Top Performer e UTI Eficiente (2023 e 2024)",
     specialties:
-      "Anestesiologia, Cardiologia, Cirurgia Geral, Cirurgia Torácica, Cirurgia Oncológica, Dermatologia, Endocrinologia, Gastroenterologia, Hematologia, Neurologia, Neurocirurgia, Cirurgia e Traumatologia Bucomaxilofacial, Oftalmologia, Psicologia, Psiquiatria, Ortopedia e Traumatologia, Medicina Intensiva, Urologia, Cirurgia Bariátrica, Fisioterapia, Otorrinolaringologia, Nefrologia. 2 salas cirúrgicas. Área construída: 2.300 m²",
+      "Anestesiologia, Cardiologia, Cirurgia Geral, Cirurgia Torácica, Cirurgia Oncológica, Dermatologia, Endocrinologia, Gastroenterologia, Hematologia, Neurologia, Neurocirurgia, Cirurgia e Traumatologia Bucomaxilofacial, Oftalmologia, Psicologia, Psiquiatria, Ortopedia e Traumatologia, Medicina Intensiva, Urologia, Cirurgia Bariátrica, Fisioterapia, Otorrinolaringologia, Nefrologia. 2 salas cirúrgicas.",
     beds: "20 (8 UTI + 12 internação)",
     employees: "110",
     website: PLACEHOLDER,
