@@ -3,6 +3,7 @@ import Footer from "@/components/layout/Footer";
 import HeroSection from "@/components/sections/HeroSection";
 import AboutSection from "@/components/sections/AboutSection";
 import ObjectivesSection from "@/components/sections/ObjectivesSection";
+import EcosystemSection from "@/components/sections/EcosystemSection";
 import NetworkMapSection from "@/components/sections/NetworkMapSection";
 import InstitutionsSection from "@/components/sections/InstitutionsSection";
 import ClosingSection from "@/components/sections/ClosingSection";
@@ -16,6 +17,7 @@ const Index = () => {
         <HeroSection />
         <AboutSection />
         <ObjectivesSection />
+        <EcosystemSection />
         <NetworkMapSection />
         <InstitutionsSection />
         <ClosingSection />
