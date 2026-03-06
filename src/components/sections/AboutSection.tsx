@@ -80,7 +80,7 @@ const AboutSection = () => {
         <div className="mt-8 md:mt-12 max-w-4xl mx-auto text-center">
           <h3 className="text-lg md:text-xl font-semibold text-foreground mb-3 md:mb-4">Nossa História</h3>
           <p className="text-sm md:text-base text-muted-foreground leading-relaxed">
-            A Adventist Health Brasil integra uma longa tradição da Igreja Adventista do Sétimo Dia no cuidado com a vida. Ao longo das décadas, a rede expandiu sua atuação no Brasil, consolidando hospitais, centros médicos, clínicas e spas médicos comprometidos com excelência na assistência médico-hospitalar, princípios cristãos, formação que integra fé e ciência e contribuição social, atuando de forma conjunta com instituições educacionais no Brasil e no exterior.
+            A Adventist Health Brasil integra uma longa tradição da Igreja Adventista do Sétimo Dia no cuidado com a vida. Ao longo das décadas, a rede expandiu sua atuação no Brasil, consolidando hospitais, centros médicos, clínicas e spas médicos comprometidos com excelência na assistência médico-hospitalar, princípios cristãos, formação que integra fé, ciência e contribuição social, atuando de forma conjunta com instituições educacionais no Brasil e no exterior.
           </p>
         </div>
       </div>
