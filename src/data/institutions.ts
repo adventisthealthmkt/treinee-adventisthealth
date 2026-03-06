@@ -283,7 +283,7 @@ export const medicalSpas: Institution[] = [
     city: PLACEHOLDER,
     state: PLACEHOLDER,
     yearFounded: PLACEHOLDER,
-    technicalMedicalDirector: "Januário de Farias",
+    technicalMedicalDirector: "Jose Januário de Farias Neto",
     crm: "CRM 14107/MS",
     complexityLevel: "Medicina do estilo de vida e reabilitação",
     specialties: "Medicina do estilo de vida e reabilitação",
