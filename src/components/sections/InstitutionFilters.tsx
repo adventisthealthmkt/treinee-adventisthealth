@@ -17,7 +17,6 @@ const parseList = (value: string): string[] =>
 export interface Filters {
   state: string;
   specialty: string;
-  service: string;
 }
 
 interface Props {
@@ -27,31 +26,26 @@ interface Props {
 }
 
 const InstitutionFilters = ({ filters, onFiltersChange, activeTab }: Props) => {
-  const { states, specialties, services } = useMemo(() => {
+  const { states, specialties } = useMemo(() => {
     const statesSet = new Set<string>();
     const specialtiesSet = new Set<string>();
-    const servicesSet = new Set<string>();
 
     allInstitutions.forEach((inst) => {
       if (inst.state && inst.state !== PLACEHOLDER) statesSet.add(inst.state);
       if (inst.specialties && inst.specialties !== PLACEHOLDER) {
         parseList(inst.specialties).forEach((s) => specialtiesSet.add(s));
       }
-      if (inst.services && inst.services !== PLACEHOLDER) {
-        parseList(inst.services).forEach((s) => servicesSet.add(s));
-      }
     });
 
     return {
       states: Array.from(statesSet).sort(),
       specialties: Array.from(specialtiesSet).sort(),
-      services: Array.from(servicesSet).sort(),
     };
   }, []);
 
-  const hasActiveFilters = filters.state || filters.specialty || filters.service;
+  const hasActiveFilters = filters.state || filters.specialty;
 
-  const clearFilters = () => onFiltersChange({ state: "", specialty: "", service: "" });
+  const clearFilters = () => onFiltersChange({ state: "", specialty: "" });
 
   return (
     <div className="mb-8">
@@ -68,7 +62,7 @@ const InstitutionFilters = ({ filters, onFiltersChange, activeTab }: Props) => {
           </button>
         )}
       </div>
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
         <Select
           value={filters.state}
           onValueChange={(v) => onFiltersChange({ ...filters, state: v === "all" ? "" : v })}
@@ -99,20 +93,6 @@ const InstitutionFilters = ({ filters, onFiltersChange, activeTab }: Props) => {
           </SelectContent>
         </Select>
 
-        <Select
-          value={filters.service}
-          onValueChange={(v) => onFiltersChange({ ...filters, service: v === "all" ? "" : v })}
-        >
-          <SelectTrigger className="bg-card">
-            <SelectValue placeholder="Serviço" />
-          </SelectTrigger>
-          <SelectContent>
-            <SelectItem value="all">Todos os serviços</SelectItem>
-            {services.map((s) => (
-              <SelectItem key={s} value={s}>{s}</SelectItem>
-            ))}
-          </SelectContent>
-        </Select>
       </div>
     </div>
   );
