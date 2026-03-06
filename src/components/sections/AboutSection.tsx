@@ -63,7 +63,7 @@ const AboutSection = () => {
           <h3 className="text-lg md:text-xl font-semibold text-foreground mb-4 md:mb-6 text-center">
             Nossos Valores
           </h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4">
+          <div className="flex flex-wrap justify-center gap-3 md:gap-4">
             {values.map((value, index) => (
               <div
                 key={index}
