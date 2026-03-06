@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Hide Google Translate toolbar */
+.goog-te-banner-frame, .skiptranslate, #goog-gt-tt { display: none !important; }
+body { top: 0 !important; }
+
 /* Adventist Health Brasil - Design System
    Primary: #00558c (Institutional Blue)
    All colors in HSL format
