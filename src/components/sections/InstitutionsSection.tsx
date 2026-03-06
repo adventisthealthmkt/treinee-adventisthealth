@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Building2, Stethoscope, Heart, Leaf, MapPin, Calendar, Users, Bed, Briefcase } from "lucide-react";
 import { hospitals, medicalCenters, clinics, medicalSpas, type Institution } from "@/data/institutions";
+import { institutionImages } from "@/data/institutionImages";
 
 const tabs = [
   { id: "hospitals", label: "Hospitais", icon: Building2, data: hospitals },
@@ -14,9 +15,20 @@ const PLACEHOLDER = "Informação institucional em atualização";
 const InstitutionCard = ({ institution }: { institution: Institution }) => {
   const isPlaceholder = (value: string) => value === PLACEHOLDER || value === "N/A";
 
+  const image = institutionImages[institution.name];
+
   return (
-    <div className="card-institutional">
-      {/* Header */}
+    <div className="card-institutional overflow-hidden">
+      {/* Image */}
+      {image && (
+        <div className="-mx-6 -mt-6 mb-4">
+          <img
+            src={image}
+            alt={institution.name}
+            className="w-full h-48 object-cover"
+          />
+        </div>
+      )}
       <div className="flex items-start justify-between mb-4">
         <div>
           <h3 className="font-semibold text-lg text-foreground mb-1">

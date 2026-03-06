@@ -13,6 +13,7 @@ export interface Institution {
   website: string;
   socialMedia: string;
   socialProjects: string;
+  image?: string;
 }
 
 const PLACEHOLDER = "Informação institucional em atualização";
