@@ -6,8 +6,8 @@ const values = [
   { icon: Sparkles, label: "Integridade, ética e transparência" },
   { icon: Target, label: "Excelência em servir" },
   { icon: HandHeart, label: "Acolhimento, cuidado e compaixão" },
-  { icon: Users, label: "Competência técnica com inovação" },
-  { icon: Leaf, label: "Sustentabilidade integral" },
+  { icon: Users, label: "Competência técnica com criatividade e inovação" },
+  { icon: Leaf, label: "Sustentabilidade financeira, social e ambiental" },
 ];
 
 const AboutSection = () => {
