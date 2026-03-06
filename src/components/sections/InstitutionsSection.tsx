@@ -19,7 +19,7 @@ const parseList = (value: string): string[] =>
 
 const InstitutionsSection = () => {
   const [activeTab, setActiveTab] = useState("hospitals");
-  const [filters, setFilters] = useState<Filters>({ state: "", specialty: "", service: "" });
+  const [filters, setFilters] = useState<Filters>({ state: "", specialty: "" });
   const isMobile = useIsMobile();
   const [carouselIndex, setCarouselIndex] = useState(0);
   const touchStartX = useRef(0);
@@ -34,11 +34,6 @@ const InstitutionsSection = () => {
         if (inst.specialties === PLACEHOLDER) return false;
         const list = parseList(inst.specialties);
         if (!list.includes(filters.specialty)) return false;
-      }
-      if (filters.service) {
-        if (!inst.services || inst.services === PLACEHOLDER) return false;
-        const list = parseList(inst.services);
-        if (!list.includes(filters.service)) return false;
       }
       return true;
     });
