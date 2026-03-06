@@ -182,12 +182,12 @@ const InstitutionsSection = () => {
         </div>
 
         {/* Tabs */}
-        <div className="flex flex-wrap justify-center gap-2 mb-10">
+        <div className="flex md:flex-wrap md:justify-center gap-2 mb-10 overflow-x-auto pb-2 -mx-4 px-4 md:mx-0 md:px-0 scrollbar-hide snap-x snap-mandatory">
           {tabs.map((tab) => (
             <button
               key={tab.id}
               onClick={() => handleTabChange(tab.id)}
-              className={`inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all ${
+              className={`inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all whitespace-nowrap snap-start flex-shrink-0 ${
                 activeTab === tab.id
                   ? "bg-primary text-primary-foreground shadow-md"
                   : "bg-card text-muted-foreground hover:bg-accent hover:text-accent-foreground border border-border"
