@@ -1,6 +1,8 @@
 import {
-  Users, Settings, Shield, Leaf, Heart, TrendingUp, GraduationCap, HandHeart, Sparkles,
+  Users, Settings, Shield, Leaf, Heart, TrendingUp, GraduationCap, HandHeart, Sparkles, ChevronLeft, ChevronRight,
 } from "lucide-react";
+import { useState, useRef, useCallback } from "react";
+import { useIsMobile } from "@/hooks/use-mobile";
 
 const objectives = [
   {
@@ -51,6 +53,29 @@ const objectives = [
 ];
 
 const ObjectivesSection = () => {
+  const isMobile = useIsMobile();
+  const [carouselIndex, setCarouselIndex] = useState(0);
+  const touchStartX = useRef(0);
+  const touchEndX = useRef(0);
+
+  const goTo = useCallback((index: number) => {
+    setCarouselIndex(Math.max(0, Math.min(index, objectives.length - 1)));
+  }, []);
+
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartX.current = e.touches[0].clientX;
+  };
+  const handleTouchMove = (e: React.TouchEvent) => {
+    touchEndX.current = e.touches[0].clientX;
+  };
+  const handleTouchEnd = () => {
+    const diff = touchStartX.current - touchEndX.current;
+    if (Math.abs(diff) > 50) {
+      if (diff > 0) goTo(carouselIndex + 1);
+      else goTo(carouselIndex - 1);
+    }
+  };
+
   return (
     <section id="objetivos" className="section-padding gradient-section">
       <div className="section-container">
@@ -67,30 +92,96 @@ const ObjectivesSection = () => {
           </p>
         </div>
 
-        {/* Objectives Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
-          {objectives.map((objective, index) => (
+        {/* Mobile: Carousel */}
+        {isMobile ? (
+          <div>
             <div
-              key={index}
-              className="card-institutional group"
-              style={{ animationDelay: `${index * 0.05}s` }}
+              className="overflow-hidden"
+              onTouchStart={handleTouchStart}
+              onTouchMove={handleTouchMove}
+              onTouchEnd={handleTouchEnd}
             >
-              <div className="flex items-start gap-3 md:gap-4">
-                <div className="w-10 h-10 md:w-12 md:h-12 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0 group-hover:bg-primary/20 transition-colors">
-                  <objective.icon className="w-5 h-5 md:w-6 md:h-6 text-primary" />
-                </div>
-                <div>
-                  <h3 className="font-semibold text-foreground mb-1.5 md:mb-2 text-sm md:text-base">
-                    {objective.title}
-                  </h3>
-                  <p className="text-xs md:text-sm text-muted-foreground leading-relaxed">
-                    {objective.description}
-                  </p>
-                </div>
+              <div
+                className="flex transition-transform duration-300 ease-out"
+                style={{ transform: `translateX(-${carouselIndex * 100}%)` }}
+              >
+                {objectives.map((objective, index) => (
+                  <div key={index} className="w-full flex-shrink-0 px-1">
+                    <div className="card-institutional group">
+                      <div className="flex items-start gap-3">
+                        <div className="w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0 group-hover:bg-primary/20 transition-colors">
+                          <objective.icon className="w-5 h-5 text-primary" />
+                        </div>
+                        <div>
+                          <h3 className="font-semibold text-foreground mb-1.5 text-sm">
+                            {objective.title}
+                          </h3>
+                          <p className="text-xs text-muted-foreground leading-relaxed">
+                            {objective.description}
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                ))}
               </div>
             </div>
-          ))}
-        </div>
+
+            {/* Carousel controls */}
+            <div className="flex items-center justify-center gap-4 mt-6">
+              <button
+                onClick={() => goTo(carouselIndex - 1)}
+                disabled={carouselIndex === 0}
+                className="p-2 rounded-full bg-card border border-border text-foreground disabled:opacity-30 transition-opacity"
+              >
+                <ChevronLeft className="w-5 h-5" />
+              </button>
+              <div className="flex gap-1.5">
+                {objectives.map((_, i) => (
+                  <button
+                    key={i}
+                    onClick={() => goTo(i)}
+                    className={`w-2 h-2 rounded-full transition-all ${
+                      i === carouselIndex ? "bg-primary w-6" : "bg-border"
+                    }`}
+                  />
+                ))}
+              </div>
+              <button
+                onClick={() => goTo(carouselIndex + 1)}
+                disabled={carouselIndex === objectives.length - 1}
+                className="p-2 rounded-full bg-card border border-border text-foreground disabled:opacity-30 transition-opacity"
+              >
+                <ChevronRight className="w-5 h-5" />
+              </button>
+            </div>
+          </div>
+        ) : (
+          /* Desktop: Grid */
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
+            {objectives.map((objective, index) => (
+              <div
+                key={index}
+                className="card-institutional group"
+                style={{ animationDelay: `${index * 0.05}s` }}
+              >
+                <div className="flex items-start gap-3 md:gap-4">
+                  <div className="w-10 h-10 md:w-12 md:h-12 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0 group-hover:bg-primary/20 transition-colors">
+                    <objective.icon className="w-5 h-5 md:w-6 md:h-6 text-primary" />
+                  </div>
+                  <div>
+                    <h3 className="font-semibold text-foreground mb-1.5 md:mb-2 text-sm md:text-base">
+                      {objective.title}
+                    </h3>
+                    <p className="text-xs md:text-sm text-muted-foreground leading-relaxed">
+                      {objective.description}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
       </div>
     </section>
   );
