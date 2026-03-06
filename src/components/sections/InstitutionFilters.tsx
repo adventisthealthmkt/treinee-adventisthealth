@@ -26,7 +26,7 @@ interface Props {
 }
 
 const InstitutionFilters = ({ filters, onFiltersChange, activeTab }: Props) => {
-  const { states, specialties, services } = useMemo(() => {
+  const { states, specialties } = useMemo(() => {
     const statesSet = new Set<string>();
     const specialtiesSet = new Set<string>();
 
