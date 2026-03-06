@@ -81,7 +81,7 @@ const Header = () => {
 
       {/* Mobile Navigation - Full screen overlay */}
       {isMenuOpen && (
-        <div className="md:hidden fixed inset-0 top-14 bg-card/98 backdrop-blur-lg z-40 animate-fade-in">
+        <div className="md:hidden fixed inset-0 top-14 bg-card z-40 animate-fade-in overflow-y-auto">
           <nav className="flex flex-col p-6 gap-1">
             {navLinks.map((link) => (
               <a
