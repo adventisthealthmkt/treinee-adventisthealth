@@ -1,8 +1,11 @@
-import { useState, useRef, useCallback } from "react";
-import { Building2, Stethoscope, Heart, Leaf, MapPin, Calendar, Users, Bed, Briefcase, ChevronDown, ChevronLeft, ChevronRight } from "lucide-react";
+import { useState, useRef, useCallback, useMemo } from "react";
+import { Building2, Stethoscope, Heart, Leaf, ChevronLeft, ChevronRight } from "lucide-react";
 import { hospitals, medicalCenters, clinics, medicalSpas, type Institution } from "@/data/institutions";
-import { institutionImages } from "@/data/institutionImages";
 import { useIsMobile } from "@/hooks/use-mobile";
+import InstitutionCard from "./InstitutionCard";
+import InstitutionFilters, { type Filters } from "./InstitutionFilters";
+
+const PLACEHOLDER = "Informação institucional em atualização";
 
 const tabs = [
   { id: "hospitals", label: "Hospitais", icon: Building2, data: hospitals },
@@ -11,135 +14,35 @@ const tabs = [
   { id: "spas", label: "Spas Médicos", icon: Leaf, data: medicalSpas },
 ];
 
-const PLACEHOLDER = "Informação institucional em atualização";
-
-const InstitutionCard = ({ institution }: { institution: Institution }) => {
-  const [expanded, setExpanded] = useState(false);
-  const isPlaceholder = (value: string) => value === PLACEHOLDER || value === "N/A";
-  const image = institutionImages[institution.name];
-
-  return (
-    <div className="card-institutional overflow-hidden flex-shrink-0 w-full">
-      {/* Image */}
-      {image && (
-        <div className="-mx-5 -mt-5 mb-4 md:-mx-8 md:-mt-8">
-          <img
-            src={image}
-            alt={institution.name}
-            className="w-full h-48 object-cover"
-          />
-        </div>
-      )}
-
-      {/* Header */}
-      <div className="flex items-start justify-between mb-4">
-        <div>
-          <h3 className="font-semibold text-lg text-foreground mb-1">
-            {institution.name}
-          </h3>
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <MapPin className="w-4 h-4" />
-            <span>{institution.city}, {institution.state}</span>
-          </div>
-        </div>
-        {!isPlaceholder(institution.yearFounded) && (
-          <div className="flex items-center gap-1.5 px-3 py-1 rounded-full bg-accent text-accent-foreground text-xs font-medium">
-            <Calendar className="w-3 h-3" />
-            {institution.yearFounded}
-          </div>
-        )}
-      </div>
-
-      {/* Details Grid - always visible */}
-      <div className="grid grid-cols-2 gap-4 mb-4">
-        {!isPlaceholder(institution.beds) && (
-          <div className="flex items-center gap-2">
-            <Bed className="w-4 h-4 text-primary" />
-            <div>
-              <p className="text-xs text-muted-foreground">Leitos</p>
-              <p className="text-sm font-medium text-foreground">{institution.beds}</p>
-            </div>
-          </div>
-        )}
-        {!isPlaceholder(institution.employees) && (
-          <div className="flex items-center gap-2">
-            <Users className="w-4 h-4 text-primary" />
-            <div>
-              <p className="text-xs text-muted-foreground">Colaboradores</p>
-              <p className="text-sm font-medium text-foreground">{institution.employees}</p>
-            </div>
-          </div>
-        )}
-      </div>
-
-      {/* Expandable content */}
-      {expanded && (
-        <>
-          {/* Specialties */}
-          {!isPlaceholder(institution.specialties) && (
-            <div className="mb-3">
-              <p className="text-xs text-muted-foreground mb-1">Especialidades</p>
-              <p className="text-sm text-foreground leading-relaxed">
-                {institution.specialties}
-              </p>
-            </div>
-          )}
-
-          {/* Services */}
-          {institution.services && !isPlaceholder(institution.services) && (
-            <div className="mb-4">
-              <div className="flex items-center gap-1.5 mb-1">
-                <Briefcase className="w-3.5 h-3.5 text-primary" />
-                <p className="text-xs text-muted-foreground">Serviços</p>
-              </div>
-              <p className="text-sm text-foreground leading-relaxed">
-                {institution.services}
-              </p>
-            </div>
-          )}
-
-          {/* Technical Director */}
-          {!isPlaceholder(institution.technicalMedicalDirector) && (
-            <div className="pt-4 border-t border-border">
-              <p className="text-xs text-muted-foreground">Diretor Técnico-Médico</p>
-              <p className="text-sm font-medium text-foreground">{institution.technicalMedicalDirector}</p>
-              {institution.crm && (
-                <p className="text-xs text-muted-foreground mt-0.5">{institution.crm}</p>
-              )}
-            </div>
-          )}
-
-          {/* Placeholder Notice */}
-          {isPlaceholder(institution.specialties) && isPlaceholder(institution.technicalMedicalDirector) && (
-            <div className="pt-4 border-t border-border">
-              <p className="text-sm text-muted-foreground italic">
-                {PLACEHOLDER}
-              </p>
-            </div>
-          )}
-        </>
-      )}
-
-      {/* "Ver mais" button */}
-      <button
-        onClick={() => setExpanded(!expanded)}
-        className="mt-3 w-full flex items-center justify-center gap-1.5 py-2 text-sm font-medium text-primary hover:text-primary/80 transition-colors"
-      >
-        {expanded ? "Ver menos" : "Ver mais"}
-        <ChevronDown className={`w-4 h-4 transition-transform ${expanded ? "rotate-180" : ""}`} />
-      </button>
-    </div>
-  );
-};
+const parseList = (value: string): string[] =>
+  value.split(",").map((s) => s.trim()).filter(Boolean);
 
 const InstitutionsSection = () => {
   const [activeTab, setActiveTab] = useState("hospitals");
+  const [filters, setFilters] = useState<Filters>({ state: "", specialty: "", service: "" });
   const isMobile = useIsMobile();
   const [carouselIndex, setCarouselIndex] = useState(0);
   const touchStartX = useRef(0);
   const touchEndX = useRef(0);
 
-  const activeData = tabs.find((tab) => tab.id === activeTab)?.data || [];
+  const tabData = tabs.find((tab) => tab.id === activeTab)?.data || [];
+
+  const activeData = useMemo(() => {
+    return tabData.filter((inst) => {
+      if (filters.state && inst.state !== filters.state) return false;
+      if (filters.specialty) {
+        if (inst.specialties === PLACEHOLDER) return false;
+        const list = parseList(inst.specialties);
+        if (!list.includes(filters.specialty)) return false;
+      }
+      if (filters.service) {
+        if (!inst.services || inst.services === PLACEHOLDER) return false;
+        const list = parseList(inst.services);
+        if (!list.includes(filters.service)) return false;
+      }
+      return true;
+    });
+  }, [tabData, filters]);
 
   const handleTabChange = (tabId: string) => {
     setActiveTab(tabId);
@@ -183,7 +86,7 @@ const InstitutionsSection = () => {
         </div>
 
         {/* Tabs */}
-        <div className="flex md:flex-wrap md:justify-center gap-2 mb-10 overflow-x-auto pb-2 -mx-4 px-4 md:mx-0 md:px-0 scrollbar-hide snap-x snap-mandatory">
+        <div className="flex md:flex-wrap md:justify-center gap-2 mb-6 overflow-x-auto pb-2 -mx-4 px-4 md:mx-0 md:px-0 scrollbar-hide snap-x snap-mandatory">
           {tabs.map((tab) => (
             <button
               key={tab.id}
@@ -207,8 +110,20 @@ const InstitutionsSection = () => {
           ))}
         </div>
 
-        {/* Mobile: Carousel */}
-        {isMobile ? (
+        {/* Filters */}
+        <InstitutionFilters
+          filters={filters}
+          onFiltersChange={setFilters}
+          activeTab={activeTab}
+        />
+
+        {/* Empty state */}
+        {activeData.length === 0 ? (
+          <div className="text-center py-16">
+            <p className="text-muted-foreground">Nenhuma instituição encontrada com os filtros selecionados.</p>
+          </div>
+        ) : isMobile ? (
+          /* Mobile: Carousel */
           <div>
             <div
               className="overflow-hidden"
