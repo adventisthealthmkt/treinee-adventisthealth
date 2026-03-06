@@ -159,12 +159,12 @@ const EcosystemSection = () => {
             </>
           ) : (
             /* Desktop: image left, layers right */
-            <div className="grid lg:grid-cols-2 gap-8 items-start">
+            <div className="grid md:grid-cols-2 gap-8 items-start">
               <div className="flex justify-center sticky top-24">
                 <img
                   src={diagramaEcossistema}
                   alt="Diagrama do Ecossistema Assistencial da Adventist Health Brasil"
-                  className="w-full max-w-lg rounded-2xl cursor-zoom-in hover:opacity-90 transition-opacity"
+                  className="w-full max-w-md lg:max-w-lg rounded-2xl cursor-zoom-in hover:opacity-90 transition-opacity"
                   loading="lazy"
                   onClick={() => setIsZoomed(true)}
                 />
