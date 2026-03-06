@@ -30,10 +30,10 @@ const HeroSection = () => {
           {/* Description */}
           <p
             className="text-sm sm:text-base md:text-lg text-primary-foreground/80 max-w-2xl mb-8 md:mb-10 leading-relaxed animate-fade-in-up text-center px-2"
-            style={{ animationDelay: "0.2s" }}>
-            
-            Uma rede de saúde comprometida com a excelência assistencial, o desenvolvimento
-            profissional e a integração entre fé, ciência e educação.
+            style={{ animationDelay: "0.2s" }}>Uma rede de saúde comprometida com a excelência assistencial, o desenvolvimento profissional e a integração entre fé, ciência e ensino.
+
+
+
           </p>
 
           {/* CTAs */}
