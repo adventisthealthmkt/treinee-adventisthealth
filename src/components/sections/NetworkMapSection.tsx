@@ -28,14 +28,14 @@ const NetworkMapSection = () => {
         </div>
 
         {/* Map + Locations */}
-        <div className="grid lg:grid-cols-2 gap-6 md:gap-8 items-center">
+        <div className="grid lg:grid-cols-2 gap-6 md:gap-8 items-stretch">
           {/* Interactive Map */}
-          <div className="relative w-full max-w-[980px] aspect-[4/3] md:aspect-square rounded-2xl md:rounded-[28px] overflow-hidden p-2 md:p-3.5 bg-gradient-to-br from-[hsl(var(--primary-light))] to-[hsl(var(--accent))] shadow-[0_10px_30px_rgba(0,0,0,0.12),inset_0_0_0_1px_rgba(255,255,255,0.35)] md:shadow-[0_20px_40px_rgba(0,0,0,0.18),inset_0_0_0_1px_rgba(255,255,255,0.35)]">
+          <div className="relative w-full rounded-2xl md:rounded-[28px] overflow-hidden p-2 md:p-3.5 bg-gradient-to-br from-[hsl(var(--primary-light))] to-[hsl(var(--accent))] shadow-[0_10px_30px_rgba(0,0,0,0.12),inset_0_0_0_1px_rgba(255,255,255,0.35)] md:shadow-[0_20px_40px_rgba(0,0,0,0.18),inset_0_0_0_1px_rgba(255,255,255,0.35)]">
             <iframe
               src="https://josuealvesm.github.io/mapadventisthealth/"
               loading="lazy"
               title="Mapa Adventist Health"
-              className="w-full h-full block border-0 rounded-xl md:rounded-[20px] bg-[hsl(var(--accent))] shadow-[inset_0_0_0_1px_rgba(0,0,0,0.06)]"
+              className="w-full h-full min-h-[300px] block border-0 rounded-xl md:rounded-[20px] bg-[hsl(var(--accent))] shadow-[inset_0_0_0_1px_rgba(0,0,0,0.06)]"
             />
           </div>
 
