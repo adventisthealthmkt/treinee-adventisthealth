@@ -1,6 +1,7 @@
 import { Menu, X } from "lucide-react";
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 import logoAHB from "@/assets/logo-ahb-azul.png";
 
 const Header = () => {
@@ -46,8 +47,9 @@ const Header = () => {
             ))}
           </nav>
 
-          {/* CTA Button */}
-          <div className="hidden md:block">
+          {/* CTA + Language */}
+          <div className="hidden md:flex items-center gap-2">
+            <LanguageSwitcher />
             <a href="#contato">
               <Button variant="institutional" size="default">
                 Parcerias acadêmicas
@@ -84,8 +86,9 @@ const Header = () => {
                 {link.label}
               </a>
             ))}
-            <div className="pt-4 mt-2 border-t border-border">
-              <a href="#contato" onClick={() => setIsMenuOpen(false)}>
+            <div className="flex items-center justify-between pt-4 mt-2 border-t border-border gap-3">
+              <LanguageSwitcher />
+              <a href="#contato" onClick={() => setIsMenuOpen(false)} className="flex-1">
                 <Button variant="institutional" size="lg" className="w-full">
                   Parcerias acadêmicas
                 </Button>
