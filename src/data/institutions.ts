@@ -127,7 +127,7 @@ export const hospitals: Institution[] = [
     specialties:
       "Anestesiologia, Cardiologia, Cirurgia Geral, Cirurgia Torácica, Cirurgia Oncológica, Dermatologia, Endocrinologia, Gastroenterologia, Hematologia, Neurologia, Neurocirurgia, Cirurgia e Traumatologia Bucomaxilofacial, Oftalmologia, Psicologia, Psiquiatria, Ortopedia e Traumatologia, Medicina Intensiva, Urologia, Cirurgia Bariátrica, Fisioterapia, Otorrinolaringologia, Nefrologia",
     services: "2 salas cirúrgicas, UTI, internação",
-    beds: "20 (8 UTI + 12 internação)",
+    beds: "20",
     employees: "110",
     website: PLACEHOLDER,
     socialMedia: PLACEHOLDER,
