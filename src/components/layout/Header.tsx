@@ -50,7 +50,7 @@ const Header = () => {
           <div className="hidden md:block">
             <a href="#contato">
               <Button variant="institutional" size="default">
-                Parcerias Acadêmicas
+                Parcerias acadêmicas
               </Button>
             </a>
           </div>
@@ -87,7 +87,7 @@ const Header = () => {
             <div className="pt-4 mt-2 border-t border-border">
               <a href="#contato" onClick={() => setIsMenuOpen(false)}>
                 <Button variant="institutional" size="lg" className="w-full">
-                  Parcerias Acadêmicas
+                  Parcerias acadêmicas
                 </Button>
               </a>
             </div>
