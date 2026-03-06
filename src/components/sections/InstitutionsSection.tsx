@@ -15,9 +15,20 @@ const PLACEHOLDER = "Informação institucional em atualização";
 const InstitutionCard = ({ institution }: { institution: Institution }) => {
   const isPlaceholder = (value: string) => value === PLACEHOLDER || value === "N/A";
 
+  const image = institutionImages[institution.name];
+
   return (
-    <div className="card-institutional">
-      {/* Header */}
+    <div className="card-institutional overflow-hidden">
+      {/* Image */}
+      {image && (
+        <div className="-mx-6 -mt-6 mb-4">
+          <img
+            src={image}
+            alt={institution.name}
+            className="w-full h-48 object-cover"
+          />
+        </div>
+      )}
       <div className="flex items-start justify-between mb-4">
         <div>
           <h3 className="font-semibold text-lg text-foreground mb-1">
