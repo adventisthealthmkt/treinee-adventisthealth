@@ -103,6 +103,9 @@ const InstitutionCard = ({ institution }: { institution: Institution }) => {
             <div className="pt-4 border-t border-border">
               <p className="text-xs text-muted-foreground">Diretor Técnico-Médico</p>
               <p className="text-sm font-medium text-foreground">{institution.technicalMedicalDirector}</p>
+              {institution.crm && (
+                <p className="text-xs text-muted-foreground mt-0.5">{institution.crm}</p>
+              )}
             </div>
           )}
 
