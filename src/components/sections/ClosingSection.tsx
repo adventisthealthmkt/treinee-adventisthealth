@@ -36,17 +36,33 @@ const ClosingSection = () => {
           <div className="mt-6 md:mt-8 text-center">
             <p className="text-sm mb-3 md:mb-4 text-primary font-bold">Instituições parceiras:</p>
             <div className="flex flex-wrap justify-center gap-2 md:gap-3">
-              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENE", "FADMINAS"].map((inst) =>
-              <span
-                key={inst}
-                className="px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-accent text-accent-foreground text-xs md:text-sm font-medium">
-                
-                  {inst}
-                </span>
-              )}
-              <span className="px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-muted text-muted-foreground text-xs md:text-sm">
+              {[
+                { name: "UAP", url: "https://uap.edu.ar/" },
+                { name: "UPeU", url: "https://upeu.edu.pe/" },
+                { name: "FAP", url: "https://faculdadeadventista.edu.br/" },
+                { name: "UNASP", url: "https://unasp.br" },
+                { name: "FAAMA", url: "https://faama.edu.br" },
+                { name: "UNIAENE", url: "https://uniaene.edu.br" },
+                { name: "FADMINAS", url: "https://fadminas.edu.br" },
+              ].map((inst) => (
+                <a
+                  key={inst.name}
+                  href={inst.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-accent text-accent-foreground text-xs md:text-sm font-medium hover:bg-primary/10 hover:text-primary transition-colors"
+                >
+                  {inst.name}
+                </a>
+              ))}
+              <a
+                href="https://adventistcolleges.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-muted text-muted-foreground text-xs md:text-sm hover:bg-primary/10 hover:text-primary transition-colors"
+              >
                 e outras IES do Brasil e exterior
-              </span>
+              </a>
             </div>
           </div>
         </div>
