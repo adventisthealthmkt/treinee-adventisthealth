@@ -42,7 +42,7 @@ const Footer = () => {
 
           {/* Contact */}
           <div className="text-center md:text-left">
-            <h4 className="font-semibold mb-3 md:mb-4 text-primary-foreground text-sm md:text-base">Parcerias Acadêmicas</h4>
+            <h4 className="font-semibold mb-3 md:mb-4 text-primary-foreground text-sm md:text-base">Parcerias acadêmicas</h4>
             <p className="text-primary-foreground/70 text-xs md:text-sm leading-relaxed mb-3 md:mb-4">
               Interessado em parcerias educacionais, estágios ou programas trainee?
             </p>
