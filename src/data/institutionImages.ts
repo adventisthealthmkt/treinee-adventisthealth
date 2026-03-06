@@ -12,6 +12,7 @@ import cmCapaoRedondo from "@/assets/cm-capao-redondo.png";
 import cmEngenheiroCoelho from "@/assets/cm-engenheiro-coelho.jpg";
 import clinicaVilaAndrade from "@/assets/clinica-vila-andrade.webp";
 import spaCevisa from "@/assets/spa-cevisa.png";
+import spaCvs from "@/assets/spa-cvs.png";
 
 export const institutionImages: Record<string, string> = {
   "Hospital Adventista Belém": hospitalBelem,
@@ -28,4 +29,5 @@ export const institutionImages: Record<string, string> = {
   "Centro Médico Adventista Engenheiro Coelho": cmEngenheiroCoelho,
   "Clínica Adventista Vila Andrade": clinicaVilaAndrade,
   "Spa Médico Adventista Cevisa": spaCevisa,
+  "Spa Médico Adventista CVS": spaCvs,
 };
