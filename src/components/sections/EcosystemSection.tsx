@@ -1,3 +1,6 @@
+import { useState, useRef } from "react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
+import { useIsMobile } from "@/hooks/use-mobile";
 import diagramaEcossistema from "@/assets/diagrama-ecossistema.png";
 
 const layers = [
@@ -36,6 +39,29 @@ const layers = [
 ];
 
 const EcosystemSection = () => {
+  const isMobile = useIsMobile();
+  const [carouselIndex, setCarouselIndex] = useState(0);
+  const touchStartX = useRef(0);
+  const touchEndX = useRef(0);
+
+  const goTo = (index: number) => {
+    setCarouselIndex(Math.max(0, Math.min(index, layers.length - 1)));
+  };
+
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartX.current = e.touches[0].clientX;
+  };
+  const handleTouchMove = (e: React.TouchEvent) => {
+    touchEndX.current = e.touches[0].clientX;
+  };
+  const handleTouchEnd = () => {
+    const diff = touchStartX.current - touchEndX.current;
+    if (Math.abs(diff) > 50) {
+      if (diff > 0) goTo(carouselIndex + 1);
+      else goTo(carouselIndex - 1);
+    }
+  };
+
   return (
     <section id="ecossistema" className="section-padding bg-background">
       <div className="section-container">
@@ -67,26 +93,90 @@ const EcosystemSection = () => {
           <h3 className="text-lg md:text-xl font-semibold text-foreground mb-6 text-center">
             Camadas do Ecossistema
           </h3>
-          <div className="grid gap-3 md:gap-4">
-            {layers.map((layer, index) => (
+
+          {isMobile ? (
+            <div>
               <div
-                key={index}
-                className="card-institutional flex items-start gap-4"
+                className="overflow-hidden"
+                onTouchStart={handleTouchStart}
+                onTouchMove={handleTouchMove}
+                onTouchEnd={handleTouchEnd}
               >
-                <div className="w-8 h-8 md:w-10 md:h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
-                  <span className="text-xs md:text-sm font-bold text-primary">{index + 1}</span>
-                </div>
-                <div>
-                  <h4 className="font-semibold text-foreground text-sm md:text-base mb-1">
-                    {layer.title}
-                  </h4>
-                  <p className="text-xs md:text-sm text-muted-foreground leading-relaxed">
-                    {layer.text}
-                  </p>
+                <div
+                  className="flex transition-transform duration-300 ease-out"
+                  style={{ transform: `translateX(-${carouselIndex * 100}%)` }}
+                >
+                  {layers.map((layer, index) => (
+                    <div key={index} className="w-full flex-shrink-0 px-1">
+                      <div className="card-institutional flex items-start gap-4">
+                        <div className="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
+                          <span className="text-xs font-bold text-primary">{index + 1}</span>
+                        </div>
+                        <div>
+                          <h4 className="font-semibold text-foreground text-sm mb-1">
+                            {layer.title}
+                          </h4>
+                          <p className="text-xs text-muted-foreground leading-relaxed">
+                            {layer.text}
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
                 </div>
               </div>
-            ))}
-          </div>
+
+              {/* Carousel controls */}
+              <div className="flex items-center justify-center gap-4 mt-6">
+                <button
+                  onClick={() => goTo(carouselIndex - 1)}
+                  disabled={carouselIndex === 0}
+                  className="p-2 rounded-full bg-card border border-border text-foreground disabled:opacity-30 transition-opacity"
+                >
+                  <ChevronLeft className="w-5 h-5" />
+                </button>
+                <div className="flex gap-1.5">
+                  {layers.map((_, i) => (
+                    <button
+                      key={i}
+                      onClick={() => goTo(i)}
+                      className={`w-2 h-2 rounded-full transition-all ${
+                        i === carouselIndex ? "bg-primary w-6" : "bg-border"
+                      }`}
+                    />
+                  ))}
+                </div>
+                <button
+                  onClick={() => goTo(carouselIndex + 1)}
+                  disabled={carouselIndex === layers.length - 1}
+                  className="p-2 rounded-full bg-card border border-border text-foreground disabled:opacity-30 transition-opacity"
+                >
+                  <ChevronRight className="w-5 h-5" />
+                </button>
+              </div>
+            </div>
+          ) : (
+            <div className="grid gap-3 md:gap-4">
+              {layers.map((layer, index) => (
+                <div
+                  key={index}
+                  className="card-institutional flex items-start gap-4"
+                >
+                  <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center flex-shrink-0">
+                    <span className="text-sm font-bold text-primary">{index + 1}</span>
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-foreground text-base mb-1">
+                      {layer.title}
+                    </h4>
+                    <p className="text-sm text-muted-foreground leading-relaxed">
+                      {layer.text}
+                    </p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </section>
