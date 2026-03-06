@@ -13,7 +13,7 @@ const HeroSection = () => {
       <div className="section-container relative z-10 pt-20 pb-8 md:pt-24 md:pb-16">
         <div className="max-w-4xl flex flex-col items-center text-center">
           {/* Badge */}
-          <div className="inline-flex items-center px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-primary-foreground/10 border border-primary-foreground/20 mb-6 md:mb-8 animate-fade-in mx-auto">
+          <div className="hidden sm:inline-flex items-center px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-primary-foreground/10 border border-primary-foreground/20 mb-6 md:mb-8 animate-fade-in mx-auto">
             <span className="text-xs md:text-sm font-medium text-primary-foreground">
               Somos a rede de instituições adventistas de saúde no Brasil
             </span>
