@@ -13,15 +13,6 @@ const Header = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  // Prevent body scroll when menu is open
-  useEffect(() => {
-    if (isMenuOpen) {
-      document.body.style.overflow = "hidden";
-    } else {
-      document.body.style.overflow = "";
-    }
-    return () => { document.body.style.overflow = ""; };
-  }, [isMenuOpen]);
 
   const navLinks = [
     { label: "Sobre", href: "#sobre" },
@@ -81,7 +72,7 @@ const Header = () => {
 
       {/* Mobile Navigation - Full screen overlay */}
       {isMenuOpen && (
-        <div className="md:hidden fixed inset-0 top-14 bg-card z-40 animate-fade-in overflow-y-auto">
+        <div className="md:hidden absolute left-0 right-0 top-full bg-card border-b border-border shadow-lg animate-fade-in overflow-y-auto max-h-[calc(100vh-3.5rem)]">
           <nav className="flex flex-col p-6 gap-1">
             {navLinks.map((link) => (
               <a
