@@ -61,7 +61,7 @@ const HeroSection = () => {
             style={{ animationDelay: "0.4s" }}>
             
             {[
-            { value: "16", label: "Instituições de saúde" },
+            { value: "17", label: "Instituições de saúde" },
             { value: "8", label: "Hospitais" },
             { value: "+80", label: "Anos de História" },
             { value: "+6.500", label: "Colaboradores" }].
