@@ -35,7 +35,7 @@ const NetworkMapSection = () => {
               src="https://josuealvesm.github.io/mapadventisthealth/"
               loading="lazy"
               title="Mapa Adventist Health"
-              className="w-full h-full block border-0 rounded-xl md:rounded-[20px] bg-[hsl(var(--accent))] shadow-[inset_0_0_0_1px_rgba(0,0,0,0.06)]"
+              className="w-full h-full min-h-[300px] block border-0 rounded-xl md:rounded-[20px] bg-[hsl(var(--accent))] shadow-[inset_0_0_0_1px_rgba(0,0,0,0.06)]"
             />
           </div>
 
