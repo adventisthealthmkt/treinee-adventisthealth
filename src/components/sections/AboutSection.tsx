@@ -67,7 +67,7 @@ const AboutSection = () => {
             {values.map((value, index) => (
               <div
                 key={index}
-                className="flex items-center gap-3 p-3 md:p-4 rounded-xl bg-accent/50 hover:bg-accent transition-colors"
+                className={`flex items-center gap-3 p-3 md:p-4 rounded-xl bg-accent/50 hover:bg-accent transition-colors ${index === values.length - 1 ? 'sm:col-span-2 sm:max-w-[50%] sm:mx-auto' : ''}`}
               >
                 <value.icon className="w-5 h-5 text-primary flex-shrink-0" />
                 <span className="text-sm font-medium text-foreground">{value.label}</span>
