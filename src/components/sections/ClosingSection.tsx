@@ -55,9 +55,14 @@ const ClosingSection = () => {
                   {inst.name}
                 </a>
               ))}
-              <span className="px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-muted text-muted-foreground text-xs md:text-sm">
+              <a
+                href="https://adventistcolleges.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-muted text-muted-foreground text-xs md:text-sm hover:bg-primary/10 hover:text-primary transition-colors"
+              >
                 e outras IES do Brasil e exterior
-              </span>
+              </a>
             </div>
           </div>
         </div>
