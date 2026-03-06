@@ -130,11 +130,11 @@
   }
   
   .section-padding {
-    @apply py-16 md:py-24;
+    @apply py-12 md:py-24;
   }
   
   .card-institutional {
-    @apply bg-card rounded-xl p-6 md:p-8 border border-border;
+    @apply bg-card rounded-xl p-5 md:p-8 border border-border;
     box-shadow: var(--shadow-card);
     transition: box-shadow 0.3s ease, transform 0.3s ease;
   }

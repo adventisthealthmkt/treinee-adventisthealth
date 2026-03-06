@@ -22,7 +22,7 @@ const InstitutionCard = ({ institution }: { institution: Institution }) => {
     <div className="card-institutional overflow-hidden flex-shrink-0 w-full">
       {/* Image */}
       {image && (
-        <div className="-mx-6 -mt-6 mb-4 md:-mx-8 md:-mt-8">
+        <div className="-mx-5 -mt-5 mb-4 md:-mx-8 md:-mt-8">
           <img
             src={image}
             alt={institution.name}
