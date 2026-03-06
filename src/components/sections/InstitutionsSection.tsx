@@ -13,7 +13,7 @@ const tabs = [
 
 const PLACEHOLDER = "Informação institucional em atualização";
 
-const InstitutionCard = ({ institution, isMobile }: { institution: Institution; isMobile: boolean }) => {
+const InstitutionCard = ({ institution }: { institution: Institution }) => {
   const [expanded, setExpanded] = useState(false);
   const isPlaceholder = (value: string) => value === PLACEHOLDER || value === "N/A";
   const image = institutionImages[institution.name];
@@ -72,8 +72,8 @@ const InstitutionCard = ({ institution, isMobile }: { institution: Institution; 
         )}
       </div>
 
-      {/* Expandable content on mobile, always visible on desktop */}
-      {(!isMobile || expanded) && (
+      {/* Expandable content */}
+      {expanded && (
         <>
           {/* Specialties */}
           {!isPlaceholder(institution.specialties) && (
@@ -117,16 +117,14 @@ const InstitutionCard = ({ institution, isMobile }: { institution: Institution; 
         </>
       )}
 
-      {/* "Ver mais" button - mobile only */}
-      {isMobile && (
-        <button
-          onClick={() => setExpanded(!expanded)}
-          className="mt-3 w-full flex items-center justify-center gap-1.5 py-2 text-sm font-medium text-primary hover:text-primary/80 transition-colors"
-        >
-          {expanded ? "Ver menos" : "Ver mais"}
-          <ChevronDown className={`w-4 h-4 transition-transform ${expanded ? "rotate-180" : ""}`} />
-        </button>
-      )}
+      {/* "Ver mais" button */}
+      <button
+        onClick={() => setExpanded(!expanded)}
+        className="mt-3 w-full flex items-center justify-center gap-1.5 py-2 text-sm font-medium text-primary hover:text-primary/80 transition-colors"
+      >
+        {expanded ? "Ver menos" : "Ver mais"}
+        <ChevronDown className={`w-4 h-4 transition-transform ${expanded ? "rotate-180" : ""}`} />
+      </button>
     </div>
   );
 };
@@ -221,7 +219,7 @@ const InstitutionsSection = () => {
               >
                 {activeData.map((institution, index) => (
                   <div key={index} className="w-full flex-shrink-0 px-1">
-                    <InstitutionCard institution={institution} isMobile={true} />
+                    <InstitutionCard institution={institution} />
                   </div>
                 ))}
               </div>
@@ -260,7 +258,7 @@ const InstitutionsSection = () => {
           /* Desktop: Grid */
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {activeData.map((institution, index) => (
-              <InstitutionCard key={index} institution={institution} isMobile={false} />
+              <InstitutionCard key={index} institution={institution} />
             ))}
           </div>
         )}
