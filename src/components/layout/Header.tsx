@@ -30,7 +30,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-14 md:h-20">
           {/* Logo */}
           <a href="https://adventisthealth.com.br" target="_blank" rel="noopener noreferrer" className="flex items-center">
-            <img src={logoAHB} alt="Adventist Health Brasil" className="h-16 md:h-24 w-auto" />
+            <img src={logoAHB} alt="Adventist Health Brasil" className="h-12 md:h-16 lg:h-24 w-auto" />
           </a>
 
           {/* Desktop Navigation */}
