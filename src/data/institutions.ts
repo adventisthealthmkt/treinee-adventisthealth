@@ -29,7 +29,7 @@ export const hospitals: Institution[] = [
     technicalMedicalDirector: "Markus Barcellos de Albuquerque",
     crm: "CRM 4572/PA",
     complexityLevel: "Alta complexidade",
-    specialties: "42 especialidades",
+    specialties: "Alergologia, Alergologia Pediatra, Anestesiologia, Angiologia/Cirurgia Vascular, Arritmologia, Cabeça e Pescoço, Cardiologia, Cardiologia Pediatra, Cirurgião Cardíaco, Cirurgia Pediátrica, Cirurgia Plástica, Cirurgia Buco Maxilo, Cirurgia Oncológica, Cirurgia Geral, Cirurgião Torácico, Clínica Médica, Dermatologia, Dermatopediatra, Endocrinologia, Fonoaudiologia, Gastroenterologia Clínica, Gastroenterologia Pediatra, Geriatria, Ginecologia/Obstetrícia, Hematologia, Hepatologia, Infectologia, Laparoscopia e Histeroscopia Ginecológica, Mastologia, Marca-passo/Arritmologia, Neurologista Clínico, Neuropediatra, Neurocirurgia Pediátrica, Nefrologia, Nefropediatra, Nutrição, Nutrologia, Ortopedia/Traumatologia, Ortopedista Pediátrico/Traumatologia, Oncologista Clínico/Oncologia, Oncologia Pélvica, Onco-hematologia, Oftalmologia, Oftalmologia Pediatra, Otorrinolaringologia, Pediatria, Pneumologia, Proctologia, Pneumopediatria, Neurocirurgião, Psicologia, Psiquiatria, Reumatologia, Urologia",
     services: "Emergência, cirurgia, internação, exames diagnósticos e tratamento de doenças crônicas",
     beds: "190",
     employees: "1.650",
