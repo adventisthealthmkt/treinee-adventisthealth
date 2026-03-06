@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Building2, Stethoscope, Heart, Leaf, MapPin, Calendar, Users, Bed, Briefcase } from "lucide-react";
 import { hospitals, medicalCenters, clinics, medicalSpas, type Institution } from "@/data/institutions";
+import { institutionImages } from "@/data/institutionImages";
 
 const tabs = [
   { id: "hospitals", label: "Hospitais", icon: Building2, data: hospitals },
