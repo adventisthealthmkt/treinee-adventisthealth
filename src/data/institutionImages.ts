@@ -10,6 +10,7 @@ import cmPortoAlegre from "@/assets/cm-porto-alegre.png";
 import cmBotafogo from "@/assets/cm-botafogo.jpg";
 import cmCapaoRedondo from "@/assets/cm-capao-redondo.png";
 import cmEngenheiroCoelho from "@/assets/cm-engenheiro-coelho.jpg";
+import clinicaVilaAndrade from "@/assets/clinica-vila-andrade.webp";
 
 export const institutionImages: Record<string, string> = {
   "Hospital Adventista Belém": hospitalBelem,
@@ -24,4 +25,5 @@ export const institutionImages: Record<string, string> = {
   "Centro Médico Adventista Botafogo": cmBotafogo,
   "Centro Médico Adventista Capão Redondo": cmCapaoRedondo,
   "Centro Médico Adventista Engenheiro Coelho": cmEngenheiroCoelho,
+  "Clínica Adventista Vila Andrade": clinicaVilaAndrade,
 };
