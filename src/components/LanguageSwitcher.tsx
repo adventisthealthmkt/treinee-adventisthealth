@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { Globe } from "lucide-react";
+import { Languages } from "lucide-react";
 
 const LANGUAGES = [
   { code: "pt", label: "Português", flag: "🇧🇷" },
@@ -77,7 +77,7 @@ const LanguageSwitcher = () => {
         className="flex items-center gap-1.5 px-3 py-2 text-sm text-muted-foreground hover:text-primary transition-colors rounded-lg hover:bg-accent font-semibold"
         aria-label="Traduzir página"
       >
-        <Globe className="w-4 h-4" />
+        <Languages className="w-4 h-4" />
         <span className="hidden lg:inline">{currentLang?.flag}</span>
       </button>
 
