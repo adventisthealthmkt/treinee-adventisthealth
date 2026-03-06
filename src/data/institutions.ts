@@ -65,7 +65,7 @@ export const hospitals: Institution[] = [
     technicalMedicalDirector: "Karin Kiefer Martins",
     crm: "CRM 4407/MS",
     complexityLevel: "Alta complexidade",
-    specialties: "26 especialidades",
+    specialties: "Cirurgia Geral, Cardiologia, Cirurgia Cabeça e Pescoço, Cirurgia Plástica, Cirurgia Torácica, Cirurgia Vascular, Clínica Geral, Coloproctologia, Dermatologia, Gastroenterologia, Ginecologia, Hepatologia, Neurocirurgia Pediátrica e Adulto, Neurologia, Oftalmologia, Oncologia, Ortopedia/Traumatologia, Otorrinolaringologia, Pediatria, Pneumologia, Proctologia, Urologia, Vascular",
     services: "Clínica médica, obstetrícia, cirurgias ginecológicas, ortopédicas, vasculares, plásticas e gerais; transplantes de fígado e córneas",
     beds: "136",
     employees: "700",
