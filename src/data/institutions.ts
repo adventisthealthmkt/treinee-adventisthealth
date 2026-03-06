@@ -186,7 +186,7 @@ export const medicalCenters: Institution[] = [
     technicalMedicalDirector: "Mariana Gomes Fernandes",
     crm: "CRM 77936-9/RJ",
     complexityLevel: "Atenção ambulatorial e diagnóstica",
-    specialties: "+ de 30 especialidades",
+    specialties: "Angiologia/Cirurgia Vascular, Arritmologia, Bucomaxilo, Cardiologia, Cirurgia Geral, Cirurgia Oncológica, Cirurgia Bariátrica, Cirurgia Plástica, Cirurgia Torácica, Cirurgia Vascular, Clínica Médica, Clínica da Dor, Dermatologia, Ecocardiograma, Endocrinologia, Endoscopia/Colonoscopia, Fisioterapia, Fonoaudiologia, Gastroenterologia, Geriatria, Ginecologia/Mastologia, Hematologia, Nefrologia, Neurologia, Nutrição, Oftalmologia, Ortopedia/Traumatologia, Pediatria, Pneumologia, Psicologia, Psiquiatria, Reumatologia, Urologia",
     beds: PLACEHOLDER,
     employees: PLACEHOLDER,
     website: PLACEHOLDER,
