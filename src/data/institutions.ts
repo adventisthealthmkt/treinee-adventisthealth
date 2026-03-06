@@ -5,6 +5,7 @@ export interface Institution {
   state: string;
   yearFounded: string;
   technicalMedicalDirector: string;
+  crm?: string;
   complexityLevel: string;
   specialties: string;
   services?: string;
