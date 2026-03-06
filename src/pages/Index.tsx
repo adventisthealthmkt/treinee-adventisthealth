@@ -7,7 +7,7 @@ import EcosystemSection from "@/components/sections/EcosystemSection";
 import NetworkMapSection from "@/components/sections/NetworkMapSection";
 import InstitutionsSection from "@/components/sections/InstitutionsSection";
 import ClosingSection from "@/components/sections/ClosingSection";
-import ScrollToTop from "@/components/ScrollToTop";
+import FloatingActions from "@/components/FloatingActions";
 
 const Index = () => {
   return (
@@ -23,7 +23,7 @@ const Index = () => {
         <ClosingSection />
       </main>
       <Footer />
-      <ScrollToTop />
+      <FloatingActions />
     </div>
   );
 };

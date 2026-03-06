@@ -30,7 +30,7 @@ const ScrollToTop = () => {
       onClick={scrollToTop}
       variant="default"
       size="icon"
-      className={`fixed left-6 bottom-6 z-50 rounded-full shadow-lg transition-all duration-300 ${
+      className={`rounded-full shadow-lg transition-all duration-300 ${
         isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4 pointer-events-none"
       }`}
       aria-label="Voltar ao topo"
