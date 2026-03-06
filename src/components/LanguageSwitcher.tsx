@@ -74,7 +74,7 @@ const LanguageSwitcher = () => {
 
       <button
         onClick={() => setOpen((p) => !p)}
-        className="flex items-center gap-1.5 px-3 py-2 text-sm text-muted-foreground hover:text-primary transition-colors rounded-lg hover:bg-accent font-semibold"
+        className="flex items-center gap-1.5 px-3 py-2 text-sm text-muted-foreground hover:text-primary transition-colors rounded-full bg-white shadow-lg hover:bg-accent font-semibold"
         aria-label="Traduzir página"
       >
         <Languages className="w-4 h-4" />
