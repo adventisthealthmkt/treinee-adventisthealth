@@ -22,16 +22,16 @@ const HeroSection = () => {
           {/* Subtitle / Main Title */}
           <h1
             className="text-2xl sm:text-3xl md:text-5xl lg:text-7xl text-primary-foreground/90 mb-4 md:mb-4 animate-fade-in-up font-semibold leading-tight"
-            style={{ animationDelay: "0.1s" }}
-          >
-            Cuidado, formação e missão a serviço da vida
+            style={{ animationDelay: "0.1s" }}>
+            
+            Capacitação, pesquisa e missão a serviço da vida.          
           </h1>
 
           {/* Description */}
           <p
             className="text-sm sm:text-base md:text-lg text-primary-foreground/80 max-w-2xl mb-8 md:mb-10 leading-relaxed animate-fade-in-up text-center px-2"
-            style={{ animationDelay: "0.2s" }}
-          >
+            style={{ animationDelay: "0.2s" }}>
+            
             Uma rede de saúde comprometida com a excelência assistencial, o desenvolvimento
             profissional e a integração entre fé, ciência e educação.
           </p>
@@ -39,8 +39,8 @@ const HeroSection = () => {
           {/* CTAs */}
           <div
             className="flex flex-col sm:flex-row gap-3 md:gap-4 animate-fade-in-up items-center justify-center w-full px-2"
-            style={{ animationDelay: "0.3s" }}
-          >
+            style={{ animationDelay: "0.3s" }}>
+            
             <a href="#rede" className="w-full sm:w-auto">
               <Button variant="hero" size="xl" className="group w-full sm:w-auto text-sm md:text-base">
                 Conheça nossa rede de saúde
@@ -58,24 +58,24 @@ const HeroSection = () => {
           {/* Stats */}
           <div
             className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-6 mt-10 md:mt-16 pt-6 md:pt-8 border-t border-primary-foreground/20 animate-fade-in-up w-full"
-            style={{ animationDelay: "0.4s" }}
-          >
+            style={{ animationDelay: "0.4s" }}>
+            
             {[
-              { value: "16", label: "Instituições de saúde" },
-              { value: "8", label: "Hospitais" },
-              { value: "+80", label: "Anos de História" },
-              { value: "+6.500", label: "Colaboradores" },
-            ].map((stat) => (
-              <div key={stat.label} className="text-center">
+            { value: "16", label: "Instituições de saúde" },
+            { value: "8", label: "Hospitais" },
+            { value: "+80", label: "Anos de História" },
+            { value: "+6.500", label: "Colaboradores" }].
+            map((stat) =>
+            <div key={stat.label} className="text-center">
                 <p className="text-2xl md:text-4xl font-bold text-primary-foreground">{stat.value}</p>
                 <p className="text-[11px] sm:text-xs md:text-sm text-primary-foreground/70 mt-1">{stat.label}</p>
               </div>
-            ))}
+            )}
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default HeroSection;
