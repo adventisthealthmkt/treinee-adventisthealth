@@ -6,7 +6,7 @@ const layers = [
     text: "No núcleo está o paciente, simbolizando que toda a estrutura da Adventist Health existe para servir quem busca cuidado.",
   },
   {
-    title: "PROASA Saúde",
+    title: "Proasa Saúde",
     text: "Operadora de saúde que envolve diretamente o usuário, promovendo os 8 princípios de saúde integral: alimentação saudável, exercício físico, água, luz solar, temperança, ar puro, repouso e confiança em Deus.",
   },
   {
