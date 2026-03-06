@@ -1,22 +1,24 @@
 import { ArrowRight, Mail, GraduationCap } from "lucide-react";
 import { Button } from "@/components/ui/button";
+
 const ClosingSection = () => {
-  return <section id="contato" className="section-padding bg-background">
+  return (
+    <section id="contato" className="section-padding bg-background">
       <div className="section-container">
         <div className="max-w-4xl mx-auto">
           {/* Main Card */}
-          <div className="card-institutional text-center p-8 md:p-12">
-            <div className="w-16 h-16 rounded-2xl bg-primary/10 flex items-center justify-center mx-auto mb-6">
-              <GraduationCap className="w-8 h-8 text-primary" />
+          <div className="card-institutional text-center p-6 md:p-12">
+            <div className="w-12 h-12 md:w-16 md:h-16 rounded-2xl bg-primary/10 flex items-center justify-center mx-auto mb-4 md:mb-6">
+              <GraduationCap className="w-6 h-6 md:w-8 md:h-8 text-primary" />
             </div>
 
-            <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-foreground mb-6">
+            <h2 className="text-xl md:text-3xl lg:text-4xl font-bold text-foreground mb-4 md:mb-6">
               Construindo o Futuro da Saúde Juntos
             </h2>
 
-            <p className="text-lg text-muted-foreground leading-relaxed mb-8 max-w-2xl mx-auto">
-              A Adventist Health Brasil é mais do que uma rede de saúde. É um ambiente de 
-              aprendizado, cuidado, missão e desenvolvimento humano, aberto a parcerias 
+            <p className="text-sm md:text-lg text-muted-foreground leading-relaxed mb-6 md:mb-8 max-w-2xl mx-auto">
+              A Adventist Health Brasil é mais do que uma rede de saúde. É um ambiente de
+              aprendizado, cuidado, missão e desenvolvimento humano, aberto a parcerias
               acadêmicas que compartilham do compromisso com a vida, a ética e a excelência.
             </p>
 
@@ -31,19 +33,26 @@ const ClosingSection = () => {
           </div>
 
           {/* Partner Institutions Note */}
-          <div className="mt-8 text-center">
-            <p className="text-sm mb-4 text-primary font-bold">Instituições parceiras:</p>
-            <div className="flex flex-wrap justify-center gap-3">
-              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENE", "FADMINAS"].map(inst => <span key={inst} className="px-4 py-2 rounded-full bg-accent text-accent-foreground text-sm font-medium">
+          <div className="mt-6 md:mt-8 text-center">
+            <p className="text-sm mb-3 md:mb-4 text-primary font-bold">Instituições parceiras:</p>
+            <div className="flex flex-wrap justify-center gap-2 md:gap-3">
+              {["UAP", "UPeU", "FAP", "UNASP", "FAAMA", "UNIAENE", "FADMINAS"].map((inst) => (
+                <span
+                  key={inst}
+                  className="px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-accent text-accent-foreground text-xs md:text-sm font-medium"
+                >
                   {inst}
-                </span>)}
-              <span className="px-4 py-2 rounded-full bg-muted text-muted-foreground text-sm">
+                </span>
+              ))}
+              <span className="px-3 py-1.5 md:px-4 md:py-2 rounded-full bg-muted text-muted-foreground text-xs md:text-sm">
                 e outras IES do Brasil e exterior
               </span>
             </div>
           </div>
         </div>
       </div>
-    </section>;
+    </section>
+  );
 };
+
 export default ClosingSection;
