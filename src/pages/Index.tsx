@@ -4,6 +4,7 @@ import HeroSection from "@/components/sections/HeroSection";
 import AboutSection from "@/components/sections/AboutSection";
 import ObjectivesSection from "@/components/sections/ObjectivesSection";
 import EcosystemSection from "@/components/sections/EcosystemSection";
+import StrategicPerspectivesSection from "@/components/sections/StrategicPerspectivesSection";
 import NetworkMapSection from "@/components/sections/NetworkMapSection";
 import InstitutionsSection from "@/components/sections/InstitutionsSection";
 import ClosingSection from "@/components/sections/ClosingSection";
@@ -18,6 +19,7 @@ const Index = () => {
         <AboutSection />
         <ObjectivesSection />
         <EcosystemSection />
+        <StrategicPerspectivesSection />
         <NetworkMapSection />
         <InstitutionsSection />
         <ClosingSection />
