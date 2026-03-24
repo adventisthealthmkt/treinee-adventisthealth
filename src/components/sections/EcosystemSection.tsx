@@ -197,7 +197,6 @@ const EcosystemSection = () => {
               </div>
             </div>
           )}
-        </div>
 
           {/* Quote */}
           <blockquote className="max-w-4xl mx-auto mt-12 md:mt-16 border-l-4 border-primary pl-6 py-2">
