@@ -1,9 +1,10 @@
 import { useState } from "react";
 import { X } from "lucide-react";
 import diagramaGestao from "@/assets/diagrama-gestao.png";
+import jornadaPaciente from "@/assets/jornada-paciente.png";
 
 const StrategicPerspectivesSection = () => {
-  const [isZoomed, setIsZoomed] = useState(false);
+  const [zoomedImage, setZoomedImage] = useState<string | null>(null);
 
   return (
     <>
@@ -28,7 +29,7 @@ const StrategicPerspectivesSection = () => {
                 alt="Diagrama das 7 perspectivas estratégicas do modelo de gestão da Adventist Health Brasil"
                 className="w-full max-w-md lg:max-w-lg rounded-2xl cursor-zoom-in hover:opacity-90 transition-opacity"
                 loading="lazy"
-                onClick={() => setIsZoomed(true)}
+                onClick={() => setZoomedImage(diagramaGestao)}
               />
             </div>
 
@@ -38,23 +39,39 @@ const StrategicPerspectivesSection = () => {
               </p>
             </div>
           </div>
+
+          {/* Jornada do Paciente */}
+          <div className="mt-12 md:mt-16">
+            <h3 className="text-xl md:text-2xl font-semibold text-foreground text-center mb-8">
+              Jornada do Paciente
+            </h3>
+            <div className="flex justify-center">
+              <img
+                src={jornadaPaciente}
+                alt="Jornada do paciente no ecossistema da Adventist Health Brasil"
+                className="w-full max-w-5xl rounded-2xl cursor-zoom-in hover:opacity-90 transition-opacity"
+                loading="lazy"
+                onClick={() => setZoomedImage(jornadaPaciente)}
+              />
+            </div>
+          </div>
         </div>
       </section>
 
-      {isZoomed && (
+      {zoomedImage && (
         <div
           className="fixed inset-0 z-50 bg-black/80 flex items-center justify-center p-4 cursor-zoom-out"
-          onClick={() => setIsZoomed(false)}
+          onClick={() => setZoomedImage(null)}
         >
           <button
-            onClick={() => setIsZoomed(false)}
+            onClick={() => setZoomedImage(null)}
             className="absolute top-4 right-4 p-2 rounded-full bg-white/10 text-white hover:bg-white/20 transition-colors"
           >
             <X className="w-6 h-6" />
           </button>
           <img
-            src={diagramaGestao}
-            alt="Diagrama das 7 perspectivas estratégicas"
+            src={zoomedImage}
+            alt="Imagem ampliada"
             className="max-w-full max-h-[90vh] rounded-lg"
           />
         </div>
