@@ -197,6 +197,17 @@ const EcosystemSection = () => {
               </div>
             </div>
           )}
+
+          {/* Quote */}
+          <blockquote className="max-w-4xl mx-auto mt-12 md:mt-16 border-l-4 border-primary pl-6 py-2">
+            <p className="text-base md:text-lg text-muted-foreground italic leading-relaxed">
+              "O Ecossistema Assistencial da Adventist Health Brasil tem como objetivo colocar nossos beneficiários e pacientes no centro do cuidado, por meio da integração entre os três níveis de atenção à saúde: Clínicas Adventistas, Centros Médicos e Hospitais, além dos Centros de Apoio à Saúde, que incluem as linhas de cuidado, a atenção domiciliar e a Clínica Adventista Digital."
+            </p>
+            <footer className="mt-3 text-sm font-semibold text-foreground">
+              Dr. Davi Reis Lopes
+              <span className="block text-muted-foreground font-normal">Diretor Executivo Médico</span>
+            </footer>
+          </blockquote>
         </div>
       </section>
 
