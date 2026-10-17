@@ -1,0 +1,60 @@
+{
+  "_comment": "Roteiro da narração dividido em blocos curtos de legenda. 'emphasis' lista palavras destacadas em dourado. Os tempos ficam em narration-timing.json.",
+  "scenes": [
+    {
+      "id": "cena-1",
+      "showCaptions": false,
+      "chunks": [
+        { "text": "Davi não fazia ideia" },
+        { "text": "do que estava acontecendo" },
+        { "text": "na casa dele." }
+      ]
+    },
+    {
+      "id": "cena-2",
+      "chunks": [
+        { "text": "Enquanto Samuel estava diante dos seus irmãos", "emphasis": ["Samuel"] },
+        { "text": "para identificar o futuro rei de Israel," },
+        { "text": "Davi continuava no campo,", "emphasis": ["Davi"] },
+        { "text": "cuidando das ovelhas." }
+      ]
+    },
+    {
+      "id": "cena-3",
+      "chunks": [
+        { "text": "Esse detalhe me fez pensar." },
+        { "text": "Minha mãe sempre dizia:" },
+        { "text": "você nunca sabe quem está observando", "emphasis": ["nunca"] },
+        { "text": "e o que pode acontecer em seguida." }
+      ]
+    },
+    {
+      "id": "cena-4",
+      "chunks": [
+        { "text": "Às vezes, seguimos a vida" },
+        { "text": "com a impressão de que nada está acontecendo." },
+        { "text": "Mas será que," },
+        { "text": "só porque não conseguimos enxergar,", "emphasis": ["enxergar"] },
+        { "text": "significa que Deus não está agindo?", "emphasis": ["Deus", "agindo"] }
+      ]
+    },
+    {
+      "id": "cena-5",
+      "chunks": [
+        { "text": "Gosto de pensar em Deus como um roteirista", "emphasis": ["roteirista"] },
+        { "text": "que já nos revelou o final da história," },
+        { "text": "mas não contou como seriam" },
+        { "text": "todos os capítulos até lá.", "emphasis": ["capítulos"] }
+      ]
+    },
+    {
+      "id": "cena-6",
+      "chunks": [
+        { "text": "E talvez essa seja uma das coisas mais bonitas" },
+        { "text": "de caminhar com Deus:", "emphasis": ["Deus"] },
+        { "text": "descobrir, um dia de cada vez,", "emphasis": ["um dia de cada vez"] },
+        { "text": "os próximos capítulos dessa história.", "emphasis": ["próximos", "capítulos"] }
+      ]
+    }
+  ]
+}

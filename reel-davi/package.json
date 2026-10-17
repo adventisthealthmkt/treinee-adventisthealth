@@ -1,0 +1,31 @@
+{
+  "name": "reel-davi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reel cinematográfico (1 Samuel 16:1–13) — Remotion + React + TypeScript",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "preview": "remotion render src/index.ts DaviReel out/previa-davi-reel.mp4 --codec=h264 --scale=0.5 --crf=26",
+    "still": "remotion still src/index.ts DaviReel out/quadro.jpg --frame=60",
+    "render": "remotion render src/index.ts DaviReel out/davi-reel-voz-guia.mp4 --codec=h264 --crf=18",
+    "render:sem-voz": "remotion render src/index.ts DaviReelSemVoz out/davi-reel-sem-voz.mp4 --codec=h264 --crf=18",
+    "voz-guia": "python3 scripts/generate_guide_voice.py",
+    "trilha": "python3 scripts/generate_music.py",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.536",
+    "@remotion/fonts": "^4.0.536",
+    "@remotion/media-utils": "^4.0.536",
+    "@remotion/transitions": "^4.0.536",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "remotion": "^4.0.536"
+  },
+  "devDependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@types/react": "^19.1.0",
+    "typescript": "^5.6.3"
+  }
+}
