@@ -19,7 +19,7 @@ cd reel-davi
 npm install
 npm run studio          # abre o Remotion Studio para revisar no navegador
 npm run preview         # prévia rápida em meia resolução → out/previa-davi-reel.mp4
-npm run render          # versão final com narração   → out/davi-reel-voz-guia.mp4
+npm run render          # versão final com narração   → out/davi-reel-final.mp4
 npm run render:sem-voz  # versão final sem narração   → out/davi-reel-sem-voz.mp4
 ```
 
@@ -36,7 +36,7 @@ reel-davi/
 ├─ public/
 │  ├─ audio/
 │  │  ├─ trilha.wav              trilha instrumental original (gerada por scripts/generate_music.py)
-│  │  └─ narracao/cena-1..6.wav  narração — HOJE É UMA VOZ-GUIA SINTÉTICA (ver abaixo)
+│  │  └─ narracao/cena-1..6.wav  narração gravada (um arquivo por cena)
 │  ├─ fonts/                     Cormorant Garamond + Inter (licença OFL), embutidas
 │  └─ images/                    grain.png (grão de filme) + suas fotos/vídeos opcionais
 ├─ scripts/
@@ -74,10 +74,12 @@ reel-davi/
   terceiros. Para trocar por fotos/vídeos licenciados, veja "Usar fotos ou vídeos reais".
 - **Trilha:** composição original sintetizada por `scripts/generate_music.py`
   (sem samples). Pode ser usada livremente ou substituída por uma trilha licenciada.
-- **Narração:** a voz atual é uma **voz-guia sintética** (Piper TTS, voz
-  `pt-br-edresson-low`, dataset sob CC BY 4.0 — crédito: Edresson Casanova,
-  *TTS-Portuguese-Corpus*). Ela serve para validar ritmo e sincronia; **não** tem a
-  naturalidade de um locutor e deve ser trocada pela narração definitiva antes de publicar.
+- **Narração:** gravação original do off, enviada em um único arquivo e cortada
+  por cena (na cena 6 foi usado o segundo take, sem erro). Volume normalizado em
+  −16 LUFS. Os tempos das legendas foram alinhados à gravação.
+  A versão anterior usava uma voz-guia sintética (Piper TTS, voz `pt-br-edresson-low`,
+  CC BY 4.0 — Edresson Casanova, *TTS-Portuguese-Corpus*); o script continua em
+  `scripts/generate_guide_voice.py` para testes de roteiro.
 - **Fontes:** Cormorant Garamond e Inter, SIL Open Font License (cópias em `public/fonts`).
 
 ---

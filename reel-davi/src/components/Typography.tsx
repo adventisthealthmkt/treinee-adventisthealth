@@ -1,7 +1,7 @@
 import React from "react";
 import { AbsoluteFill, staticFile, useCurrentFrame } from "remotion";
 import { loadFont } from "@remotion/fonts";
-import { Chunk, FPS, SAFE, WIDTH } from "../config";
+import { Chunk, FPS, SAFE, TEXT_MARGIN, WIDTH } from "../config";
 import { progress } from "../lib/motion";
 import { PALETTE } from "./nature";
 
@@ -51,22 +51,24 @@ const wordTimes = (words: string[], start: number, end: number) => {
   });
 };
 
-const Word: React.FC<{ word: string; appear: number; frame: number; emphasized: boolean; emphasisStyle: React.CSSProperties }> = ({
-  word,
-  appear,
-  frame,
-  emphasized,
-  emphasisStyle,
-}) => {
+const Word: React.FC<{
+  word: string;
+  appear: number;
+  frame: number;
+  emphasized: boolean;
+  emphasisStyle: React.CSSProperties;
+  last: boolean;
+}> = ({ word, appear, frame, emphasized, emphasisStyle, last }) => {
+  // A frase inteira aparece centralizada em tom apagado; cada palavra acende quando é falada.
   const p = progress(frame, appear * FPS - 2, appear * FPS + 9);
   return (
     <span
       style={{
         display: "inline-block",
-        opacity: p,
-        transform: `translateY(${(1 - p) * 10}px)`,
-        filter: `blur(${(1 - p) * 5}px)`,
-        marginRight: "0.26em",
+        opacity: 0.32 + 0.68 * p,
+        transform: `translateY(${(1 - p) * 3}px)`,
+        // sem espaço depois da última palavra, para não deslocar o texto do centro
+        marginRight: last ? 0 : "0.26em",
         ...(emphasized ? emphasisStyle : null),
       }}
     >
@@ -92,7 +94,10 @@ export const Captions: React.FC<{ chunks: Chunk[]; hideAfter?: number }> = ({ ch
   const c = chunks[activeIndex];
   const next = chunks[activeIndex + 1];
   const until = next ? next.start - 0.05 : c.end + 0.9;
-  const out = 1 - progress(frame, (until - 0.22) * FPS, until * FPS);
+  const out = Math.min(
+    progress(frame, (c.start - 0.1) * FPS, (c.start + 0.1) * FPS),
+    1 - progress(frame, (until - 0.22) * FPS, until * FPS),
+  );
   const words = c.text.split(/\s+/);
   const times = wordTimes(words, c.start, c.end);
   const em = emphasisIndices(words, c.emphasis);
@@ -113,8 +118,8 @@ export const Captions: React.FC<{ chunks: Chunk[]; hideAfter?: number }> = ({ ch
       <div
         style={{
           position: "absolute",
-          left: SAFE.left,
-          width: WIDTH - SAFE.left - SAFE.right,
+          left: TEXT_MARGIN,
+          width: WIDTH - TEXT_MARGIN * 2,
           bottom: SAFE.bottom + 70,
           minHeight: 150,
           display: "flex",
@@ -143,6 +148,7 @@ export const Captions: React.FC<{ chunks: Chunk[]; hideAfter?: number }> = ({ ch
               frame={frame}
               emphasized={em.has(i)}
               emphasisStyle={{ color: PALETTE.gold, fontWeight: 600 }}
+              last={i === words.length - 1}
             />
           ))}
         </div>
@@ -182,7 +188,7 @@ export const Headline: React.FC<HeadlineProps> = ({
 }) => {
   const frame = useCurrentFrame();
   const out = to === undefined ? 1 : 1 - progress(frame, (to - 0.6) * FPS, to * FPS);
-  if (frame < from * FPS - 5 || out <= 0) return null;
+  if (frame < from * FPS - 15 || out <= 0) return null;
 
   // tempos de cada palavra: sincronizados com a narração ou por linha
   const allWords = lines.flatMap((l, li) => l.split(/\s+/).map((w) => ({ w, li })));
@@ -204,8 +210,8 @@ export const Headline: React.FC<HeadlineProps> = ({
       <div
         style={{
           position: "absolute",
-          left: SAFE.left + 10,
-          width: WIDTH - SAFE.left - SAFE.right - 20,
+          left: TEXT_MARGIN,
+          width: WIDTH - TEXT_MARGIN * 2,
           top: y,
           transform: "translateY(-50%)",
           textAlign: align,
@@ -221,19 +227,21 @@ export const Headline: React.FC<HeadlineProps> = ({
       >
         {lines.map((line, li) => (
           <div key={li} style={{ marginBottom: "0.08em", whiteSpace: "nowrap" }}>
-            {line.split(/\s+/).map((w) => {
+            {line.split(/\s+/).map((w, wi, lineWords) => {
               const i = k++;
               const appear = times[i];
               const p = progress(frame, appear * FPS - 2, appear * FPS + (syncTo ? 10 : 22));
+              // sincronizado com a voz: a frase já aparece inteira e centralizada, apagada
+              const base = syncTo ? progress(frame, from * FPS - 12, from * FPS) * 0.28 : 0;
               return (
                 <span
                   key={i}
                   style={{
                     display: "inline-block",
-                    opacity: p,
-                    transform: `translateY(${(1 - p) * 14}px)`,
-                    filter: `blur(${(1 - p) * 8}px)`,
-                    marginRight: "0.24em",
+                    opacity: base + (1 - base) * p,
+                    transform: `translateY(${(1 - p) * (syncTo ? 4 : 14)}px)`,
+                    filter: syncTo ? undefined : `blur(${(1 - p) * 8}px)`,
+                    marginRight: wi === lineWords.length - 1 ? 0 : "0.24em",
                     ...(em.has(i) ? { color: PALETTE.gold, fontStyle: "italic" } : null),
                   }}
                 >
@@ -265,6 +273,7 @@ export const Reference: React.FC<{ text: string; from: number; y?: number }> = (
           fontWeight: 500,
           fontSize: 30,
           letterSpacing: "0.28em",
+          paddingLeft: "0.28em", // compensa o espaçamento após a última letra
           textTransform: "uppercase",
           color: PALETTE.sand,
           opacity: p * 0.9,

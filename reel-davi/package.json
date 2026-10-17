@@ -7,7 +7,7 @@
     "studio": "remotion studio src/index.ts",
     "preview": "remotion render src/index.ts DaviReel out/previa-davi-reel.mp4 --codec=h264 --scale=0.5 --crf=26",
     "still": "remotion still src/index.ts DaviReel out/quadro.jpg --frame=60",
-    "render": "remotion render src/index.ts DaviReel out/davi-reel-voz-guia.mp4 --codec=h264 --crf=18",
+    "render": "remotion render src/index.ts DaviReel out/davi-reel-final.mp4 --codec=h264 --crf=18",
     "render:sem-voz": "remotion render src/index.ts DaviReelSemVoz out/davi-reel-sem-voz.mp4 --codec=h264 --crf=18",
     "voz-guia": "python3 scripts/generate_guide_voice.py",
     "trilha": "python3 scripts/generate_music.py",

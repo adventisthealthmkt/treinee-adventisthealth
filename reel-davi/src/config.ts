@@ -14,6 +14,12 @@ export const TRANSITION = 30;
  */
 export const SAFE = { top: 250, bottom: 440, left: 90, right: 150 };
 
+/**
+ * Margem lateral dos textos. É simétrica para que o texto fique centralizado no quadro;
+ * 120 px de cada lado já mantém o texto longe da coluna de ícones à direita.
+ */
+export const TEXT_MARGIN = 120;
+
 export type SceneId = "cena-1" | "cena-2" | "cena-3" | "cena-4" | "cena-5" | "cena-6";
 
 export type SceneConfig = {
@@ -30,11 +36,11 @@ export type SceneConfig = {
  */
 export const SCENES: SceneConfig[] = [
   { id: "cena-1", duration: 225, narrationAt: 1.0 },
-  { id: "cena-2", duration: 375, narrationAt: 0.8 },
-  { id: "cena-3", duration: 375, narrationAt: 0.6 },
-  { id: "cena-4", duration: 465, narrationAt: 0.6 },
-  { id: "cena-5", duration: 450, narrationAt: 0.6 },
-  { id: "cena-6", duration: 510, narrationAt: 0.8 },
+  { id: "cena-2", duration: 375, narrationAt: 0.9 },
+  { id: "cena-3", duration: 375, narrationAt: 1.2 },
+  { id: "cena-4", duration: 465, narrationAt: 0.8 },
+  { id: "cena-5", duration: 450, narrationAt: 1.0 },
+  { id: "cena-6", duration: 510, narrationAt: 1.4 },
 ];
 
 export const TOTAL_FRAMES =
