@@ -35,7 +35,7 @@ npm run render:sem-voz  # versão final sem narração   → out/davi-reel-sem-v
 reel-davi/
 ├─ public/
 │  ├─ audio/
-│  │  ├─ trilha.wav              trilha instrumental original (gerada por scripts/generate_music.py)
+│  │  ├─ trilha.wav              trilha sonora (75 s, já cortada e com fades)
 │  │  └─ narracao/cena-1..6.wav  narração gravada (um arquivo por cena)
 │  ├─ fonts/                     Cormorant Garamond + Inter (licença OFL), embutidas
 │  └─ images/                    grain.png (grão de filme) + suas fotos/vídeos opcionais
@@ -72,8 +72,12 @@ reel-davi/
 - **Imagens:** todas as cenas são **ilustrações cinematográficas desenhadas em código**
   (SVG em camadas com parallax, contraluz, névoa, grão e vinheta). Não há fotos de
   terceiros. Para trocar por fotos/vídeos licenciados, veja "Usar fotos ou vídeos reais".
-- **Trilha:** composição original sintetizada por `scripts/generate_music.py`
-  (sem samples). Pode ser usada livremente ou substituída por uma trilha licenciada.
+- **Trilha:** "le bout du chemin" — Rrrrrose Azerty, enviada pela equipe como
+  "Free to Use" (Audio Library). Usados os primeiros 75 s, com fade-in/out e
+  volume normalizado em −16 LUFS. **Antes de publicar, confira na fonte original se a
+  licença exige crédito ao artista na legenda do post.**
+  A trilha original sintetizada anterior pode ser recriada com `npm run trilha`
+  (isso sobrescreve `public/audio/trilha.wav`).
 - **Narração:** gravação original do off, enviada em um único arquivo e cortada
   por cena (na cena 6 foi usado o segundo take, sem erro). Volume normalizado em
   −16 LUFS. Os tempos das legendas foram alinhados à gravação.

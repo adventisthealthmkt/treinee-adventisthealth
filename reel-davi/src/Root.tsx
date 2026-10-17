@@ -13,7 +13,7 @@ export const RemotionRoot: React.FC = () => (
       fps={FPS}
       width={WIDTH}
       height={HEIGHT}
-      defaultProps={{ withVoice: true, musicVolume: 0.55, musicDucked: 0.22 } satisfies DaviReelProps}
+      defaultProps={{ withVoice: true, musicVolume: 0.55, musicDucked: 0.18 } satisfies DaviReelProps}
     />
     {/* Versão só com trilha e legendas (sem narração). */}
     <Composition
