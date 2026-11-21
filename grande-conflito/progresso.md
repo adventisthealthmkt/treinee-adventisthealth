@@ -35,7 +35,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 37 — acrescentadas referências sem indicação no original: Lucas 10:25, 26, Atos 9:6.
 - [x] Capítulo 38 — sem observações.
 - [ ] Capítulo 39
-- [ ] Capítulo 40
+- [x] Capítulo 40 — acrescentadas referências sem indicação no original: 2 Coríntios 12:9, Filipenses 3:21, 1 Coríntios 15:52, Mateus 24:31, Isaías 52:14, Mateus 25:34, Hebreus 2:13.
 - [x] Capítulo 41 — sem observações ("Jud. 6" escrito como Judas 6).
 - [x] Capítulo 42 — sem observações.
 - [ ] Montar o arquivo final O-Grande-Conflito-linguagem-facil.md
