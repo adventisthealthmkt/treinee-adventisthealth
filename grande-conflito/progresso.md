@@ -13,7 +13,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 15 — acrescentadas referências sem indicação no original: Apocalipse 1:9, Isaías 57:15, Provérbios 11:5, Isaías 40:8.
 - [x] Capítulo 16 — acrescentada a referência Judas 1:3 ("a fé que foi entregue aos santos"), sem indicação no original.
 - [x] Capítulo 17 — sem observações ("Jud. 14 e 15" escrito como Judas 14, 15).
-- [ ] Capítulo 18
+- [x] Capítulo 18 — sem observações (omitida a nota de versão "(TB)" em Mateus 24:15).
 - [x] Capítulo 19 — acrescentada a referência Salmos 25:10 na citação final, sem indicação no original.
 - [x] Capítulo 20 — sem observações (retirada a marca de versão "(VI)" em Isaías 66:5).
 - [ ] Capítulo 21

@@ -234,3 +234,69 @@ Mesmo assim, ele não fez o seu trabalho sem enfrentar uma oposição forte. Com
 Mas a Palavra de Deus era o único testemunho que os pregadores da verdade do advento aceitavam. "A Bíblia, e somente a Bíblia" era o seu lema. Como os opositores não tinham argumentos das Santas Escrituras, eles os substituíam por zombaria e desprezo. Gastavam tempo, dinheiro e talento para difamar pessoas cuja única falta era esperar com alegria a volta do seu Senhor, procurar viver uma vida santa e convidar os outros a se preparar para a Sua vinda.
 
 Faziam grandes esforços para desviar a mente do povo do assunto da segunda vinda. Tentavam passar a ideia de que estudar as profecias sobre a vinda de Cristo e o fim do mundo era pecado, algo de que as pessoas deviam ter vergonha. Assim, os pastores populares enfraqueciam a fé na Palavra de Deus. O seu ensino tornava as pessoas descrentes, e muitos se sentiram livres para viver conforme os seus próprios desejos maus. Depois, os causadores desse mal colocaram toda a culpa nos adventistas.
+
+Miller conseguia encher os lugares de reunião com ouvintes inteligentes e atentos. Mesmo assim, a imprensa religiosa raramente falava do seu nome, a não ser para acusá-lo e ridicularizá-lo. Os descuidados e os ímpios, encorajados pela atitude dos líderes religiosos, usavam apelidos ofensivos, piadas baixas e palavras contra Deus, tentando cobrir de insultos ele e o seu trabalho. Aquele homem de cabelos brancos tinha deixado o seu lar confortável para viajar por conta própria, de cidade em cidade, de vila em vila. Trabalhava sem parar para levar ao mundo o aviso solene do juízo que se aproximava. E era acusado, de forma baixa, de fanático, mentiroso e aproveitador.
+
+A zombaria, as mentiras e os insultos jogados sobre ele provocaram protestos indignados até mesmo da imprensa não religiosa. Homens do mundo declaravam que tratar "um assunto de tão grande majestade e de consequências tão terríveis" com descaso e linguagem baixa "não era apenas brincar com os sentimentos dos que o pregam e defendem", mas "zombar do dia do juízo, fazer pouco do próprio Deus e desprezar os terrores do Seu tribunal" (Bliss).
+
+### Protegido por um anjo
+
+O causador de todo o mal tentava não só anular o efeito da mensagem do advento, mas também destruir o próprio mensageiro. Miller aplicava a verdade das Escrituras de forma prática ao coração dos seus ouvintes. Ele repreendia os seus pecados e abalava a satisfação que tinham consigo mesmos. Por isso, as suas palavras claras e diretas despertaram ódio.
+
+A oposição que os membros das igrejas mostravam contra a sua mensagem encorajava as pessoas mais baixas a ir ainda mais longe. Alguns inimigos combinaram tirar a vida dele quando saísse do local da reunião. Mas anjos santos estavam na multidão. Certa vez, um deles, com aparência de homem, pegou o braço desse servo do Senhor e o levou em segurança para longe da multidão furiosa. O seu trabalho ainda não tinha terminado, e Satanás e os seus agentes viram os seus planos fracassarem.
+
+### Expulsos das igrejas
+
+Apesar de toda a oposição, o interesse pelo movimento adventista continuou crescendo. As reuniões passaram de dezenas e centenas para milhares de pessoas. As várias igrejas cresceram muito. Mas, depois de algum tempo, apareceu um espírito de oposição contra esses novos convertidos, e as igrejas começaram a tomar medidas de disciplina contra os que tinham aceitado as ideias de Miller.
+
+Isso levou Miller a escrever uma resposta, dirigida aos cristãos de todas as denominações. Ele insistia que, se as suas doutrinas eram falsas, lhe mostrassem o erro pelas Escrituras.
+
+> "Em que temos crido", disse ele, "que não nos tenha sido mandado pela Palavra de Deus, que vocês mesmos reconhecem ser a regra, e a única regra, da nossa fé e da nossa prática? O que temos feito para provocar acusações tão violentas contra nós, do púlpito e da imprensa, e para dar a vocês um motivo justo para nos expulsar [os adventistas] das suas igrejas e da sua comunhão?" "Se estamos errados, peço que nos mostrem onde está o nosso erro. Mostrem-nos, pela Palavra de Deus, que estamos enganados. Já fomos bastante ridicularizados, e isso nunca vai nos convencer de que estamos errados. Só a Palavra de Deus pode mudar as nossas opiniões. Chegamos às nossas conclusões depois de pensar com cuidado e orar muito, e ao ver as provas nas Escrituras." (Bliss)
+
+### Como nos dias de Noé
+
+Século após século, os avisos que Deus mandou ao mundo pelos Seus servos foram recebidos com a mesma falta de fé e descrença. Quando a maldade dos que viveram antes do dilúvio levou Deus a mandar o dilúvio sobre a Terra, Ele primeiro lhes contou o Seu plano, para que tivessem a chance de abandonar os seus maus caminhos. Durante cento e vinte anos, eles ouviram o aviso para se arrepender, para que a ira de Deus não viesse destruí-los. Mas a mensagem lhes parecia uma história sem sentido, e eles não acreditaram.
+
+Ficando cada vez mais ousados na sua maldade, zombavam do mensageiro de Deus. Recebiam os seus apelos com pouco caso e até o acusavam de ser arrogante. Como um homem tinha coragem de se levantar contra todos os grandes da Terra? Se a mensagem de Noé era verdadeira, por que o mundo inteiro não a via e não acreditava nela? Era a palavra de um só homem contra a sabedoria de milhares! Eles não quiseram acreditar no aviso nem buscar abrigo na arca.
+
+Os zombadores apontavam para a natureza: a mudança das estações, sempre igual; o céu azul, que nunca tinha derramado chuva; os campos verdes, refrescados pelo orvalho suave da noite. E diziam: "Ele está contando histórias?" Com desprezo, diziam que o pregador da justiça era um fanático completo. E continuavam correndo atrás dos prazeres com mais vontade, mais decididos do que nunca nos seus maus caminhos.
+
+Mas a sua descrença não impediu o acontecimento anunciado. Deus suportou a maldade deles por muito tempo e lhes deu bastante oportunidade para se arrepender. Mas, no tempo marcado, os juízos do Senhor caíram sobre os que tinham rejeitado a Sua misericórdia.
+
+Cristo declara que haverá a mesma descrença em relação à Sua segunda vinda. As pessoas do tempo de Noé "não perceberam nada, até que veio o dilúvio e levou todos. Assim também será", nas palavras do nosso Salvador, "a vinda do Filho do Homem" (Mateus 24:39). O povo que diz ser de Deus estará se unindo ao mundo, vivendo como o mundo vive e aproveitando com ele prazeres proibidos. O luxo do mundo será o luxo da igreja. Os sinos estarão tocando para casamentos, e todos estarão olhando para o futuro, esperando muitos anos de prosperidade nesta vida. É então que, de repente, como o relâmpago brilha no céu, chegará o fim dos seus sonhos brilhantes e das suas falsas esperanças.
+
+Assim como Deus mandou o Seu servo para avisar o mundo do dilúvio que viria, Ele também mandou mensageiros escolhidos para anunciar que o juízo final estava perto. E, assim como as pessoas do tempo de Noé riam com desprezo das previsões do pregador da justiça, no tempo de Miller muitos, até mesmo entre os que diziam ser povo de Deus, zombavam das palavras de aviso.
+
+### Boas notícias que deveriam alegrar
+
+E por que a doutrina e a pregação da segunda vinda de Cristo foram tão mal recebidas pelas igrejas? Para os ímpios, a vinda do Senhor traz sofrimento e destruição. Mas, para os justos, ela é cheia de alegria e esperança. Essa grande verdade tem sido o consolo dos fiéis de Deus em todos os séculos. Por que ela se tornou, como o seu Autor, "uma pedra de tropeço e uma rocha que faz cair" para quem diz ser o Seu povo?
+
+Foi o nosso próprio Senhor quem prometeu aos Seus discípulos: "Quando Eu for e preparar um lugar para vocês, voltarei e os levarei para ficarem comigo" (João 14:3). Foi o Salvador cheio de compaixão que, prevendo a solidão e a tristeza dos Seus seguidores, mandou anjos consolá-los com a certeza de que Ele voltaria em pessoa, do mesmo jeito que tinha ido para o Céu.
+
+Os discípulos estavam olhando fixamente para cima, para ver pela última vez Aquele a quem amavam. Então ouviram estas palavras: "Homens da Galileia, por que vocês estão olhando para o céu? Esse mesmo Jesus, que foi levado do meio de vocês para o Céu, vai voltar do mesmo jeito que vocês O viram ir para o Céu" (Atos 1:11). A mensagem do anjo acendeu de novo a esperança. Os discípulos "voltaram para Jerusalém com grande alegria. E estavam sempre no templo, louvando e agradecendo a Deus" (Lucas 24:52, 53). Eles não estavam alegres porque Jesus tinha Se separado deles e os tinha deixado para lutar com as provações e tentações do mundo. Estavam alegres por causa da certeza, dada pelo anjo, de que Ele voltaria.
+
+O anúncio da vinda de Cristo deveria ser hoje, como foi quando os anjos o fizeram aos pastores de Belém, uma boa notícia de grande alegria. Os que amam de verdade o Salvador vão receber com alegria o anúncio, baseado na Palavra de Deus, de que Aquele em quem estão todas as esperanças de vida eterna vai voltar. Ele não virá para ser insultado, desprezado e rejeitado, como na Sua primeira vinda, mas com poder e glória, para salvar o Seu povo. Quem não deseja a Sua vinda são os que não amam o Salvador. E não pode haver prova mais clara de que as igrejas se afastaram de Deus do que a irritação e o ódio despertados por essa mensagem enviada pelo Céu.
+
+### Uma nova vida espiritual
+
+Os que aceitaram a doutrina do advento perceberam que precisavam se arrepender e se humilhar diante de Deus. Muitos tinham ficado por muito tempo divididos entre Cristo e o mundo. Agora entendiam que era hora de tomar uma decisão. "As coisas da eternidade se tornaram reais para eles como nunca. O Céu estava perto deles, e eles se sentiam culpados diante de Deus" (Bliss).
+
+Os cristãos despertaram para uma nova vida espiritual. Entenderam que o tempo era curto e que o que tinham de fazer pelos outros precisava ser feito depressa. A Terra parecia ficar para trás, e a eternidade parecia se abrir diante deles. A alma, com tudo o que tem a ver com a sua felicidade ou sofrimento eterno, fazia sumir qualquer objetivo deste mundo. O Espírito de Deus estava sobre eles e dava força aos apelos sinceros que faziam aos seus irmãos e aos pecadores, para que se preparassem para o dia de Deus.
+
+O testemunho silencioso da sua vida diária era uma repreensão constante aos membros das igrejas que só seguiam formalidades e não tinham dedicação a Deus. Esses não queriam ser incomodados na sua busca de prazeres, no seu desejo de ganhar dinheiro e na sua ambição por honras deste mundo. Daí vieram o ódio e a oposição contra a fé no advento e contra os que a anunciavam.
+
+### "Quem lê, entenda"
+
+Como os argumentos baseados nos períodos proféticos não podiam ser derrubados, os opositores tentaram desanimar o estudo desse assunto, ensinando que as profecias estavam fechadas. Assim, os protestantes seguiram os passos dos católicos romanos. A igreja do papa tirava a Bíblia do povo. E as igrejas protestantes diziam que uma parte importante da Palavra Sagrada não podia ser entendida, justamente a parte que trazia verdades próprias para o nosso tempo.
+
+Pastores e membros declaravam que as profecias de Daniel e do Apocalipse eram mistérios impossíveis de entender. Mas Cristo chamou a atenção dos Seus discípulos para as palavras do profeta Daniel sobre os acontecimentos que aconteceriam no tempo deles, e disse: "Quem lê, entenda" (Mateus 24:15). E a ideia de que o Apocalipse é um mistério que não pode ser entendido é contrariada pelo próprio título do livro: "Revelação de Jesus Cristo, que Deus Lhe deu para mostrar aos Seus servos as coisas que vão acontecer em breve... Feliz aquele que lê, e felizes os que ouvem as palavras desta profecia e guardam o que está escrito nela, porque o tempo está perto" (Apocalipse 1:1-3).
+
+O profeta diz: "Feliz aquele que lê." Há os que não querem ler, e a bênção não é para eles. "E os que ouvem." Também há alguns que se recusam a ouvir qualquer coisa sobre as profecias, e a bênção não é para esse grupo. "E guardam o que está escrito nela." Muitos se recusam a dar atenção aos avisos e ensinos do Apocalipse, e nenhum deles pode reclamar a bênção prometida. Todos os que ridicularizam os temas da profecia e zombam dos símbolos dados ali de forma tão solene, todos os que se recusam a mudar de vida e a se preparar para a vinda do Filho do Homem, não serão abençoados.
+
+### Um livro aberto
+
+Diante do testemunho da Inspiração, como as pessoas têm coragem de ensinar que o Apocalipse é um mistério, fora do alcance da inteligência humana? Ele é um mistério revelado, um livro aberto. O estudo do Apocalipse leva a mente às profecias de Daniel. E os dois livros trazem instruções importantíssimas, dadas por Deus ao ser humano, sobre os fatos que vão acontecer no final da história deste mundo.
+
+Foram mostradas a João cenas de interesse profundo e emocionante na experiência da igreja. Ele viu a situação, os perigos, as lutas e a libertação final do povo de Deus. Ele registra as últimas mensagens que vão amadurecer a colheita da Terra: ou os feixes para o celeiro do Céu, ou os feixes para o fogo da destruição. Assuntos de enorme importância lhe foram revelados, especialmente para a última igreja. Assim, os que deixassem o erro e se voltassem para a verdade poderiam ser instruídos sobre os perigos e as lutas que teriam pela frente. Ninguém precisa ficar no escuro sobre o que está para acontecer na Terra.
+
+Por que, então, existe tanta ignorância sobre uma parte importante das Sagradas Escrituras? Por que essa falta de vontade geral de estudar os seus ensinos? Isso é resultado de um esforço planejado do príncipe das trevas para esconder das pessoas aquilo que revela os seus enganos. Por esse motivo, Cristo, o Revelador, prevendo a luta que seria feita contra o estudo do Apocalipse, prometeu uma bênção aos que lessem, ouvissem e guardassem as palavras da profecia.
