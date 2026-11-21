@@ -3,7 +3,7 @@
 Marque [x] quando o capítulo estiver reescrito e verificado. Anote observações na mesma linha.
 
 - [x] Introdução — acrescentadas referências sem indicação no original: Apocalipse 12:11, Apocalipse 1:2, Colossenses 1:12. Página de direitos autorais, licença e sumário do PDF não foram reescritos.
-- [x] Capítulos 1 a 8 — feitos no documento do claude.ai (colocar em reescrito/01-a-08.md). Referências corrigidas: "2 João 1:51" → João 1:51 (cap. 1); "Efésios 1:17" → Neemias 4:18 (cap. 3).
+- [x] Capítulos 1 a 8 — feitos no documento do claude.ai (salvos em reescrito/01-a-08.md, exportados do documento do claude.ai). Referências corrigidas: "2 João 1:51" → João 1:51 (cap. 1); "Efésios 1:17" → Neemias 4:18 (cap. 3).
 - [x] Capítulo 9 — sem observações.
 - [x] Capítulo 10 — sem observações.
 - [x] Capítulo 11 — acrescentadas referências sem indicação no original: Atos 5:29, 2 Coríntios 4:18, Efésios 6:12, Efésios 6:17, Mateus 16:18.
