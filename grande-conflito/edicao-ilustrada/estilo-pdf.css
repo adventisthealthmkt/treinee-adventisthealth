@@ -76,7 +76,7 @@ p { margin: 0; }
 .abertura-titulo { position: absolute; left: 17mm; right: 22mm; bottom: 34mm; color: #F7EEDC; }
 .abertura-num { font: 400 6.6pt "Unbounded"; letter-spacing: .34em; text-transform: uppercase; color: #F7EEDC; margin-bottom: 7mm; }
 .abertura-num .traco { display: inline-block; width: 13mm; height: .8pt; background: #E99C61; vertical-align: middle; margin-right: 3.5mm; }
-.cap-titulo { margin: 0; line-height: 1.04; bookmark-level: 1; bookmark-label: "Capítulo 1 — Predito o destino do mundo"; }
+.cap-titulo { margin: 0; line-height: 1.04; bookmark-level: 1; }
 .cap-titulo .leve  { font-size: 15.5pt; letter-spacing: .04em; margin-bottom: 1.6mm; }
 .cap-titulo .forte { font-size: 27pt; font-weight: 700; letter-spacing: -.012em; color: #F7EEDC; }
 .abertura .regua { margin: 8mm 0 6mm; }

@@ -24,7 +24,12 @@ FONTES = RAIZ / "fontes"
 SAIDA = RAIZ / "saida"
 TEXTO = RAIZ / "texto-cap01.md"
 
-TITULO_CAP = "Predito o destino do mundo"
+# Título da versão em linguagem simples (primeira linha de texto-cap01.md),
+# dividido em parte leve (Unbounded 400) e parte forte (Unbounded 700).
+TITULO_CAP = re.sub(r"^## Capítulo \d+ — ", "", TEXTO.read_text(encoding="utf-8").splitlines()[0]).strip()
+TITULO_LEVE, TITULO_FORTE = "O destino do mundo", "foi anunciado"
+assert f"{TITULO_LEVE} {TITULO_FORTE}" == TITULO_CAP, TITULO_CAP
+TITULO_HTML = f'<span class="leve">{TITULO_LEVE}</span> <span class="forte">{TITULO_FORTE}</span>'
 KICKER_CAP = "Jesus e Jerusalém"
 
 # ---------------------------------------------------------------- texto
@@ -264,7 +269,7 @@ def html_pdf(epigrafe, secoes, imgs):
   <div class="abertura-arte">{marcador}
     <div class="abertura-titulo">
       <p class="abertura-num"><span class="traco"></span>Capítulo 01</p>
-      <h1 class="cap-titulo"><span class="leve">Predito o</span> <span class="forte">destino do mundo</span></h1>
+      <h1 class="cap-titulo" style="bookmark-label: 'Capítulo 1 — {TITULO_CAP}'">{TITULO_HTML}</h1>
       <div class="regua"></div>
       <p class="abertura-kicker">{KICKER_CAP}</p>
     </div>
@@ -356,7 +361,7 @@ def montar_epub(epigrafe, secoes, imgs):
         f'<section epub:type="chapter" role="doc-chapter" aria-labelledby="cap01-titulo">'
         f'<header class="abertura">{arte}'
         '<p class="abertura-num">Capítulo 01</p>'
-        f'<h1 id="cap01-titulo" class="cap-titulo"><span class="leve">Predito o</span> <span class="forte">destino do mundo</span></h1>'
+        f'<h1 id="cap01-titulo" class="cap-titulo">{TITULO_HTML}</h1>'
         f'<p class="abertura-kicker">{KICKER_CAP}</p></header>'
         f'<blockquote class="epigrafe" epub:type="epigraph" role="doc-epigraph"><p>{inline(epi_txt)}</p><p class="ref">{epi_ref}</p></blockquote>'
         + corpo_capitulo(secoes, h="h2").replace('<aside class="especial', '<aside epub:type="sidebar" class="especial')

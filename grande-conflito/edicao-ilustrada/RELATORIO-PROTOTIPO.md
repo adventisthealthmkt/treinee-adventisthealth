@@ -37,7 +37,7 @@ A abertura do capítulo 1 tem um **marcador** no lugar da ilustração. Por deci
 ## Decisões editoriais
 
 - O texto é o **capítulo 1 aprovado** (do documento do claude.ai), sem alterações.
-- O título segue o original e o mockup: "Predito o destino do mundo", com o subtítulo "Jesus e Jerusalém".
+- Esta linha editorial é a da **versão em linguagem simples** feita neste projeto (`reescrito/`). Por isso os títulos de capítulo são os da versão simples: no capítulo 1, "O destino do mundo foi anunciado" (no original: "Predito o destino do mundo"), com o subtítulo "Jesus e Jerusalém".
 - **Citações bíblicas e de historiadores têm estilos diferentes:**
   - versículos em Literata Italic com fio terracota;
   - Milman em bloco recuado com fio claro e a fonte em versal.
