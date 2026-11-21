@@ -24,7 +24,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 26 — acrescentada a referência Apocalipse 14:12, sem indicação no original.
 - [x] Capítulo 27 — sem observações.
 - [x] Capítulo 28 — sem observações.
-- [ ] Capítulo 29
+- [x] Capítulo 29 — acrescentadas referências sem indicação no original: 1 João 3:4, Romanos 3:26, Isaías 42:21, Romanos 6:23.
 - [x] Capítulo 30 — acrescentada a referência Atos 20:19, sem indicação no original.
 - [x] Capítulo 31 — sem observações.
 - [ ] Capítulo 32
