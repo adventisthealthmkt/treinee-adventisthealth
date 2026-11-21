@@ -29,7 +29,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 31 — sem observações.
 - [x] Capítulo 32 — acrescentadas referências sem indicação no original: Atos 16:30, 2 Coríntios 2:16, Mateus 6:13.
 - [ ] Capítulo 33
-- [ ] Capítulo 34
+- [x] Capítulo 34 — acrescentadas referências sem indicação no original: Eclesiastes 9:5, Hebreus 1:14, 1 Timóteo 4:1, Efésios 6:12. Corrigido erro do PDF: "deverá haver castigo para o pecador" → "não haverá castigo" (falta do "não" invertia o sentido).
 - [ ] Capítulo 35
 - [ ] Capítulo 36
 - [ ] Capítulo 37
