@@ -26,7 +26,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [ ] Capítulo 28
 - [ ] Capítulo 29
 - [x] Capítulo 30 — acrescentada a referência Atos 20:19, sem indicação no original.
-- [ ] Capítulo 31
+- [x] Capítulo 31 — sem observações.
 - [ ] Capítulo 32
 - [ ] Capítulo 33
 - [ ] Capítulo 34
