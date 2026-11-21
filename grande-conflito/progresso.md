@@ -32,7 +32,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 34 — acrescentadas referências sem indicação no original: Eclesiastes 9:5, Hebreus 1:14, 1 Timóteo 4:1, Efésios 6:12. Corrigido erro do PDF: "deverá haver castigo para o pecador" → "não haverá castigo" (falta do "não" invertia o sentido).
 - [ ] Capítulo 35
 - [x] Capítulo 36 — sem observações.
-- [ ] Capítulo 37
+- [x] Capítulo 37 — acrescentadas referências sem indicação no original: Lucas 10:25, 26, Atos 9:6.
 - [x] Capítulo 38 — sem observações.
 - [ ] Capítulo 39
 - [ ] Capítulo 40
