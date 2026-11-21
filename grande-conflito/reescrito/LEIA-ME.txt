@@ -1,0 +1,2 @@
+Coloque aqui o documento com os capítulos 1 a 8 (baixado do claude.ai) com o nome 01-a-08.docx ou 01-a-08.md.
+Os capítulos novos (09-capitulo.md em diante) vão aparecer nesta pasta.

@@ -1,0 +1,41 @@
+# Progresso da reescrita
+
+Marque [x] quando o capítulo estiver reescrito e verificado. Anote observações na mesma linha.
+
+- [ ] Introdução
+- [x] Capítulos 1 a 8 — feitos no documento do claude.ai (colocar em reescrito/01-a-08.md). Referências corrigidas: "2 João 1:51" → João 1:51 (cap. 1); "Efésios 1:17" → Neemias 4:18 (cap. 3).
+- [ ] Capítulo 9
+- [ ] Capítulo 10
+- [ ] Capítulo 11
+- [ ] Capítulo 12
+- [ ] Capítulo 13
+- [ ] Capítulo 14
+- [ ] Capítulo 15
+- [ ] Capítulo 16
+- [ ] Capítulo 17
+- [ ] Capítulo 18
+- [ ] Capítulo 19
+- [ ] Capítulo 20
+- [ ] Capítulo 21
+- [ ] Capítulo 22
+- [ ] Capítulo 23
+- [ ] Capítulo 24
+- [ ] Capítulo 25
+- [ ] Capítulo 26
+- [ ] Capítulo 27
+- [ ] Capítulo 28
+- [ ] Capítulo 29
+- [ ] Capítulo 30
+- [ ] Capítulo 31
+- [ ] Capítulo 32
+- [ ] Capítulo 33
+- [ ] Capítulo 34
+- [ ] Capítulo 35
+- [ ] Capítulo 36
+- [ ] Capítulo 37
+- [ ] Capítulo 38
+- [ ] Capítulo 39
+- [ ] Capítulo 40
+- [ ] Capítulo 41
+- [ ] Capítulo 42
+- [ ] Montar o arquivo final O-Grande-Conflito-linguagem-facil.md
