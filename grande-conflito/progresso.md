@@ -9,7 +9,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 11 — acrescentadas referências sem indicação no original: Atos 5:29, 2 Coríntios 4:18, Efésios 6:12, Efésios 6:17, Mateus 16:18.
 - [ ] Capítulo 12
 - [x] Capítulo 13 — sem observações.
-- [ ] Capítulo 14
+- [x] Capítulo 14 — acrescentadas referências sem indicação no original: Judas 3, Hebreus 4:9, João 1:29, Isaías 55:1, 1 Coríntios 2:2. Textos bíblicos dentro das falas de Wesley ficaram sem referência.
 - [ ] Capítulo 15
 - [x] Capítulo 16 — acrescentada a referência Judas 1:3 ("a fé que foi entregue aos santos"), sem indicação no original.
 - [x] Capítulo 17 — sem observações ("Jud. 14 e 15" escrito como Judas 14, 15).
