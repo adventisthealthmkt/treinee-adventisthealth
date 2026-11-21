@@ -8,7 +8,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 10 — sem observações.
 - [ ] Capítulo 11
 - [ ] Capítulo 12
-- [ ] Capítulo 13
+- [x] Capítulo 13 — sem observações.
 - [ ] Capítulo 14
 - [ ] Capítulo 15
 - [ ] Capítulo 16
