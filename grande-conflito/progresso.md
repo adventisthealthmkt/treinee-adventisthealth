@@ -7,7 +7,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 9 — sem observações.
 - [x] Capítulo 10 — sem observações.
 - [x] Capítulo 11 — acrescentadas referências sem indicação no original: Atos 5:29, 2 Coríntios 4:18, Efésios 6:12, Efésios 6:17, Mateus 16:18.
-- [ ] Capítulo 12
+- [x] Capítulo 12 — acrescentadas referências sem indicação no original: Gênesis 1:3, Apocalipse 1:18, Lucas 19:42, 44, Tito 2:11, Isaías 5:20.
 - [x] Capítulo 13 — sem observações.
 - [x] Capítulo 14 — acrescentadas referências sem indicação no original: Judas 3, Hebreus 4:9, João 1:29, Isaías 55:1, 1 Coríntios 2:2. Textos bíblicos dentro das falas de Wesley ficaram sem referência.
 - [x] Capítulo 15 — acrescentadas referências sem indicação no original: Apocalipse 1:9, Isaías 57:15, Provérbios 11:5, Isaías 40:8.
