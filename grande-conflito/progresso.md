@@ -27,7 +27,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 29 — acrescentadas referências sem indicação no original: 1 João 3:4, Romanos 3:26, Isaías 42:21, Romanos 6:23.
 - [x] Capítulo 30 — acrescentada a referência Atos 20:19, sem indicação no original.
 - [x] Capítulo 31 — sem observações.
-- [ ] Capítulo 32
+- [x] Capítulo 32 — acrescentadas referências sem indicação no original: Atos 16:30, 2 Coríntios 2:16, Mateus 6:13.
 - [ ] Capítulo 33
 - [ ] Capítulo 34
 - [ ] Capítulo 35
