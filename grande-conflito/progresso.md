@@ -36,6 +36,6 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 38 — sem observações.
 - [ ] Capítulo 39
 - [ ] Capítulo 40
-- [ ] Capítulo 41
+- [x] Capítulo 41 — sem observações ("Jud. 6" escrito como Judas 6).
 - [ ] Capítulo 42
 - [ ] Montar o arquivo final O-Grande-Conflito-linguagem-facil.md
