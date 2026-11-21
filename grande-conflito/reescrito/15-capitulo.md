@@ -145,3 +145,159 @@ Quando a deusa foi apresentada à Convenção, o orador a pegou pela mão e, vir
 > "Depois de ser abraçada pelo presidente, a deusa foi colocada num carro luxuoso e levada, no meio de uma multidão enorme, até a catedral de Notre-Dame, para ocupar o lugar de Deus. Ali ela foi erguida sobre o altar principal e recebeu a adoração de todos os presentes." (Alison)
 
 Pouco tempo depois veio a queima pública da Bíblia. Numa ocasião, "a Sociedade Popular do Museu" entrou no salão da prefeitura gritando: "Vive la Raison!" ("Viva a Razão!"). Eles carregavam, na ponta de um mastro, os restos meio queimados de vários livros, entre eles breviários e missais (livros de orações e da missa) e o Antigo e o Novo Testamento. O presidente disse que esses livros estavam "pagando num grande fogo por todas as loucuras que tinham feito a raça humana cometer" (*Journal de Paris*, 14 de novembro de 1793, nº 318).
+
+### Roma começou, o ateísmo terminou
+
+Foi o papado que começou a obra que o ateísmo estava terminando. A política de Roma tinha criado as condições sociais, políticas e religiosas que estavam empurrando a França para a ruína.
+
+Quando falam dos horrores da Revolução, alguns escritores dizem que a culpa desses exageros é do trono e da igreja. Com toda a justiça, a culpa deve ser colocada na igreja. O papado tinha envenenado a mente dos reis contra a Reforma. Dizia que ela era inimiga da coroa e uma fonte de divisão que acabaria com a paz e a união do país. Foi o espírito de Roma que, desse modo, inspirou a crueldade mais assustadora e a opressão mais humilhante que vinham do trono.
+
+O espírito de liberdade acompanhava a Bíblia. Onde o evangelho era recebido, o povo acordava. As pessoas começavam a quebrar as correntes que as tinham mantido escravas da ignorância, do vício e da superstição. Começavam a pensar e a agir como gente livre. Quando os reis viram isso, tiveram medo de perder o seu poder absoluto.
+
+### Roma assusta os reis
+
+Roma não demorou a atiçar esse medo e esse ciúme. Em 1525, o papa disse ao regente (governante no lugar do rei) da França: "Essa mania [o protestantismo] não vai apenas confundir e destruir a religião, mas também todos os governos, a nobreza, as leis, as ordens e as classes, tudo junto" (G. de Félice, *História dos Protestantes da França*).
+
+Poucos anos depois, um núncio (embaixador do papa) avisou o rei: "Majestade, não se engane. Os protestantes vão derrubar toda a ordem civil e religiosa. [...] O trono está em tão grande perigo quanto o altar. [...] Quem traz uma nova religião vai, por força, trazer também um novo governo" (D'Aubigné, *História da Reforma no Tempo de Calvino*). E os teólogos apelavam para os preconceitos do povo. Diziam que a doutrina protestante "leva as pessoas à novidade e à loucura, tira do rei o amor dedicado dos seus súditos e destrói tanto a Igreja quanto o Estado".
+
+Assim Roma conseguiu colocar a França contra a Reforma. "Foi para segurar o trono, proteger os nobres e manter as leis que, pela primeira vez, a espada da perseguição foi tirada da bainha na França" (Wylie).
+
+### O que a Bíblia teria dado à França
+
+Os governantes do país nem imaginavam os resultados daquela política fatal. O ensino da Bíblia teria colocado na mente e no coração do povo os princípios de justiça, equilíbrio, verdade, honestidade e bondade. Esses princípios são a própria base da prosperidade de uma nação.
+
+"A justiça engrandece uma nação" (Provérbios 14:34). E "é com justiça que o trono se mantém firme" (Provérbios 16:12). "O fruto da justiça será a paz, e o resultado da justiça será tranquilidade e segurança para sempre" (Isaías 32:17). Quem obedece à lei de Deus é quem melhor vai respeitar e obedecer às leis do seu país. Quem teme a Deus vai honrar o rei em todo uso justo e legítimo da autoridade.
+
+Mas a infeliz França proibiu a Bíblia e condenou os seus seguidores. Século após século, homens de princípios e honestos, de mente aguçada e força moral, tiveram coragem de confessar o que criam e fé para sofrer pela verdade. Durante séculos, esses homens trabalharam como escravos nas galeras, morreram na fogueira ou apodreceram em celas de calabouços. Milhares e milhares encontraram segurança fugindo. E isso continuou por duzentos e cinquenta anos depois do começo da Reforma.
+
+### A fuga dos melhores filhos da França
+
+> "Durante esse longo período, quase não houve uma geração de franceses que não visse os seguidores do evangelho fugindo da fúria louca do perseguidor. Eles levavam consigo a inteligência, as artes, a indústria e a ordem, em que geralmente se destacavam muito, e com isso enriqueciam os países que lhes davam abrigo. E, à medida que enchiam outros países com esses dons valiosos, tiravam esses dons do seu próprio país.
+>
+> "Se tudo o que foi expulso naquela época tivesse ficado na França; se, durante esses trezentos anos, a habilidade dos exilados no trabalho tivesse cultivado o seu solo; se, durante esses trezentos anos, o seu talento artístico tivesse aperfeiçoado as suas indústrias; se, durante esses três séculos, a sua capacidade de inventar e de analisar tivesse enriquecido a sua literatura e desenvolvido a sua ciência; se a sabedoria deles tivesse guiado os seus conselhos, a sua coragem tivesse lutado nas suas batalhas e a sua honestidade tivesse feito as suas leis; e se a religião da Bíblia tivesse fortalecido a mente e governado a consciência do seu povo, que glória não cercaria a França hoje! Que país grande, próspero e feliz, um modelo para as nações, ela não teria sido!
+>
+> "Mas o fanatismo cego expulsou do seu solo todo mestre da virtude, todo defensor da ordem, todo defensor honesto do trono. Disse aos homens que teriam dado ao país 'fama e glória' na Terra: Escolham o que vocês querem: a fogueira ou o exílio. Por fim, a ruína do Estado foi completa. Não sobravam mais consciências para expulsar, nem religião para arrastar até a fogueira, nem amor à pátria para mandar para o exílio." (Wylie)
+
+E a Revolução, com todos os seus horrores, foi o resultado terrível.
+
+> "Com a fuga dos huguenotes, a França entrou em decadência geral. Cidades de fábricas que antes prosperavam entraram em declínio. Regiões férteis voltaram a ser terra bruta. A preguiça mental e a decadência moral vieram depois de um tempo de progresso fora do comum. Paris virou um enorme abrigo de mendigos. Calcula-se que, quando a Revolução começou, duzentos mil pobres pediam ajuda ao rei. Só os jesuítas prosperavam naquela nação em decadência, e eles governavam com uma tirania terrível as escolas e as igrejas, as prisões e as galeras."
+
+### Ricos contra pobres
+
+O evangelho teria dado à França a solução dos problemas políticos e sociais que derrotavam a habilidade do seu clero, do seu rei e dos seus legisladores, e que no fim jogaram a nação na desordem e na ruína. Mas, sob o domínio de Roma, o povo tinha perdido as lições abençoadas do Salvador sobre o sacrifício e o amor que não pensa em si. As pessoas tinham sido afastadas da prática de renunciar a si mesmas pelo bem dos outros.
+
+Os ricos não tinham recebido nenhuma repreensão por oprimir os pobres. E os pobres não tinham recebido nenhuma ajuda na sua escravidão e humilhação. O egoísmo dos ricos e poderosos ficava cada vez mais visível e pesado. Durante séculos, a ganância e a vida imoral dos nobres resultaram numa exploração esmagadora dos camponeses. Os ricos roubavam os pobres, e os pobres odiavam os ricos.
+
+Em muitas províncias, as terras pertenciam aos nobres, e os trabalhadores eram apenas arrendatários (pagavam para usar a terra). Eles ficavam nas mãos dos donos e tinham de aceitar as suas exigências abusivas. O peso de sustentar a Igreja e o Estado caía sobre as classes média e baixa, que pagavam pesados impostos às autoridades do governo e ao clero.
+
+> "O capricho dos nobres era a lei mais alta. Os lavradores e camponeses podiam morrer de fome, e isso não tocava o coração dos opressores. [...] O povo era obrigado a pensar sempre e só no interesse do dono da terra. A vida dos trabalhadores do campo era de trabalho sem fim e miséria sem alívio. As suas queixas, quando tinham coragem de se queixar, eram tratadas com desprezo insolente. Os tribunais sempre davam razão ao nobre contra o camponês. Os juízes aceitavam suborno abertamente, e o menor capricho da aristocracia tinha força de lei, por causa desse sistema de corrupção geral.
+>
+> "Dos impostos arrancados do povo comum pelos poderosos do governo, de um lado, e pelo clero, do outro, nem a metade chegava ao tesouro do rei ou dos bispos. O resto era desperdiçado em prazeres imorais. E os mesmos homens que empobreciam assim os seus compatriotas não pagavam impostos e, pela lei e pelos costumes, tinham direito a todos os cargos do Estado. As classes privilegiadas somavam uns cento e cinquenta mil membros, e, para satisfazê-las, milhões estavam condenados a uma vida de humilhação sem saída."
+
+A corte vivia no luxo e na libertinagem (vida sem limites morais). Havia pouca confiança entre o povo e os governantes. Todo ato do governo era visto com desconfiança, como se tivesse más intenções e fosse egoísta.
+
+### "Depois de mim, o dilúvio!"
+
+Durante mais de meio século antes da Revolução, o trono foi ocupado por Luís XV. Mesmo naqueles tempos ruins, ele se destacou como um rei preguiçoso, fútil e entregue aos prazeres. A aristocracia era corrupta e cruel, as classes de baixo eram pobres e ignorantes, o Estado estava com problemas de dinheiro e o povo estava revoltado. Não era preciso ser profeta para prever que uma explosão terrível estava perto.
+
+Quando os seus conselheiros o avisavam, o rei costumava responder: "Tratem de fazer as coisas continuarem como estão enquanto eu provavelmente estiver vivo. Depois que eu morrer, seja o que Deus quiser." Era inútil insistir que era preciso fazer reformas. Ele via os males, mas não tinha nem coragem nem força para enfrentá-los. A sua resposta preguiçosa e egoísta resumia, com verdade, o destino que esperava a França: "Depois de mim, o dilúvio!"
+
+### Roma prende a alma do povo
+
+Roma tinha se aproveitado do ciúme dos reis e das classes que governavam. Ela os influenciou a manter o povo na escravidão, sabendo muito bem que isso enfraqueceria o Estado. Com isso, o seu plano era prender no cativeiro tanto os príncipes quanto o povo. Com uma estratégia que via longe, Roma percebeu que, para escravizar as pessoas de verdade, era preciso acorrentar a alma delas. O jeito mais seguro de impedir que fugissem do cativeiro era torná-las incapazes de se libertar.
+
+Mil vezes pior do que o sofrimento físico causado por essa política era a degradação moral. Sem a Bíblia, e entregue ao ensino do fanatismo e do egoísmo, o povo estava cercado de ignorância e superstição e afundado no vício. Por isso, estava totalmente despreparado para governar a si mesmo.
+
+Mas o resultado de tudo isso foi bem diferente do que Roma queria. Em vez de manter o povo em obediência cega aos seus dogmas (ensinos obrigatórios), a obra de Roma deixou o povo incrédulo e revolucionário. O povo desprezava o romanismo como uma armação do clero. Via a Igreja como um grupo que o oprimia. O único deus que conhecia era o deus de Roma, e o ensino de Roma era a única religião que conhecia. O povo achava que a ganância e a crueldade de Roma eram os frutos naturais da Bíblia, e por isso não queria saber dela.
+
+### Liberdade confundida com libertinagem
+
+Roma tinha dado uma ideia falsa do caráter de Deus e distorcido os Seus mandamentos. Agora as pessoas rejeitavam tanto a Bíblia quanto o seu Autor. Roma tinha exigido fé cega nos seus dogmas, dizendo que eles tinham apoio da Bíblia. Na reação, Voltaire e os seus companheiros jogaram fora de uma vez a Palavra de Deus e espalharam por toda parte o veneno da descrença.
+
+Roma tinha esmagado o povo debaixo do seu salto de ferro. Agora o povo, humilhado e embrutecido, se revoltou contra a tirania e jogou fora todo limite. Furioso com a mentira disfarçada que tinha honrado por tanto tempo, rejeitou ao mesmo tempo a verdade e a mentira. Confundindo libertinagem com liberdade, os escravos do vício festejaram uma liberdade que só existia na imaginação deles.
+
+No começo da Revolução, por concessão do rei, o povo recebeu uma representação maior do que a dos nobres e do clero somados. Assim, o poder estava nas mãos dele. Mas o povo não estava preparado para usar esse poder com sabedoria e equilíbrio. Com pressa de consertar os males que tinha sofrido, decidiu reconstruir a sociedade.
+
+Uma multidão revoltada, com a mente cheia de lembranças dolorosas acumuladas por muito tempo, resolveu se levantar contra aquela miséria que tinha ficado insuportável. E quis se vingar de quem considerava culpado pelo seu sofrimento. Os oprimidos colocaram em prática a lição que tinham aprendido sob a tirania e se tornaram opressores dos que antes os tinham oprimido.
+
+### A colheita de sangue
+
+A infeliz França colheu em sangue o que tinha plantado. Os resultados de ter se submetido ao poder dominador de Roma foram terríveis. No lugar onde a França, sob a influência do romanismo, tinha acendido a primeira fogueira no começo da Reforma, a Revolução montou a sua primeira guilhotina. No mesmo local onde os primeiros mártires da fé protestante foram queimados no século 16, as primeiras vítimas foram guilhotinadas no século 18.
+
+Ao rejeitar o evangelho, que teria trazido cura, a França abriu a porta para a descrença e a ruína. Quando os limites da lei de Deus foram deixados de lado, ficou claro que as leis humanas não tinham força para segurar a onda violenta das paixões humanas. E a nação caiu na revolta e na desordem total. A guerra contra a Bíblia começou uma época que ficou conhecida na história do mundo como "o Reinado do Terror".
+
+A paz e a felicidade foram expulsas dos lares e do coração das pessoas. Ninguém estava seguro. Quem vencia hoje era visto com suspeita e condenado amanhã. A violência e a ganância dominavam sem ninguém para impedir.
+
+### O Reinado do Terror
+
+O rei, o clero e a nobreza tiveram de se submeter às crueldades do povo agitado e enlouquecido. A sede de vingança dele aumentou ainda mais com a execução do rei. E os que tinham decretado a morte do rei logo o seguiram no cadafalso (lugar de execução). Foi ordenada a matança geral de todos os suspeitos de serem contra a Revolução.
+
+As prisões ficaram lotadas: numa certa época, tinham mais de duzentos mil presos. Cenas de horror se multiplicavam nas cidades do reino. Um grupo de revolucionários lutava contra outro, e a França virou um enorme campo de multidões em briga, dominadas pela fúria das paixões. "Em Paris, um tumulto vinha depois do outro, e os cidadãos estavam divididos numa mistura de partidos que pareciam não querer outra coisa senão se exterminar uns aos outros."
+
+E, para aumentar a miséria geral, a nação entrou numa guerra longa e devastadora contra as grandes potências da Europa. "O país estava quase falido, o exército exigia os salários atrasados, os parisienses passavam fome, as províncias eram atacadas por ladrões, e a civilização estava quase apagada pela desordem e pela imoralidade."
+
+### Roma prova do próprio veneno
+
+O povo tinha aprendido muito bem as lições de crueldade e tortura que Roma tinha ensinado com tanto cuidado. Finalmente tinha chegado o dia do troco. Não eram mais os discípulos de Jesus que eram jogados nos calabouços e arrastados para a tortura. Fazia muito tempo que eles tinham morrido ou sido mandados para o exílio. Agora Roma sentia o poder mortal daqueles a quem tinha ensinado a gostar de derramar sangue.
+
+> "O exemplo de perseguição que o clero da França tinha dado abertamente por tantos séculos agora se voltava contra ele mesmo, com muita força. Os cadafalsos estavam vermelhos com o sangue dos padres. As galeras e prisões, que antes eram cheias de huguenotes, agora estavam lotadas dos seus perseguidores. Acorrentado ao banco, ou trabalhando nos remos, o clero católico romano passou por todas as desgraças que a sua igreja tinha causado tão à vontade aos hereges pacíficos."
+
+> "Vieram então os dias em que o código de leis mais bárbaro foi aplicado pelo tribunal mais bárbaro. Ninguém podia cumprimentar os vizinhos ou fazer as suas orações [...] sem correr o risco de cometer um crime punido com a morte. Havia espiões escondidos por toda parte. Toda manhã a guilhotina trabalhava rápido e sem parar. As cadeias estavam tão cheias quanto o porão de um navio de escravos. Nas sarjetas, o sangue corria espumando até o rio Sena. [...]
+>
+> "Enquanto todos os dias carroças cheias de vítimas eram levadas para a morte pelas ruas de Paris, os procônsules (governadores) que a comissão suprema tinha mandado às províncias se divertiam de forma absurda com uma crueldade que nem na capital se conhecia. A lâmina da máquina de matar subia devagar demais para aquele trabalho de matança. Longas filas de prisioneiros eram derrubadas a tiros de canhão. Barcos lotados eram afundados com buracos no fundo. Lyon virou um deserto. Em Arras, nem a misericórdia cruel de uma morte rápida era dada aos prisioneiros.
+>
+> "Ao longo de todo o rio Loire, de Saumur até a sua foz no oceano, grandes bandos de corvos e gaviões se fartavam com os cadáveres nus, amarrados juntos em abraços horríveis. Não havia misericórdia nem por sexo nem por idade. O número de rapazes e moças de dezessete anos mortos por aquele governo odioso chega às centenas. Bebês arrancados do peito da mãe eram jogados de lança em lança ao longo das fileiras dos jacobinos (o grupo revolucionário mais radical)."
+
+No curto espaço de dez anos, multidões de seres humanos morreram.
+
+### O plano de Satanás
+
+Tudo isso era o que Satanás queria. Durante séculos ele tinha trabalhado para conseguir isso. A sua política é o engano, do começo ao fim. O seu objetivo fixo é trazer desgraça e miséria aos seres humanos, deformar e rebaixar a obra de Deus, distorcer os planos de bondade e amor de Deus, e assim causar tristeza no Céu.
+
+Depois, com as suas artes de enganar, ele cega a mente das pessoas e as leva a culpar a Deus pelos males que ele mesmo causou, como se toda essa miséria fosse resultado do plano do Criador. Da mesma forma, quando os que foram humilhados e embrutecidos pelo seu poder cruel ganham a liberdade, ele os empurra para exageros e crueldades. Então os tiranos e opressores apontam para esse quadro de imoralidade sem freio como exemplo do que a liberdade produz.
+
+Quando o erro é descoberto numa forma, Satanás só troca a máscara e o apresenta com outro disfarce. E as multidões o aceitam com a mesma vontade da primeira vez. Quando o povo descobriu que o romanismo era um engano, Satanás não conseguiu mais usá-lo para levar o povo a quebrar a lei de Deus. Então o levou a considerar todas as religiões uma fraude e a Bíblia uma lenda. E, deixando de lado as leis de Deus, as pessoas se entregaram a uma maldade sem freio.
+
+### A verdadeira liberdade
+
+O erro fatal que trouxe tanta desgraça ao povo da França foi não conhecer esta única e grande verdade: a verdadeira liberdade está dentro dos limites da lei de Deus. "Ah, se você tivesse prestado atenção aos Meus mandamentos! A sua paz seria como um rio, e a sua justiça como as ondas do mar" (Isaías 48:18). "Para os maus não existe paz, diz o Senhor" (Isaías 48:22). "Mas quem Me ouvir vai viver em segurança e tranquilo, sem medo do mal" (Provérbios 1:33).
+
+Ateus, incrédulos e os que abandonaram a fé se opunham à lei de Deus e a acusavam. Mas os resultados da influência deles provam que o bem-estar do ser humano depende da obediência às leis de Deus. Quem não aprendeu essa lição no Livro de Deus é convidado a aprendê-la na história das nações.
+
+Quando Satanás agiu por meio da Igreja de Roma para afastar as pessoas da obediência, ele fez isso escondido e tão disfarçado que a degradação e a miséria que vieram disso nem foram vistas como fruto da desobediência. E o seu poder foi tão freado pela ação do Espírito de Deus que os seus planos não chegaram a se realizar por completo. O povo não ligava o efeito à causa, nem descobria de onde vinham as suas misérias. Mas na Revolução a lei de Deus foi deixada de lado abertamente pelo Conselho Nacional. E no Reinado do Terror que veio depois, todos puderam ver como a causa produz o efeito.
+
+### A paciência de Deus tem limite
+
+Quando a França rejeitou Deus em público e deixou a Bíblia de lado, os homens maus e os espíritos das trevas festejaram por terem alcançado o objetivo que desejavam havia tanto tempo: um reino livre dos limites da lei de Deus. Como a sentença contra o mal não foi executada logo, o coração das pessoas ficou "totalmente decidido a praticar o mal" (Eclesiastes 8:11).
+
+Mas a desobediência a uma lei justa e certa vai, sem falta, trazer miséria e ruína. Mesmo que não tenha sido castigada na hora, a maldade das pessoas estava, com toda a certeza, preparando a sua condenação. Séculos de afastamento da fé e de crimes tinham acumulado ira para o dia do acerto de contas. E, quando a maldade chegou ao limite, os que desprezavam a Deus aprenderam, tarde demais, como é terrível esgotar a paciência de Deus.
+
+O Espírito de Deus, que segura e põe limite ao poder cruel de Satanás, foi em grande parte retirado. E aquele que só sente prazer na miséria humana pôde fazer o que queria. Os que tinham escolhido servir à rebelião foram deixados para colher os seus frutos, até que a Terra se encheu de crimes horríveis demais para serem descritos. Das províncias devastadas e das cidades em ruínas se ouviu um grito terrível, um grito de angústia amarga. A França foi sacudida como por um terremoto. Religião, leis, ordem social, família, Estado e Igreja: tudo foi derrubado pela mão perversa que tinha se levantado contra a lei de Deus.
+
+O sábio falou a verdade: "O mau vai cair pela sua própria maldade" (Provérbios 11:5). "Ainda que o pecador faça o mal cem vezes e viva muito tempo, eu sei com certeza que tudo vai bem para os que temem a Deus, para os que O respeitam. Mas para o mau as coisas não vão bem" (Eclesiastes 8:12, 13). "Eles odiaram o conhecimento e não escolheram temer o Senhor"; "por isso vão comer o fruto do seu caminho e vão se encher dos seus próprios planos" (Provérbios 1:29, 31).
+
+### As testemunhas se levantam
+
+As testemunhas fiéis de Deus, mortas pelo poder blasfemo que subiu "do abismo", não iam ficar caladas por muito tempo. "Depois daqueles três dias e meio, um sopro de vida que veio de Deus entrou neles. Eles se levantaram, e um grande medo tomou conta de quem os viu" (Apocalipse 11:11).
+
+Foi em 1793 que a Assembleia francesa aprovou os decretos que acabavam com a religião cristã e deixavam a Bíblia de lado. Três anos e meio depois, a mesma assembleia aprovou uma resolução que cancelava esses decretos e, assim, permitia de novo as Escrituras. O mundo ficou chocado com o tamanho dos crimes que tinham resultado de rejeitar a Bíblia. E as pessoas reconheceram que a fé em Deus e na Sua Palavra é necessária como base da virtude e da moral.
+
+O Senhor diz: "Quem você insultou e contra quem você blasfemou? Contra quem você levantou a voz e ergueu os olhos com orgulho? Contra o Santo de Israel!" (Isaías 37:23). "Por isso, desta vez Eu vou mostrar a eles, vou fazê-los conhecer a Minha mão e o Meu poder. E eles vão saber que o Meu nome é o Senhor" (Jeremias 16:21).
+
+### As testemunhas sobem ao Céu
+
+Sobre as duas testemunhas, o profeta diz ainda: "Então elas ouviram uma voz forte do Céu, que lhes dizia: 'Subam aqui.' E elas subiram ao Céu numa nuvem, enquanto os seus inimigos olhavam" (Apocalipse 11:12). Desde que a França fez guerra contra as duas testemunhas de Deus, elas têm sido honradas como nunca antes.
+
+Em 1804 foi fundada a Sociedade Bíblica Britânica e Estrangeira. Depois dela vieram organizações parecidas, com muitas filiais no continente europeu. Em 1816 foi fundada a Sociedade Bíblica Americana. Quando a Sociedade Britânica foi criada, a Bíblia tinha sido impressa e distribuída em cinquenta línguas. Desde então, ela foi traduzida para mais de duas mil línguas e dialetos.
+
+Nos cinquenta anos antes de 1792, pouca atenção tinha sido dada ao trabalho das missões em outros países. Nenhuma sociedade nova foi criada, e só poucas igrejas faziam algum esforço para espalhar o cristianismo nas terras pagãs. Mas no fim do século 18 houve uma grande mudança. As pessoas ficaram insatisfeitas com os resultados do racionalismo (a ideia de que só a razão humana basta). Perceberam que precisavam da revelação de Deus e de uma religião vivida na prática. Desde então, o trabalho das missões em outros países cresceu como nunca.
+
+Os avanços na imprensa deram força ao trabalho de distribuir a Bíblia. Vários fatores abriram caminho para a Palavra de Deus entrar: a maior facilidade de comunicação entre os países, a queda de antigas barreiras de preconceito e de fechamento de cada nação, e a perda do poder político do papa. Há anos a Bíblia é vendida livremente nas ruas de Roma, e hoje está sendo levada a todas as partes habitadas do mundo.
+
+### A bigorna que gasta os martelos
+
+O incrédulo Voltaire disse uma vez, se gabando: "Estou cansado de ouvir dizer que doze homens fundaram a religião cristã. Eu vou provar que basta um homem para acabar com ela." Já faz mais de um século que ele morreu. Milhões entraram na guerra contra a Bíblia. Mas ela está tão longe de ser destruída que, onde havia cem exemplares do Livro de Deus no tempo de Voltaire, hoje há dez mil, ou melhor, cem mil.
+
+Nas palavras de um dos primeiros reformadores sobre a igreja cristã: "A Bíblia é uma bigorna que já gastou muitos martelos." O Senhor disse: "Nenhuma arma feita contra você vai ter sucesso, e você vai condenar toda língua que se levantar contra você no julgamento" (Isaías 54:17).
+
+"A Palavra do nosso Deus permanece para sempre" (Isaías 40:8). "Todos os Seus mandamentos são dignos de confiança. Eles ficam firmes para todo o sempre, feitos com verdade e retidão" (Salmos 111:7, 8). Tudo o que for construído sobre a autoridade humana vai ser destruído. Mas o que estiver fundado sobre a rocha da Palavra de Deus, que nunca muda, vai permanecer para sempre.
