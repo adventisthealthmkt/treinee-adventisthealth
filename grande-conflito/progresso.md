@@ -20,7 +20,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 22 — acrescentadas referências sem indicação no original: Apocalipse 12:10, João 1:29.
 - [x] Capítulo 23 — sem observações ("2:18" abreviado no original escrito como Hebreus 2:18).
 - [x] Capítulo 24 — acrescentadas referências sem indicação no original: João 20:20, João 20:13, 1 Coríntios 15:58, 1 Pedro 1:3, 1 Pedro 1:8, Apocalipse 14:7, Mateus 25:10.
-- [ ] Capítulo 25
+- [x] Capítulo 25 — "Verso 15" escrito como Apocalipse 17:15; acrescentadas referências sem indicação no original: Hebreus 8:5, Salmos 89:37, Apocalipse 14:6, 14:7, 14:12, 13:2, 13:3, 13:5, 13:5-7, 13:10, 2 Tessalonicenses 2:3, 4.
 - [x] Capítulo 26 — acrescentada a referência Apocalipse 14:12, sem indicação no original.
 - [ ] Capítulo 27
 - [x] Capítulo 28 — sem observações.
