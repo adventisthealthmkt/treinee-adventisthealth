@@ -247,3 +247,73 @@ O evangelho da paz que a França tinha rejeitado ia mesmo ser arrancado, e os re
 E o rei não foi a única vítima. Perto do mesmo lugar, dois mil e oitocentos seres humanos morreram na guilhotina durante os dias sangrentos do Reinado do Terror.
 
 A Reforma tinha apresentado ao mundo a Bíblia aberta. Tinha mostrado os mandamentos da lei de Deus e insistido nas suas exigências para a consciência das pessoas. O amor infinito tinha mostrado aos homens as leis e os princípios do Céu. Deus tinha dito: "Guardem e cumpram essas leis, porque assim vocês vão mostrar a sua sabedoria e o seu entendimento aos outros povos. Eles vão ouvir falar de todas essas leis e vão dizer: 'De fato, esta grande nação é um povo sábio e inteligente'" (Deuteronômio 4:6). Quando a França rejeitou o presente do Céu, plantou as sementes da desordem e da ruína. E a lei inevitável de causa e efeito resultou na Revolução e no Reinado do Terror.
+
+### Farel na Suíça
+
+Muito antes da perseguição causada pelos cartazes, o ousado e apaixonado Farel tinha sido obrigado a fugir da terra onde nasceu. Ele foi para a Suíça e, com o seu trabalho, ajudando a obra de Zwínglio, contribuiu para fazer a balança pender a favor da Reforma. Ele ia passar ali os seus últimos anos. Mesmo assim, continuou tendo uma influência decisiva sobre a Reforma na França.
+
+Nos primeiros anos de exílio, os seus esforços se concentraram em espalhar o evangelho no seu país natal. Ele passou bastante tempo pregando aos seus compatriotas perto da fronteira. Ali, com atenção incansável, acompanhava a luta e ajudava com palavras de ânimo e conselho. Com a ajuda de outros exilados, os escritos dos reformadores alemães foram traduzidos para o francês e impressos em grande quantidade, junto com a Bíblia em francês. Colportores (vendedores de livros que iam de lugar em lugar) venderam essas obras por toda a França. Eles recebiam os livros por um preço baixo, e assim o lucro do trabalho permitia que continuassem.
+
+Farel começou o seu trabalho na Suíça com a roupa simples de professor de escola. Foi para uma paróquia afastada e se dedicou a ensinar as crianças. Além das matérias comuns, ele colocava com cuidado as verdades da Bíblia, esperando alcançar os pais por meio das crianças. Alguns creram. Mas os padres se levantaram para parar o trabalho, e o povo supersticioso do campo se opôs a ele. "Este não pode ser o evangelho de Cristo", insistiam os padres, "porque a sua pregação não traz paz, mas guerra" (Wylie).
+
+### Perseguido, mas sempre voltando
+
+Como os primeiros discípulos, quando era perseguido numa cidade, ele fugia para outra. Ia de vila em vila, de cidade em cidade, viajando a pé. Sofria fome, frio e cansaço e corria perigo de vida em todo lugar. Pregava nas praças, nas igrejas e às vezes nos púlpitos das catedrais. Às vezes encontrava a igreja sem ninguém para ouvir. Outras vezes a sua pregação era interrompida com gritos e zombaria. Outras vezes ainda, ele era arrancado do púlpito à força. Mais de uma vez foi pego pela multidão e espancado quase até a morte.
+
+Mesmo assim, ele continuava. Muitas vezes era rejeitado, mas voltava ao ataque com uma insistência que não cansava. E viu, uma depois da outra, vilas e cidades que tinham sido fortalezas do papado abrirem as portas ao evangelho. A pequena paróquia onde ele tinha trabalhado no começo logo aceitou a fé reformada. As cidades de Morat e Neuchâtel também abandonaram os ritos católicos e tiraram das suas igrejas as imagens de idolatria.
+
+### A primeira tentativa em Genebra
+
+Farel queria muito implantar a fé protestante em Genebra. Se essa cidade fosse ganha, seria um centro da Reforma para a França, a Suíça e a Itália. Com esse objetivo, ele continuou trabalhando até que muitas cidades e aldeias ao redor foram ganhas. Então entrou em Genebra com um único companheiro. Mas só pôde pregar dois sermões.
+
+Os padres tentaram em vão fazer as autoridades civis condená-lo. Então o chamaram diante de um concílio (reunião) da igreja. Foram para lá com armas escondidas debaixo das roupas, decididos a matá-lo. Do lado de fora do salão se juntou uma multidão furiosa, com porretes e espadas, para garantir a sua morte se ele conseguisse escapar do concílio. Mas a presença dos magistrados e de uma tropa armada o salvou. Bem cedo, na manhã seguinte, ele e o seu companheiro foram levados para o outro lado do lago, para um lugar seguro. Assim terminou a sua primeira tentativa de evangelizar Genebra.
+
+### Froment, o professor humilde
+
+Para a tentativa seguinte, Deus escolheu um instrumento mais humilde: um rapaz de aparência tão simples que foi tratado com frieza até pelos que se diziam amigos da Reforma. Mas o que ele poderia fazer onde Farel tinha sido rejeitado? Como alguém de pouca experiência e coragem poderia resistir à tempestade que tinha obrigado os mais fortes e corajosos a fugir? "Não é pela força nem pelo poder, mas pelo Meu Espírito, diz o Senhor" (Zacarias 4:6). "Deus escolheu as coisas fracas deste mundo para envergonhar as fortes" (1 Coríntios 1:27). "Porque a loucura de Deus é mais sábia do que os homens, e a fraqueza de Deus é mais forte do que os homens" (1 Coríntios 1:25).
+
+Froment começou o seu trabalho como professor de escola. As verdades que ele ensinava às crianças na escola, elas repetiam em casa. Logo os pais vieram ouvir a explicação da Bíblia, até que a sala de aula ficou cheia de ouvintes atentos. Novos Testamentos e folhetos foram distribuídos de graça. Eles chegaram a muitas pessoas que não tinham coragem de ir abertamente ouvir as novas doutrinas.
+
+Depois de algum tempo, esse trabalhador também teve que fugir. Mas as verdades que ele tinha ensinado já tinham tomado conta da mente das pessoas. A Reforma tinha sido plantada e continuou a se fortalecer e a se firmar. Os pregadores voltaram e, com o trabalho deles, o culto protestante foi finalmente estabelecido em Genebra.
+
+### Calvino é chamado a ficar
+
+A cidade já tinha se declarado a favor da Reforma quando Calvino entrou pelas suas portas, depois de muitas andanças e dificuldades. Voltando da sua última visita à terra natal, ele estava a caminho de Basileia. Como a estrada direta estava ocupada pelos exércitos de Carlos V, ele foi obrigado a fazer um desvio por Genebra.
+
+Farel viu nessa visita a mão de Deus. Genebra tinha aceitado a fé reformada, mas ainda havia uma grande obra a fazer ali. As pessoas não se convertem a Deus em grupos, mas uma por uma. A obra da nova vida precisa ser feita no coração e na consciência, pelo poder do Espírito Santo, e não por decretos de concílios. O povo de Genebra tinha rejeitado a autoridade de Roma, mas não estava tão disposto a abandonar os vícios que tinham crescido sob o domínio dela. Não era tarefa fácil implantar ali os princípios puros do evangelho e preparar aquele povo para ocupar com dignidade a posição para a qual a Providência parecia chamá-lo.
+
+Farel confiava que tinha encontrado em Calvino alguém que poderia ajudá-lo nessa obra. Em nome de Deus, pediu solenemente ao jovem evangelista que ficasse e trabalhasse ali. Calvino recuou, assustado. Tímido e amante da paz, ele tinha medo de lidar com o espírito ousado, independente e até violento do povo de Genebra. A saúde fraca e os seus hábitos de estudo o faziam buscar uma vida retirada. Ele acreditava que poderia servir melhor a causa da Reforma escrevendo. Queria encontrar um lugar tranquilo para estudar e, de lá, por meio da imprensa, ensinar e fortalecer as igrejas.
+
+Mas o apelo solene de Farel chegou a ele como um chamado do Céu, e ele não teve coragem de recusar. Pareceu-lhe, disse ele, "que a mão de Deus se estendia do Céu, o segurava e o colocava para sempre no lugar que ele estava tão ansioso para deixar" (D'Aubigné, *História da Reforma no Tempo de Calvino*).
+
+### Os jesuítas entram em cena
+
+Naquela época, grandes perigos cercavam a causa protestante. As maldições do papa trovejavam contra Genebra, e nações poderosas ameaçavam destruí-la. Como essa cidade pequena poderia resistir à poderosa hierarquia que tantas vezes tinha obrigado reis e imperadores a se submeterem? Como poderia enfrentar os exércitos dos grandes conquistadores do mundo?
+
+Em todo o mundo cristão, o protestantismo estava ameaçado por inimigos terríveis. Passadas as primeiras vitórias da Reforma, Roma reuniu novas forças, esperando terminar de destruí-la. Nesse tempo foi criada a ordem dos jesuítas, a mais cruel, sem escrúpulos e poderosa de todos os defensores do papado. Eles eram separados de laços terrenos e interesses humanos e não ligavam para os afetos naturais. A razão e a consciência deles estavam totalmente caladas. Não conheciam outra regra ou limite além das regras da própria ordem, nem outro dever além de aumentar o seu poder.
+
+O evangelho de Cristo tinha dado aos seus seguidores condições de enfrentar o perigo e suportar sem desanimar o sofrimento, o frio, a fome, o trabalho pesado e a pobreza. Assim eles levantavam a bandeira da verdade diante dos instrumentos de tortura, da masmorra e da fogueira. Para combater essas forças, o jesuitismo encheu os seus seguidores de um fanatismo que os fazia suportar perigos parecidos e usar contra o poder da verdade todas as armas do engano. Para eles, não havia crime grande demais para cometer, nem engano baixo demais para praticar, nem disfarce difícil demais para usar. Eles faziam votos de pobreza e humildade para sempre, mas o seu objetivo calculado era conseguir riqueza e poder para derrubar o protestantismo e restabelecer o domínio do papa.
+
+### Os fins justificam os meios
+
+Quando apareciam como membros da ordem, mostravam ar de santidade. Visitavam prisões e hospitais, cuidavam dos doentes e dos pobres, diziam ter renunciado ao mundo e levavam o nome sagrado de Jesus, que andou fazendo o bem. Mas, por baixo dessa aparência sem defeito, muitas vezes se escondiam os planos mais criminosos e mortais. Um princípio básico da ordem era que os fins justificam os meios. Por essa regra, a mentira, o roubo, o falso juramento e o assassinato não só eram perdoáveis, mas recomendados, quando serviam aos interesses da igreja.
+
+Com vários disfarces, os jesuítas conseguiam entrar nos cargos do governo. Subiam até se tornar conselheiros dos reis e moldavam a política das nações. Viravam empregados para servir de espiões dos seus patrões. Fundavam colégios para os filhos dos príncipes e nobres, e escolas para o povo comum. E os filhos de pais protestantes eram levados a praticar os ritos do papa.
+
+Toda a pompa e o brilho exterior do culto católico eram usados para confundir a mente e deslumbrar e prender a imaginação. Assim, a liberdade pela qual os pais tinham trabalhado e derramado o seu sangue era traída pelos filhos. Os jesuítas se espalharam rapidamente pela Europa e, aonde iam, o papado ganhava nova vida.
+
+### A Inquisição volta
+
+Para lhes dar mais poder, foi publicada uma bula (documento oficial do papa) restabelecendo a Inquisição (tribunal da igreja que julgava e punia hereges). Esse tribunal horrível era odiado por quase todos, mesmo nos países católicos. Mesmo assim, foi restabelecido pelos chefes do papado. E crueldades terríveis demais para serem vistas à luz do dia voltaram a acontecer nas suas masmorras secretas.
+
+Em muitos países, milhares e milhares de pessoas foram mortas ou obrigadas a fugir para outros países. Eram a própria flor da nação: os mais puros e nobres, os mais inteligentes e bem educados, pastores dedicados e piedosos, cidadãos trabalhadores e patriotas, sábios brilhantes, artistas talentosos e artesãos habilidosos.
+
+Esses foram os meios que Roma usou para apagar a luz da Reforma, tirar a Bíblia das pessoas e trazer de volta a ignorância e a superstição da Idade Média. Mas, com a bênção de Deus e o trabalho daqueles homens nobres que Ele levantou para continuar a obra de Lutero, o protestantismo não foi destruído. A sua força não ia depender do favor nem das armas dos príncipes. Os menores países, as nações mais humildes e menos poderosas, se tornaram a sua fortaleza. Foi a pequena Genebra, cercada de inimigos poderosos que planejavam a sua destruição. Foi a Holanda, nas suas praias de areia junto ao mar do Norte, lutando contra a tirania da Espanha, que era então o maior e mais rico dos reinos. Foi a Suécia, gelada e pobre. Foram esses que ganharam vitórias para a Reforma.
+
+### Genebra, refúgio dos perseguidos
+
+Durante quase trinta anos, Calvino trabalhou em Genebra. Primeiro, para estabelecer ali uma igreja que seguisse a moral da Bíblia. Depois, para o avanço da Reforma em toda a Europa. A sua conduta como líder público não foi sem falhas, e as suas doutrinas também tinham erros. Mas ele foi um instrumento para anunciar verdades de importância especial no seu tempo. Ajudou a manter os princípios do protestantismo contra a onda do papado, que voltava rapidamente. E promoveu a simplicidade e a pureza de vida nas igrejas reformadas, no lugar do orgulho e da corrupção que o ensino católico favorecia.
+
+De Genebra saíam publicações e professores para espalhar as doutrinas reformadas. Os perseguidos de todos os países esperavam dali ensino, conselho e ânimo. A cidade de Calvino se tornou um refúgio para os reformadores perseguidos de toda a Europa Ocidental. Fugindo das tempestades terríveis que duraram séculos, os fugitivos chegavam às portas de Genebra. Famintos, feridos, sem casa e sem família, eram recebidos com carinho e tratados com ternura. E, encontrando ali um lar, abençoavam a cidade que os tinha adotado com a sua habilidade, o seu saber e a sua devoção.
+
+Muitos que buscaram refúgio ali voltaram para o seu país para resistir à tirania de Roma. João Knox, o corajoso reformador escocês, muitos puritanos ingleses, protestantes da Holanda e da Espanha, e os huguenotes (protestantes) da França levaram de Genebra a tocha da verdade para iluminar a escuridão das suas terras.
