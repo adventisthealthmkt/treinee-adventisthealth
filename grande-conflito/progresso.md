@@ -18,7 +18,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 20 — sem observações (retirada a marca de versão "(VI)" em Isaías 66:5).
 - [ ] Capítulo 21
 - [ ] Capítulo 22
-- [ ] Capítulo 23
+- [x] Capítulo 23 — sem observações ("2:18" abreviado no original escrito como Hebreus 2:18).
 - [x] Capítulo 24 — acrescentadas referências sem indicação no original: João 20:20, João 20:13, 1 Coríntios 15:58, 1 Pedro 1:3, 1 Pedro 1:8, Apocalipse 14:7, Mateus 25:10.
 - [ ] Capítulo 25
 - [x] Capítulo 26 — acrescentada a referência Apocalipse 14:12, sem indicação no original.
