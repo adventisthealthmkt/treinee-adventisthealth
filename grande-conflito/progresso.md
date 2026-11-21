@@ -23,7 +23,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [ ] Capítulo 25
 - [x] Capítulo 26 — acrescentada a referência Apocalipse 14:12, sem indicação no original.
 - [ ] Capítulo 27
-- [ ] Capítulo 28
+- [x] Capítulo 28 — sem observações.
 - [ ] Capítulo 29
 - [x] Capítulo 30 — acrescentada a referência Atos 20:19, sem indicação no original.
 - [x] Capítulo 31 — sem observações.
