@@ -17,7 +17,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 19 — acrescentada a referência Salmos 25:10 na citação final, sem indicação no original.
 - [x] Capítulo 20 — sem observações (retirada a marca de versão "(VI)" em Isaías 66:5).
 - [x] Capítulo 21 — acrescentadas referências sem indicação no original: Tiago 4:4, 2 Timóteo 3:4, 5. Título da obra de Crosby corrigido de "The Health Christian" para *The Healthy Christian: An Appeal to the Church*.
-- [ ] Capítulo 22
+- [x] Capítulo 22 — acrescentadas referências sem indicação no original: Apocalipse 12:10, João 1:29.
 - [x] Capítulo 23 — sem observações ("2:18" abreviado no original escrito como Hebreus 2:18).
 - [x] Capítulo 24 — acrescentadas referências sem indicação no original: João 20:20, João 20:13, 1 Coríntios 15:58, 1 Pedro 1:3, 1 Pedro 1:8, Apocalipse 14:7, Mateus 25:10.
 - [ ] Capítulo 25
