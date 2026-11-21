@@ -28,7 +28,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 30 — acrescentada a referência Atos 20:19, sem indicação no original.
 - [x] Capítulo 31 — sem observações.
 - [x] Capítulo 32 — acrescentadas referências sem indicação no original: Atos 16:30, 2 Coríntios 2:16, Mateus 6:13.
-- [ ] Capítulo 33
+- [x] Capítulo 33 — referência corrigida: "Salmos 15:17" → Salmos 115:17 ("os mortos não louvam ao Senhor").
 - [x] Capítulo 34 — acrescentadas referências sem indicação no original: Eclesiastes 9:5, Hebreus 1:14, 1 Timóteo 4:1, Efésios 6:12. Corrigido erro do PDF: "deverá haver castigo para o pecador" → "não haverá castigo" (falta do "não" invertia o sentido).
 - [x] Capítulo 35 — acrescentadas referências sem indicação no original: Êxodo 20:10, 1 Timóteo 6:20, Judas 3, 1 Pedro 3:4.
 - [x] Capítulo 36 — sem observações.
