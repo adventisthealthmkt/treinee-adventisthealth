@@ -15,7 +15,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 17 — sem observações ("Jud. 14 e 15" escrito como Judas 14, 15).
 - [ ] Capítulo 18
 - [x] Capítulo 19 — acrescentada a referência Salmos 25:10 na citação final, sem indicação no original.
-- [ ] Capítulo 20
+- [x] Capítulo 20 — sem observações (retirada a marca de versão "(VI)" em Isaías 66:5).
 - [ ] Capítulo 21
 - [ ] Capítulo 22
 - [ ] Capítulo 23
