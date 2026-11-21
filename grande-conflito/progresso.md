@@ -6,7 +6,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulos 1 a 8 — feitos no documento do claude.ai (colocar em reescrito/01-a-08.md). Referências corrigidas: "2 João 1:51" → João 1:51 (cap. 1); "Efésios 1:17" → Neemias 4:18 (cap. 3).
 - [x] Capítulo 9 — sem observações.
 - [x] Capítulo 10 — sem observações.
-- [ ] Capítulo 11
+- [x] Capítulo 11 — acrescentadas referências sem indicação no original: Atos 5:29, 2 Coríntios 4:18, Efésios 6:12, Efésios 6:17, Mateus 16:18.
 - [ ] Capítulo 12
 - [x] Capítulo 13 — sem observações.
 - [ ] Capítulo 14
