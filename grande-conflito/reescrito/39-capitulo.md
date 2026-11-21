@@ -149,3 +149,147 @@ Mas Cristo disse sobre Si mesmo: "O príncipe deste mundo está chegando, e ele 
 É nesta vida que devemos afastar de nós o pecado, pela fé no sangue de Cristo, que paga pelo pecado. O nosso precioso Salvador nos convida a nos unir a Ele. Ele quer juntar a nossa fraqueza à Sua força, a nossa ignorância à Sua sabedoria, a nossa indignidade aos Seus méritos.
 
 A providência de Deus (o modo como Ele conduz a nossa vida) é a escola onde devemos aprender a mansidão e a humildade de Jesus. O Senhor sempre põe diante de nós não o caminho que preferiríamos, aquele que parece mais fácil e agradável, mas os verdadeiros objetivos da vida. Cabe a nós colaborar com os meios que o Céu usa para formar o nosso caráter de acordo com o modelo divino. Ninguém pode deixar de lado ou adiar essa obra sem colocar a sua alma em grave perigo.
+
+### O grande engano final
+
+Em visão, o apóstolo João ouviu uma voz forte no Céu, que dizia: "Ai de vocês, terra e mar! Porque o diabo desceu até vocês cheio de raiva, sabendo que tem pouco tempo" (Apocalipse 12:12). São terríveis as cenas que levam a voz do Céu a dar esse grito. A raiva de Satanás aumenta à medida que o tempo fica mais curto. E a sua obra de engano e destruição vai chegar ao auge no tempo de angústia.
+
+Logo vão aparecer no céu cenas terríveis, de natureza sobrenatural, como sinal do poder dos demônios que fazem milagres. Os espíritos do mal vão sair até os reis da Terra e até o mundo inteiro. Eles querem prender todos no engano e forçá-los a se unir a Satanás na sua última luta contra o governo do Céu. Por meio desses agentes, tanto os governantes quanto os governados vão ser enganados.
+
+Vão aparecer pessoas dizendo ser o próprio Cristo e exigindo o título e a adoração que pertencem ao Salvador do mundo. Elas vão fazer curas maravilhosas e dizer que receberam do Céu revelações que contradizem o que as Escrituras ensinam.
+
+### Satanás finge ser Cristo
+
+Como ponto mais alto desse grande drama de engano, o próprio Satanás vai se fazer passar por Cristo. Há muito tempo a igreja diz que espera a volta do Salvador como a realização das suas esperanças. Então o grande enganador vai fazer parecer que Cristo voltou.
+
+Em vários lugares da Terra, Satanás vai aparecer entre as pessoas como um ser majestoso, com um brilho que ofusca a vista. Ele vai se parecer com a descrição do Filho de Deus que João dá no Apocalipse (Apocalipse 1:13-15). A glória que o cerca não fica atrás de nada que olhos humanos já viram.
+
+O grito de vitória ecoa no ar: "Cristo voltou! Cristo voltou!" O povo se ajoelha em adoração diante dele. Ele levanta as mãos e pronuncia uma bênção sobre eles, como Cristo abençoava os Seus discípulos quando esteve aqui na Terra. A sua voz é suave e doce, cheia de melodia.
+
+Com jeito manso e cheio de compaixão, ele apresenta algumas das mesmas verdades do Céu, cheias de graça, que o Salvador ensinava. Cura as doenças do povo. Depois, fingindo ser Cristo, diz que mudou o sábado para o domingo e manda todos guardarem o dia que ele abençoou.
+
+Ele declara que os que insistem em guardar o sétimo dia estão desonrando o seu nome, porque se recusam a ouvir os anjos que ele mandou com a luz e a verdade. Esse é o engano poderoso, quase impossível de vencer. Como os samaritanos que foram enganados por Simão, o mágico, as multidões, do menor ao maior, acreditam nesses enganos e dizem: "Este homem é o grande poder de Deus" (Atos 8:10).
+
+### Como o povo de Deus não será enganado
+
+Mas o povo de Deus não vai ser desviado. Os ensinos desse falso cristo não combinam com as Escrituras. A bênção dele é dada aos que adoram a besta e a sua imagem. É exatamente sobre esse grupo que a Bíblia diz que a ira de Deus vai ser derramada sem mistura.
+
+Além disso, Satanás não vai ter permissão para imitar o modo como Cristo vai voltar. O Salvador avisou o Seu povo contra o engano nesse ponto e disse claramente como seria a Sua segunda vinda: "Vão aparecer falsos cristos e falsos profetas. Eles vão fazer grandes sinais e milagres, para enganar, se fosse possível, até os escolhidos. [...] Por isso, se disserem a vocês: 'Ele está no deserto', não saiam. Ou: 'Ele está dentro de casa', não acreditem. Porque, assim como o relâmpago sai do Oriente e brilha até o Ocidente, assim também vai ser a vinda do Filho do Homem" (Mateus 24:24-27).
+
+Não há como imitar essa vinda. Todo mundo vai saber dela. O mundo inteiro vai ver.
+
+Só os que estudam com dedicação as Escrituras e recebem o amor pela verdade vão estar protegidos dos enganos poderosos que dominam o mundo. Pelo que a Bíblia diz, eles vão desmascarar o enganador no seu disfarce. A hora da prova vai chegar para todos. Quando a tentação peneirar as pessoas, os verdadeiros cristãos vão aparecer.
+
+O povo de Deus está hoje tão firme na Sua Palavra a ponto de não ceder ao que os seus próprios sentidos mostram? Nessa crise, vai se agarrar à Bíblia, e só à Bíblia? Se puder, Satanás vai impedi-los de se preparar para ficar de pé naquele dia. Ele vai arrumar as coisas para bloquear o caminho deles. Vai enrolá-los com os tesouros da terra. Vai fazê-los carregar um fardo pesado e cansativo, para que o coração deles fique sobrecarregado com as preocupações desta vida, e o dia da prova chegue sobre eles como um ladrão.
+
+### A fuga para as montanhas
+
+Os vários governantes da cristandade vão publicar um decreto contra os que guardam os mandamentos. Esse decreto vai tirar deles a proteção do governo e entregá-los aos que querem destruí-los. Então o povo de Deus vai fugir das cidades e vilas e se juntar em grupos, morando nos lugares mais desertos e isolados.
+
+Muitos vão encontrar abrigo nas montanhas, que servem como fortaleza. Como os cristãos dos vales do Piemonte, eles vão fazer dos lugares altos da Terra os seus santuários e vão agradecer a Deus pelas "fortalezas de pedra" (Isaías 33:16).
+
+Mas muitos, de todas as nações e de todas as classes, importantes e simples, ricos e pobres, negros e brancos, vão ser jogados na escravidão mais injusta e cruel. Os amados de Deus vão passar dias difíceis, presos com correntes, trancados atrás das grades, condenados à morte. Alguns vão ser deixados, ao que parece, para morrer de fome em prisões escuras e nojentas. Nenhum ouvido humano vai escutar os seus gemidos. Nenhuma mão humana vai estar pronta para ajudá-los.
+
+### Deus não esquece os Seus
+
+Será que o Senhor vai esquecer o Seu povo nessa hora de prova? Ele esqueceu o fiel Noé quando os castigos caíram sobre o mundo antes do dilúvio? Esqueceu Ló quando desceu fogo do céu para queimar as cidades da planície? Esqueceu José, cercado de adoradores de ídolos no Egito? Esqueceu Elias, quando o juramento de Jezabel o ameaçou com o mesmo fim dos profetas de Baal? Esqueceu Jeremias no poço escuro e horrível da sua prisão? Esqueceu os três heróis na fornalha acesa? Ou Daniel na cova dos leões?
+
+"Mas Sião diz: 'O Senhor me abandonou, o Senhor se esqueceu de mim.' Será que uma mãe pode esquecer o bebê que amamenta e não ter pena do filho que gerou? Mesmo que ela esqueça, Eu não vou esquecer você. Veja: Eu escrevi o seu nome nas palmas das Minhas mãos" (Isaías 49:14-16). O Senhor dos exércitos disse: "Quem toca em vocês toca na menina dos Seus olhos" (Zacarias 2:8).
+
+Mesmo que os inimigos os joguem na prisão, as paredes da cela não podem cortar a comunicação entre a alma deles e Cristo. Aquele que vê todas as suas fraquezas e conhece cada prova está acima de todo poder da Terra. E anjos vão até eles nas celas solitárias, trazendo luz e paz do Céu.
+
+A prisão vai ser como um palácio, porque ali vão morar os que são ricos na fé. As paredes escuras vão ser iluminadas com a luz do Céu, como quando Paulo e Silas oraram e cantaram louvores à meia-noite na prisão de Filipos.
+
+### Os castigos de Deus sobre os opressores
+
+Os castigos de Deus vão cair sobre os que tentam oprimir e destruir o Seu povo. A grande paciência de Deus com os maus faz as pessoas ficarem ousadas no pecado. Mas o castigo deles, mesmo que demore muito, não é menos certo e terrível.
+
+"O Senhor vai se levantar como no monte Perazim e vai se irar como no vale de Gibeom, para fazer a Sua obra, a Sua obra estranha, e para realizar o Seu ato, o Seu ato estranho" (Isaías 28:21). Para o nosso Deus cheio de misericórdia, castigar é um ato estranho. "Tão certo como Eu vivo, diz o Senhor Deus, não tenho prazer na morte do mau" (Ezequiel 33:11).
+
+O Senhor é "misericordioso e bondoso, demora a ficar irado e é cheio de amor e fidelidade. [...] Ele perdoa a maldade, a rebeldia e o pecado". Mesmo assim, "não deixa o culpado sem castigo". "O Senhor demora a ficar irado, mas o Seu poder é grande, e não deixa o culpado sem castigo" (Êxodo 34:6, 7; Naum 1:3).
+
+Ele vai defender, com manifestações terríveis, a honra da Sua lei pisada. A dureza do castigo que espera o pecador pode ser medida pela falta de vontade do Senhor em fazer justiça. A nação que Ele aguenta por tanto tempo, e que não vai castigar antes que ela encha a medida da sua maldade segundo as contas de Deus, vai acabar bebendo o cálice da ira sem mistura de misericórdia.
+
+Quando Cristo parar de interceder no santuário, vai ser derramada a ira sem mistura que foi anunciada contra os que adoram a besta e a sua imagem e recebem o seu sinal (Apocalipse 14:9, 10).
+
+### As pragas
+
+As pragas que caíram sobre o Egito quando Deus estava para libertar Israel eram parecidas com os castigos mais terríveis e mais amplos que vão cair sobre o mundo pouco antes da libertação final do povo de Deus.
+
+O autor do Apocalipse descreve esses castigos terríveis: "Uma ferida feia e dolorosa apareceu nas pessoas que tinham o sinal da besta e adoravam a sua imagem." O mar "virou sangue, como de um morto, e morreu todo ser vivo que havia no mar". E os rios e as fontes de água "viraram sangue".
+
+Por mais terríveis que sejam esses castigos, a justiça de Deus fica totalmente provada. O anjo de Deus declara: "O Senhor é justo [...] por ter julgado assim. Eles derramaram o sangue dos santos e dos profetas, e o Senhor lhes deu sangue para beber. Eles merecem isso" (Apocalipse 16:2-6).
+
+Ao condenar o povo de Deus à morte, eles são tão culpados pelo sangue derramado como se o tivessem derramado com as próprias mãos. Do mesmo modo, Cristo disse que os judeus do Seu tempo eram culpados de todo o sangue dos homens santos derramado desde os dias de Abel. Isso porque tinham o mesmo espírito e estavam tentando fazer a mesma obra daqueles que mataram os profetas.
+
+Na praga seguinte, o Sol recebe poder para "queimar as pessoas com fogo. E as pessoas foram queimadas por um calor muito forte" (Apocalipse 16:8, 9). Os profetas descrevem assim a situação da Terra naquele tempo terrível: "A terra está de luto [...] porque a colheita do campo se perdeu." "Todas as árvores do campo secaram, e a alegria acabou entre as pessoas." "As sementes apodreceram debaixo dos torrões, os depósitos foram destruídos."
+
+"Como o gado geme! As manadas de bois andam perdidas, porque não têm pasto. [...] Os rios secaram, e o fogo queimou os pastos do deserto." "Os cânticos do templo vão virar gritos de dor naquele dia, diz o Senhor Deus. Muitos vão ser os cadáveres. Em todo lugar vão ser jogados fora em silêncio" (Joel 1:10-12, 17-20; Amós 8:3).
+
+Essas pragas não atingem o mundo todo. Se atingissem, os moradores da Terra seriam completamente destruídos. Mesmo assim, vão ser os castigos mais terríveis que os seres humanos já conheceram. Todos os castigos sobre as pessoas antes do fim do tempo da graça vieram misturados com misericórdia. O sangue de Cristo, que paga pelo pecado, tem livrado o pecador de receber o castigo na medida total da sua culpa. Mas no juízo final a ira é derramada sem mistura de misericórdia.
+
+Naquele dia, multidões vão querer o abrigo da misericórdia de Deus, que desprezaram por tanto tempo. "Estão chegando os dias, diz o Senhor Deus, em que vou mandar fome sobre a terra. Não fome de pão, nem sede de água, mas fome de ouvir as palavras do Senhor. As pessoas vão andar sem rumo de um mar a outro, do Norte até o Oriente. Vão correr por todo lado procurando a palavra do Senhor, e não vão encontrar" (Amós 8:11, 12).
+
+### Deus cuida do Seu povo
+
+O povo de Deus não vai ficar livre do sofrimento. Mas, mesmo perseguidos e angustiados, mesmo passando necessidade e sofrendo por falta de comida, eles não vão ser deixados para morrer. O Deus que cuidou de Elias não vai abandonar nenhum dos Seus filhos que se entregaram a Ele.
+
+Aquele que conta os cabelos da cabeça deles vai cuidar deles. No tempo de fome, eles vão ser alimentados. Enquanto os maus estão morrendo de fome e de doenças, os anjos vão proteger os justos e suprir o que eles precisam. Para quem "anda em justiça", esta é a promessa: "Ele vai ter pão, e água não vai lhe faltar." "Os pobres e necessitados procuram água, e não há. A língua deles está seca de sede. Mas Eu, o Senhor, vou responder a eles. Eu, o Deus de Israel, não vou abandoná-los" (Isaías 33:16; 41:17).
+
+"Ainda que a figueira não dê flor e não haja uvas na videira, ainda que a oliveira não dê azeitonas e os campos não produzam alimento, ainda que as ovelhas sumam do curral e não haja gado nos estábulos", os que temem a Deus, mesmo assim, vão se alegrar no Senhor e festejar no Deus da sua salvação (Habacuque 3:17, 18).
+
+"O Senhor é quem guarda você. O Senhor é a sombra que protege você do lado direito. O sol não vai lhe fazer mal de dia, nem a lua de noite. O Senhor vai guardar você de todo mal. Ele vai guardar a sua vida." "Ele vai livrar você da armadilha do caçador e da doença mortal. Ele vai cobrir você com as Suas penas, e debaixo das Suas asas você vai estar seguro. A fidelidade dEle é escudo e proteção. Você não vai ter medo do terror da noite, nem da flecha que voa de dia, nem da doença que anda no escuro, nem da praga que destrói ao meio-dia. Mil podem cair ao seu lado, e dez mil à sua direita, mas você não vai ser atingido. Você só vai olhar com os seus olhos e ver o castigo dos maus. Porque o Senhor é o meu refúgio! Você fez do Altíssimo a sua casa. Nenhum mal vai acontecer com você, e nenhuma praga vai chegar perto da sua tenda" (Salmos 121:5-7; 91:3-10).
+
+### A hora mais escura
+
+Aos olhos humanos, porém, vai parecer que o povo de Deus logo vai ter de confirmar o seu testemunho com o próprio sangue, como fizeram os mártires antes deles. Eles mesmos começam a ter medo de que o Senhor os tenha abandonado nas mãos dos inimigos. É um tempo de agonia terrível. Dia e noite eles clamam a Deus pedindo livramento.
+
+Os maus comemoram, e se ouve o grito de zombaria: "Onde está agora a fé de vocês? Por que Deus não livra vocês das nossas mãos, se vocês são mesmo o Seu povo?" Mas os que esperam lembram de Jesus morrendo na cruz do Calvário, enquanto os chefes dos sacerdotes e as autoridades gritavam zombando: "Salvou os outros, mas não consegue salvar a Si mesmo! Se Ele é o Rei de Israel, desça agora da cruz, e vamos acreditar nEle" (Mateus 27:42).
+
+Como Jacó, todos estão lutando com Deus. O rosto deles mostra a luta que travam por dentro. A palidez está em cada rosto. Mas eles não param de orar com fervor.
+
+Se as pessoas pudessem ver com os olhos do Céu, veriam grupos de anjos, cheios de poder, posicionados em volta dos que guardaram a palavra da paciência de Cristo. Com carinho e compaixão, os anjos têm visto a angústia deles e ouvido as suas orações. Eles esperam a ordem do seu Comandante para tirá-los do perigo.
+
+Mas precisam esperar mais um pouco. O povo de Deus precisa beber o cálice e ser batizado com o batismo do sofrimento. A própria demora, tão dolorosa para eles, é a melhor resposta aos seus pedidos. Enquanto se esforçam para esperar com confiança que o Senhor aja, eles são levados a exercitar a fé, a esperança e a paciência, que foram muito pouco exercitadas durante a sua vida religiosa.
+
+Mesmo assim, por causa dos escolhidos, o tempo de angústia vai ser encurtado. "E Deus não vai fazer justiça aos Seus escolhidos, que clamam a Ele dia e noite? [...] Eu digo a vocês que Ele vai fazer justiça a eles depressa" (Lucas 18:7, 8). O fim vai chegar mais rápido do que as pessoas esperam. O trigo vai ser colhido e amarrado em feixes para o celeiro de Deus. O joio vai ser amarrado em feixes para o fogo da destruição.
+
+### Os anjos protegem os fiéis
+
+Os guardas do Céu, fiéis à sua missão, continuam vigiando. Um decreto geral marcou uma data a partir da qual os que guardam os mandamentos podem ser mortos. Mas, em alguns casos, os inimigos se adiantam ao decreto e tentam matá-los antes do prazo marcado.
+
+Só que ninguém consegue passar pelos guardas poderosos posicionados em volta de cada pessoa fiel. Alguns são atacados quando fogem das cidades e vilas. Mas as espadas levantadas contra eles se quebram e caem, sem força, como se fossem palha. Outros são defendidos por anjos com a aparência de guerreiros.
+
+Em todas as épocas, Deus tem usado os santos anjos para socorrer e livrar o Seu povo. Seres do Céu têm participado ativamente dos assuntos humanos. Eles já apareceram com roupas que brilhavam como o relâmpago. Já vieram como homens, com aparência de viajantes. Já apareceram na forma de homens de Deus.
+
+Já descansaram, como se estivessem cansados, debaixo de carvalhos ao meio-dia. Já aceitaram a hospitalidade de lares humanos. Já serviram de guias para viajantes surpreendidos pela noite. Já acenderam com as próprias mãos o fogo do altar. Já abriram as portas da prisão e libertaram os servos do Senhor. Vestidos com a armadura do Céu, vieram tirar a pedra do túmulo do Salvador.
+
+Muitas vezes, em forma humana, anjos estão presentes nas reuniões dos justos. E visitam também as reuniões dos maus, como foram a Sodoma para fazer um relatório das suas ações e ver se eles tinham passado do limite da paciência de Deus. O Senhor tem prazer em ser misericordioso. Por causa dos poucos que realmente O servem, Ele segura as catástrofes e prolonga a tranquilidade das multidões. Os que pecam contra Deus mal sabem que devem a própria vida aos poucos fiéis de quem gostam de zombar e a quem gostam de oprimir.
+
+### Anjos nos conselhos dos governantes
+
+Mesmo sem os governantes deste mundo saberem, muitas vezes anjos têm falado nas suas reuniões de conselho. Olhos humanos os viram. Ouvidos humanos escutaram os seus pedidos. Lábios humanos se opuseram às suas sugestões e zombaram dos seus conselhos. Mãos humanas os trataram com insultos e agressão.
+
+Nas salas de conselho e nos tribunais, esses mensageiros do Céu mostraram conhecer em detalhes a história humana. Mostraram ser mais capazes de defender a causa dos oprimidos do que os advogados mais hábeis e eloquentes. Eles atrapalharam planos e impediram males que teriam atrasado muito a obra de Deus e causado grande sofrimento ao Seu povo. Na hora do perigo e da angústia, "o anjo do Senhor acampa ao redor dos que O temem, e os livra" (Salmos 34:7).
+
+### A manhã está chegando
+
+Com um desejo ardente, o povo de Deus espera os sinais do seu Rei que vem. Quando os vigias são consultados: "Guarda, quanto falta para acabar a noite?", eles respondem sem hesitar: "A manhã vem, e também a noite" (Isaías 21:11, 12). A luz brilha nas nuvens, sobre o topo das montanhas. Logo a Sua glória vai aparecer. O Sol da justiça está para nascer. A manhã e a noite estão as duas às portas: o começo de um dia sem fim para os justos, e a chegada de uma noite eterna para os maus.
+
+Enquanto o povo de Deus, ainda em luta, insiste com os seus pedidos diante do Senhor, o véu que o separa do mundo invisível parece quase se abrir. O céu se acende com o nascer do dia eterno. E, como uma melodia de cânticos de anjos, soam nos ouvidos as palavras: "Fiquem firmes na sua fidelidade. A ajuda está chegando."
+
+Cristo, o Vencedor todo-poderoso, oferece aos Seus soldados cansados uma coroa de glória que nunca murcha. E a Sua voz vem das portas entreabertas: "Eu estou com vocês. Não tenham medo. Conheço todas as suas angústias. Carreguei as suas tristezas. Vocês não estão lutando contra inimigos que nunca foram enfrentados. Eu já lutei essa batalha por vocês, e no Meu nome vocês são mais do que vencedores."
+
+O precioso Salvador vai mandar ajuda exatamente quando precisarmos dela. O caminho para o Céu foi consagrado pelas Suas pegadas. Cada espinho que fere os nossos pés feriu os Seus. A cruz que somos chamados a carregar, Ele carregou antes de nós. O Senhor permite que venham os conflitos para preparar a alma para a paz. O tempo de angústia é uma prova terrível para o povo de Deus. Mas é a hora de todo cristão verdadeiro olhar para cima. E, pela fé, ele vai ver o arco-íris da promessa ao seu redor.
+
+### As promessas de libertação
+
+"Os que o Senhor resgatou vão voltar e entrar em Sião cantando. Uma alegria eterna vai coroar a cabeça deles. Vão ter alegria e felicidade, e a tristeza e o gemido vão fugir. Eu, Eu mesmo, sou Aquele que consola vocês. Quem é você para ter medo do ser humano, que morre, do filho do homem, que vai virar capim? E você se esquece do Senhor, que o criou [...], e vive com medo, o dia todo, da fúria do opressor, que se prepara para destruir? Onde está a fúria do opressor? O prisioneiro logo vai ser solto. Ele não vai morrer no buraco, e não vai lhe faltar pão. Porque Eu sou o Senhor, o seu Deus, que agita o mar e faz as suas ondas rugirem. O Senhor dos exércitos é o Seu nome. Eu pus as Minhas palavras na sua boca e cobri você com a sombra da Minha mão" (Isaías 51:11-16).
+
+"Por isso, escute isto, você que está aflita e bêbada, mas não de vinho. Assim diz o seu Senhor, o seu Deus, que defende a causa do Seu povo: Veja, Eu tirei da sua mão o cálice que faz cambalear, o fundo do cálice da Minha ira. Você nunca mais vai beber dele. Vou pôr esse cálice nas mãos dos que fizeram você sofrer, dos que diziam a você: 'Deite-se no chão, para que passemos por cima.' E você fez das suas costas um chão, um caminho para os que passavam" (Isaías 51:21-23).
+
+Os olhos de Deus, olhando através dos séculos, estavam fixos na crise que o Seu povo vai enfrentar quando os poderes da Terra se unirem contra ele. Como o prisioneiro exilado, eles vão ter medo de morrer de fome ou pela violência. Mas o Santo, que abriu o Mar Vermelho diante de Israel, vai mostrar o Seu grande poder e libertá-los do cativeiro. "Eles vão ser Meus, diz o Senhor dos exércitos, naquele dia que Eu preparo. Vão ser o Meu tesouro especial. Vou poupá-los como um pai poupa o filho que o serve" (Malaquias 3:17).
+
+Se o sangue das fiéis testemunhas de Cristo fosse derramado nesse tempo, não seria como o sangue dos mártires, que era como semente plantada para produzir uma colheita para Deus. A fidelidade deles não serviria de testemunho para convencer outros da verdade. Isso porque o coração endurecido rejeitou as ondas da misericórdia até que elas não voltaram mais. Se os justos fossem agora abandonados para cair nas mãos dos inimigos, isso seria uma vitória para o príncipe das trevas.
+
+O salmista diz: "No dia da dificuldade, Ele vai me esconder na Sua tenda. No lugar secreto da Sua morada Ele vai me esconder" (Salmos 27:5). Cristo falou: "Vá, Meu povo, entre nos seus quartos e feche as portas atrás de você. Esconda-se só por um momento, até a ira passar. Porque o Senhor está saindo do Seu lugar para castigar os moradores da Terra pela maldade deles" (Isaías 26:20, 21). Glorioso vai ser o livramento dos que esperaram com paciência pela Sua vinda e cujos nomes estão escritos no livro da vida.

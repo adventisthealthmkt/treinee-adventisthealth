@@ -34,7 +34,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [x] Capítulo 36 — sem observações.
 - [x] Capítulo 37 — acrescentadas referências sem indicação no original: Lucas 10:25, 26, Atos 9:6.
 - [x] Capítulo 38 — sem observações.
-- [ ] Capítulo 39
+- [x] Capítulo 39 — referência corrigida: "Mateus 24:2427" → Mateus 24:24-27; "Versos 8, 9" escrito como Apocalipse 16:8, 9; acrescentadas referências sem indicação no original: Atos 3:19, Apocalipse 7:2, Daniel 7:27, Gênesis 32:26.
 - [x] Capítulo 40 — acrescentadas referências sem indicação no original: 2 Coríntios 12:9, Filipenses 3:21, 1 Coríntios 15:52, Mateus 24:31, Isaías 52:14, Mateus 25:34, Hebreus 2:13.
 - [x] Capítulo 41 — sem observações ("Jud. 6" escrito como Judas 6).
 - [x] Capítulo 42 — sem observações.
