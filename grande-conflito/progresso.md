@@ -19,7 +19,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [ ] Capítulo 21
 - [ ] Capítulo 22
 - [ ] Capítulo 23
-- [ ] Capítulo 24
+- [x] Capítulo 24 — acrescentadas referências sem indicação no original: João 20:20, João 20:13, 1 Coríntios 15:58, 1 Pedro 1:3, 1 Pedro 1:8, Apocalipse 14:7, Mateus 25:10.
 - [ ] Capítulo 25
 - [ ] Capítulo 26
 - [ ] Capítulo 27
