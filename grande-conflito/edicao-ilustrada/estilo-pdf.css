@@ -1,0 +1,140 @@
+/* O Grande Conflito — edição ilustrada · estilos da versão PDF (WeasyPrint)
+   Formato 160 × 230 mm, páginas espelhadas. */
+
+/* ---------- paleta ---------- */
+/* noite #151D33 · azul #242640 · violeta #43253F · terracota #B45A48
+   laranja #E99C61 · creme #F7EEDC · papel #FAF6EE · tinta #2B2533 */
+
+/* ---------- páginas ---------- */
+@page {
+  size: 160mm 230mm;
+  margin: 20mm 17mm 22mm 21mm;
+  background: #FAF6EE;
+}
+@page :left {
+  margin-left: 17mm; margin-right: 21mm;
+  @top-left { content: "O GRANDE CONFLITO"; font: 400 5.6pt "Unbounded"; letter-spacing: .28em; color: #B45A48; vertical-align: bottom; padding-bottom: 6mm; }
+  @bottom-left { content: counter(page); font: italic 400 9pt "Literata"; color: #43253F; vertical-align: top; padding-top: 7mm; }
+}
+@page :right {
+  margin-left: 21mm; margin-right: 17mm;
+  @top-right { content: ""; font: 400 5.6pt "Unbounded"; letter-spacing: .2em; text-transform: uppercase; color: #8C7B78; vertical-align: bottom; padding-bottom: 6mm; }
+  @bottom-right { content: counter(page); font: italic 400 9pt "Literata"; color: #43253F; vertical-align: top; padding-top: 7mm; }
+}
+@page capa      { margin: 0; background: #151D33; @top-left{content:none} @top-right{content:none} @bottom-left{content:none} @bottom-right{content:none} }
+@page abertura  { margin: 0; background: #151D33; @top-left{content:none} @top-right{content:none} @bottom-left{content:none} @bottom-right{content:none} }
+@page frente    { @top-left{content:none} @top-right{content:none} @bottom-left{content:none} @bottom-right{content:none} }
+@page especial  { @top-left{content:none} @top-right{content:none} }
+/* primeira página do capítulo: regra :nth(1 of leitura) gerada em build.py */
+@page :blank    { @top-left{content:none} @top-right{content:none} @bottom-left{content:none} @bottom-right{content:none} }
+
+html { font-family: "Inter"; font-size: 10.6pt; line-height: 1.5; color: #2B2533; }
+body { margin: 0; }
+p { margin: 0; }
+
+/* ---------- capa ---------- */
+.capa { page: capa; height: 230mm; overflow: hidden; }
+.capa img { display: block; width: 160mm; height: 230mm; object-fit: cover; object-position: 50% 18%; }
+.pagina-vazia { page: frente; break-before: page; height: 1px; }
+
+/* ---------- títulos com Unbounded ---------- */
+.leve  { display: block; font-family: "Unbounded"; font-weight: 400; text-transform: uppercase; }
+.forte { display: block; font-family: "Unbounded"; font-weight: 800; text-transform: uppercase; }
+.regua { width: 22mm; height: .9pt; background: #E99C61; }
+
+/* ---------- página de rosto ---------- */
+.rosto { page: frente; break-before: right; text-align: center; padding-top: 42mm; color: #151D33; }
+.rosto-autora { font: 300 7.4pt "Unbounded"; letter-spacing: .42em; text-transform: uppercase; color: #43253F; margin-bottom: 20mm; }
+.rosto-titulo { margin: 0; line-height: 1.05; bookmark-level: none; }
+.rosto-titulo .leve  { font-size: 17pt; letter-spacing: .06em; color: #242640; }
+.rosto-titulo .forte { font-size: 33pt; letter-spacing: -.01em; color: #151D33; margin-top: 2mm; }
+.rosto .regua { margin: 11mm auto 9mm; }
+.rosto-sub { font: italic 400 11.5pt "Literata"; color: #B45A48; }
+
+/* ---------- créditos ---------- */
+.creditos { page: frente; break-before: left; padding-top: 112mm; font-size: 7.6pt; line-height: 1.55; color: #5A4F5C; hyphens: auto; hyphenate-character: "-"; hyphenate-limit-chars: 8 3 3; }
+.creditos p { margin-bottom: 2.6mm; }
+
+/* ---------- sumário ---------- */
+.sumario { page: frente; break-before: right; padding-top: 18mm; }
+.sumario-titulo { font: 700 15pt "Unbounded"; text-transform: uppercase; letter-spacing: .02em; color: #151D33; margin: 0 0 12mm; bookmark-level: none; }
+.sumario ol { list-style: none; margin: 0; padding: 0; }
+.sumario li { margin-bottom: 4mm; font-size: 10.5pt; }
+.sumario a { color: #2B2533; text-decoration: none; }
+.sumario a::after { content: leader(" ") target-counter(attr(href), page); font: italic 400 10pt "Literata"; color: #43253F; }
+.sumario .num { font: 600 8pt "Unbounded"; color: #B45A48; margin-right: 3mm; }
+.sumario li.sub { padding-left: 11mm; font-size: 9pt; color: #5A4F5C; }
+.sumario-nota { margin-top: 14mm; font: italic 400 8.6pt "Literata"; color: #8C7B78; }
+
+/* ---------- abertura de capítulo (página par, sangrada) ---------- */
+.abertura { page: abertura; break-before: left; }
+.abertura-arte {
+  position: relative; width: 160mm; height: 230mm;
+  background-color: #151D33; background-size: cover, cover; background-position: center, 50% 30%;
+  background-repeat: no-repeat;
+}
+.abertura-titulo { position: absolute; left: 17mm; right: 22mm; bottom: 34mm; color: #F7EEDC; }
+.abertura-num { font: 400 6.6pt "Unbounded"; letter-spacing: .34em; text-transform: uppercase; color: #F7EEDC; margin-bottom: 7mm; }
+.abertura-num .traco { display: inline-block; width: 13mm; height: .8pt; background: #E99C61; vertical-align: middle; margin-right: 3.5mm; }
+.cap-titulo { margin: 0; line-height: 1.04; bookmark-level: 1; bookmark-label: "Capítulo 1 — Predito o destino do mundo"; }
+.cap-titulo .leve  { font-size: 15.5pt; letter-spacing: .04em; margin-bottom: 1.6mm; }
+.cap-titulo .forte { font-size: 27pt; font-weight: 700; letter-spacing: -.012em; color: #F7EEDC; }
+.abertura .regua { margin: 8mm 0 6mm; }
+.abertura-kicker { font: 400 6.8pt "Unbounded"; letter-spacing: .3em; text-transform: uppercase; color: #F7EEDC; }
+
+/* marcador de ilustração pendente */
+.marcador {
+  position: absolute; left: 14mm; right: 14mm; top: 16mm; height: 92mm;
+  border: .6pt dashed rgba(233,156,97,.7); padding: 10mm 9mm; color: rgba(247,238,220,.82);
+  font: italic 400 9pt/1.5 "Literata";
+  background: linear-gradient(160deg, #43253F 0%, #242640 55%, #151D33 100%);
+}
+.marcador p { margin-bottom: 3mm; }
+.marcador-rotulo { font: 600 6.4pt "Unbounded"; font-style: normal; letter-spacing: .3em; text-transform: uppercase; color: #E99C61; }
+
+/* ---------- leitura ---------- */
+.capitulo { page: leitura; break-before: right; hyphens: auto; hyphenate-character: "-"; orphans: 2; widows: 2; }
+.capitulo p { margin-bottom: .62em; text-align: left; }
+
+.epigrafe { margin: 2mm 0 10mm; padding: 0 0 0 5mm; border-left: .8pt solid #B45A48; }
+.epigrafe p { font: italic 400 11.2pt/1.5 "Literata"; color: #43253F; hyphens: manual; }
+.epigrafe .ref, .destaque-ref { font: 500 6.2pt "Unbounded"; font-style: normal; letter-spacing: .22em; text-transform: uppercase; color: #B45A48; margin-top: 2.5mm; }
+
+.secao-titulo {
+  font: 500 10.6pt/1.3 "Unbounded"; color: #43253F; letter-spacing: -.005em;
+  margin: 8.5mm 0 3.6mm; break-after: avoid; hyphens: manual; bookmark-level: 2;
+}
+.secao-titulo::before { content: ""; display: block; width: 9mm; height: .8pt; background: #B45A48; margin-bottom: 3.2mm; }
+.secao:first-of-type .secao-titulo { margin-top: 0; }
+
+.letra-capitular {
+  float: left; font: 600 36pt/1 "Literata"; color: #43253F;
+  margin: -.6mm 1.6mm 0 -.3mm; padding: 0; height: 12.4mm;
+}
+
+.capitulo i { font-family: "Literata"; font-style: italic; }
+
+/* citação de historiador */
+.historiador { margin: 4mm 0 5mm; padding: 0 0 0 6mm; border-left: .5pt solid #D9C9B8; break-inside: auto; }
+.historiador p { font-size: 9.8pt; line-height: 1.5; color: #463C48; }
+.historiador .fonte { font: 400 6pt "Unbounded"; letter-spacing: .16em; text-transform: uppercase; color: #8C7B78; margin-top: 2mm; }
+.historiador .fonte i { font-family: "Unbounded"; font-style: normal; }
+
+/* destaque (repete um versículo do texto) */
+.destaque { margin: 8mm 6mm 7mm 0; padding: 1mm 0 1mm 6mm; border-left: 1.4pt solid #B45A48; break-inside: avoid; }
+.destaque-texto { font: italic 400 15pt/1.32 "Literata"; color: #43253F; hyphens: manual; }
+
+/* ---------- página especial: linha do tempo ---------- */
+.especial { page: especial; break-before: page; break-after: page; break-inside: avoid; padding-top: 14mm; }
+.kicker { font: 500 6.2pt "Unbounded"; letter-spacing: .3em; text-transform: uppercase; color: #B45A48; margin-bottom: 2.5mm; }
+.especial-titulo { font: italic 400 21pt/1.12 "Literata"; color: #151D33; margin: 0 0 8mm; bookmark-level: 2; bookmark-label: "Linha do tempo: do aviso à destruição"; }
+.linha-do-tempo ol { list-style: none; margin: 0; padding: 0 0 0 7mm; border-left: .8pt solid #E99C61; }
+.linha-do-tempo li { position: relative; margin-bottom: 5.2mm; break-inside: avoid; }
+.linha-do-tempo li::before { content: ""; position: absolute; left: -8.7mm; top: 1.1mm; width: 2.6mm; height: 2.6mm; border-radius: 50%; background: #FAF6EE; border: .9pt solid #B45A48; }
+.lt-marca { font: 600 7.4pt "Unbounded"; letter-spacing: .04em; text-transform: uppercase; color: #B45A48; margin-bottom: 1mm !important; }
+.lt-texto { font-size: 9.6pt; line-height: 1.45; margin: 0 !important; }
+.lt-ref { font: italic 400 8.8pt "Literata"; color: #8C7B78; white-space: nowrap; }
+.lt-nota { margin-top: 7mm !important; font: italic 400 7.8pt/1.45 "Literata"; color: #8C7B78; }
+
+.fim-cap { text-align: center; color: #B45A48; font: 600 12pt "Literata"; letter-spacing: .2em; margin-top: 6mm; }
+b { font-weight: 600; }
