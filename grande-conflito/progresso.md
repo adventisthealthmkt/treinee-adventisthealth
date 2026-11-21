@@ -33,7 +33,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [ ] Capítulo 35
 - [x] Capítulo 36 — sem observações.
 - [ ] Capítulo 37
-- [ ] Capítulo 38
+- [x] Capítulo 38 — sem observações.
 - [ ] Capítulo 39
 - [ ] Capítulo 40
 - [ ] Capítulo 41
