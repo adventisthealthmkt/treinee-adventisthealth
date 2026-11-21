@@ -12,7 +12,7 @@ Marque [x] quando o capítulo estiver reescrito e verificado. Anote observaçõe
 - [ ] Capítulo 14
 - [ ] Capítulo 15
 - [x] Capítulo 16 — acrescentada a referência Judas 1:3 ("a fé que foi entregue aos santos"), sem indicação no original.
-- [ ] Capítulo 17
+- [x] Capítulo 17 — sem observações ("Jud. 14 e 15" escrito como Judas 14, 15).
 - [ ] Capítulo 18
 - [x] Capítulo 19 — acrescentada a referência Salmos 25:10 na citação final, sem indicação no original.
 - [ ] Capítulo 20
