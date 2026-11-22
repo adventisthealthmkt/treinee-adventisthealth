@@ -19,7 +19,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 14 — 17 referências acrescentadas a citações sem indicação (Judas 3, Hebreus 4:9, João 1:29, Isaías 55:1, 2 Timóteo 2:3, 1 Coríntios 2:2, Marcos 12:30, Mateus 12:36, 1 Coríntios 10:31, Mateus 5:17, 19:26, Romanos 8:4, Tiago 4:11, Lucas 22:48, Romanos 3:20, Mateus 9:12, Isaías 42:21); OCR "foes" lido como "fires" (fogo) da verdade — conferido.
 - [ ] Capítulo 15
 - [x] Capítulo 16 — referência acrescentada: Judas 1:3; "Ibid." com fonte (Martyn, Bancroft).
-- [ ] Capítulo 17
+- [x] Capítulo 17 — OCR de referências corrigido (Atos 1:11, 3:21, Isaías 28:5, Oseias 8:2, 1, Sofonias 1:12) — conferido; citações de Taylor truncadas no OCR.
 - [ ] Capítulo 18
 - [x] Capítulo 19 — OCR de referências corrigido: Jó 11:7, Miqueias 7:8, 9, 1 Pedro 1:10-12.
 - [ ] Capítulo 20
