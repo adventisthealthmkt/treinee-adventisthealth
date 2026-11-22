@@ -30,7 +30,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [ ] Capítulo 25
 - [x] Capítulo 26 — referências acrescentadas: Apocalipse 14:12, Isaías 58:1; "Verse 8/20" → Isaías 56:8 e 8:20; OCR "8:i6" → Isaías 8:16.
 - [ ] Capítulo 27
-- [ ] Capítulo 28
+- [x] Capítulo 28 — OCR de referências corrigido (Isaías 43:25, Apocalipse 3:5, Mateus 10:32-33, Salmo 51:17, Lucas 20:35-36, Levítico 16:22, Daniel 5:27); um parágrafo ilegível reconstruído pelo sentido.
 - [ ] Capítulo 29
 - [x] Capítulo 30 — referência acrescentada: Atos 20:19; parágrafo "Satan summons all his forces" com OCR danificado reconstruído pelo sentido.
 - [x] Capítulo 31 — dois trechos com OCR muito danificado reconstruídos pelo sentido.
