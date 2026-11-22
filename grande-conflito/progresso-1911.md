@@ -26,7 +26,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [ ] Capítulo 21
 - [ ] Capítulo 22
 - [ ] Capítulo 23
-- [ ] Capítulo 24
+- [x] Capítulo 24 — OCR "Malachi 3^" → Malaquias 3:4; referências acrescentadas: João 20:20, 20:13, 1 Coríntios 15:58, 1 Pedro 1:3, 1:8, Apocalipse 14:7, Mateus 25:6, 25:10. Dois trechos com OCR muito danificado (fim do 1º parágrafo; parábola das virgens) reconstruídos pelo sentido.
 - [ ] Capítulo 25
 - [x] Capítulo 26 — referências acrescentadas: Apocalipse 14:12, Isaías 58:1; "Verse 8/20" → Isaías 56:8 e 8:20; OCR "8:i6" → Isaías 8:16.
 - [ ] Capítulo 27
