@@ -23,7 +23,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [ ] Capítulo 18
 - [x] Capítulo 19 — OCR de referências corrigido: Jó 11:7, Miqueias 7:8, 9, 1 Pedro 1:10-12.
 - [x] Capítulo 20 — OCR de referências corrigido e conferido no contexto: Gênesis 1:26, 1 Coríntios 15:23, Mateus 24:36, Isaías 66:5.
-- [ ] Capítulo 21
+- [x] Capítulo 21 — referências acrescentadas: João 7:48, Tiago 4:4, 2 Timóteo 3:4, 5; citações de Barnes e do Religious Telescope com OCR danificado reconstruídas pelo sentido; linhas da citação de Beecher reordenadas.
 - [ ] Capítulo 22
 - [x] Capítulo 23 — trechos com OCR danificado (parágrafos 2 e 3; passagem de Levítico 10:17 e 16) reconstruídos pelo sentido.
 - [x] Capítulo 24 — OCR "Malachi 3^" → Malaquias 3:4; referências acrescentadas: João 20:20, 20:13, 1 Coríntios 15:58, 1 Pedro 1:3, 1:8, Apocalipse 14:7, Mateus 25:6, 25:10. Dois trechos com OCR muito danificado (fim do 1º parágrafo; parábola das virgens) reconstruídos pelo sentido.
