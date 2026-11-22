@@ -8,7 +8,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 3 — OCR corrigido (Lucas 21:16, 17; Oseias 4:6, 1, 2; Daniel 7:25). Efésios 6:17 mantido como no inglês (alusão à espada do Espírito).
 - [x] Capítulo 4 — OCR corrigido (1 João 1:7; Wylie, livro 16, cap. 1). Referência acrescentada: Mateus 20:28.
 - [x] Capítulo 5 — referências acrescentadas: Mateus 15:6, Filipenses 3:10.
-- [ ] Capítulo 6
+- [x] Capítulo 6 — referência acrescentada: Gênesis 50:24.
 - [ ] Capítulo 7
 - [ ] Capítulo 8
 - [x] Capítulo 9 — "Ibid." e fontes sem autor passaram a citar Wylie ou D'Aubigné; 21 citações com fonte.
