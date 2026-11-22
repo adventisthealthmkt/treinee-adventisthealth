@@ -11,7 +11,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [ ] Capítulo 6
 - [ ] Capítulo 7
 - [ ] Capítulo 8
-- [ ] Capítulo 9
+- [x] Capítulo 9 — "Ibid." e fontes sem autor passaram a citar Wylie ou D'Aubigné; 21 citações com fonte.
 - [ ] Capítulo 10
 - [ ] Capítulo 11
 - [ ] Capítulo 12
