@@ -255,3 +255,74 @@ Pouco depois, ele recebeu a sentença de condenação. Foi levado ao mesmo lugar
 As suas últimas palavras, ditas enquanto as chamas subiam ao seu redor, foram uma oração. "Senhor, Pai Todo-Poderoso", ele clamou, "tem pena de mim e perdoa os meus pecados, porque Tu sabes que eu sempre amei a Tua verdade" (Bonnechose, vol. 2). A sua voz parou, mas os seus lábios continuaram se movendo em oração. Quando o fogo terminou o seu trabalho, as cinzas do mártir, junto com a terra onde estavam, foram recolhidas e, como as de Huss, foram jogadas no rio Reno.
 
 Assim morreram os fiéis portadores da luz de Deus. Mas a luz das verdades que eles anunciaram, a luz do seu exemplo heroico, não podia ser apagada. Seria mais fácil os homens tentarem fazer o sol voltar no seu caminho do que impedir o amanhecer daquele dia que já estava começando a raiar sobre o mundo.
+
+### A revolta na Boêmia
+
+A execução de Huss tinha acendido na Boêmia uma chama de revolta e de horror. A nação inteira sentiu que ele tinha sido vítima da maldade dos padres e da traição do imperador. Ele foi declarado um mestre fiel da verdade, e o concílio que decretou a sua morte foi acusado do crime de assassinato. As suas doutrinas passaram a chamar mais atenção do que nunca.
+
+Por ordens do papa, os escritos de Wycliffe tinham sido condenados ao fogo. Mas os que tinham escapado da destruição agora saíram dos esconderijos. Eles foram estudados junto com a Bíblia, ou com as partes dela que o povo conseguia obter, e assim muitos foram levados a aceitar a fé reformada.
+
+Os assassinos de Huss não ficaram parados vendo a vitória da causa dele. O papa e o imperador se uniram para esmagar o movimento, e os exércitos de Sigismundo foram lançados contra a Boêmia.
+
+### Zizka e Procópio
+
+Mas Deus levantou um libertador. Zizka foi o líder dos boêmios. Pouco depois do começo da guerra ele ficou totalmente cego, mas mesmo assim foi um dos generais mais capazes do seu tempo. Confiando na ajuda de Deus e na justiça da sua causa, aquele povo resistiu aos exércitos mais poderosos que puderam ser mandados contra ele.
+
+Muitas e muitas vezes o imperador reuniu novos exércitos e invadiu a Boêmia, só para ser expulso de forma vergonhosa. Os hussitas tinham sido levados acima do medo da morte, e nada conseguia ficar de pé diante deles. Poucos anos depois do começo da guerra, o corajoso Zizka morreu. Mas o seu lugar foi ocupado por Procópio, um general tão corajoso e habilidoso quanto ele e, em alguns aspectos, um líder ainda mais capaz.
+
+### As cruzadas contra os hussitas
+
+Os inimigos dos boêmios, sabendo que o guerreiro cego tinha morrido, acharam que era a hora certa para recuperar tudo o que tinham perdido. O papa então anunciou uma cruzada (guerra religiosa convocada pela igreja) contra os hussitas. De novo uma força enorme foi lançada sobre a Boêmia, mas só para sofrer uma derrota terrível.
+
+Outra cruzada foi anunciada. Em todos os países da Europa ligados ao papa, foram reunidos homens, dinheiro e material de guerra. Multidões se juntaram à bandeira do papa, certas de que finalmente iriam acabar com os hereges hussitas. Confiante na vitória, o grande exército entrou na Boêmia. O povo se reuniu para expulsá-lo.
+
+Os dois exércitos se aproximaram até que só um rio os separava. "Os cruzados eram muito mais numerosos. Mas, em vez de atravessar o rio correndo e entrar em batalha com os hussitas, que tinham vindo de tão longe para enfrentar, ficaram parados, olhando em silêncio para aqueles guerreiros" (Wylie, livro 3, cap. 17).
+
+Então, de repente, um terror misterioso caiu sobre o exército. Sem dar um só golpe, aquela força poderosa se desfez e se espalhou, como se tivesse sido dispersada por um poder invisível. Muitos foram mortos pelo exército hussita, que perseguiu os que fugiam. Uma quantidade enorme de despojos caiu nas mãos dos vencedores. Assim, em vez de empobrecer os boêmios, a guerra os enriqueceu.
+
+### O exército que fugiu sem lutar
+
+Alguns anos depois, com um novo papa, foi organizada mais uma cruzada. Como antes, homens e recursos vieram de todos os países da Europa ligados ao papa. Grandes vantagens foram oferecidas a quem entrasse nessa empreitada perigosa. Cada cruzado teria garantido o perdão completo dos crimes mais horríveis. Todos os que morressem na guerra receberiam a promessa de uma rica recompensa no céu. E os que sobrevivessem iriam colher honra e riquezas no campo de batalha.
+
+De novo um grande exército foi reunido e, atravessando a fronteira, entrou na Boêmia. As forças hussitas recuaram diante dele. Assim atraíram os invasores cada vez mais para dentro do país, levando-os a achar que a vitória já estava ganha. Por fim, o exército de Procópio parou e, virando-se contra o inimigo, avançou para a batalha.
+
+Os cruzados, percebendo agora o seu engano, ficaram no acampamento esperando o ataque. Quando se ouviu o barulho do exército que se aproximava, antes mesmo que os hussitas aparecessem, o pânico caiu outra vez sobre os cruzados. Príncipes, generais e soldados comuns jogaram fora as armaduras e fugiram para todos os lados.
+
+O legado (representante oficial) do papa, que era o líder da invasão, tentou em vão reunir as suas tropas aterrorizadas e desorganizadas. Apesar de todos os seus esforços, ele mesmo foi arrastado pela onda dos que fugiam. A derrota foi completa, e de novo uma quantidade enorme de despojos caiu nas mãos dos vencedores.
+
+### A mão de Deus
+
+Assim, pela segunda vez, um grande exército, mandado pelas nações mais poderosas da Europa, uma multidão de homens valentes e guerreiros, treinados e equipados para a batalha, fugiu sem dar um golpe diante dos defensores de uma nação pequena e até então fraca. Ali se viu o poder de Deus. Os invasores foram atingidos por um terror sobrenatural.
+
+Aquele que derrubou os exércitos do faraó no mar Vermelho, que pôs em fuga os exércitos de Midiã diante de Gideão e dos seus trezentos homens, e que numa só noite derrubou as forças do orgulhoso assírio, tinha estendido de novo a Sua mão para secar o poder do opressor. "Ali eles ficaram cheios de medo, onde não havia motivo para ter medo. Porque Deus espalhou os ossos de quem acampou contra você. Você os envergonhou, porque Deus os rejeitou" (Salmo 53:5).
+
+### Vencidos pela esperteza
+
+Os líderes do papa, sem esperança de vencer pela força, acabaram partindo para a diplomacia. Foi feito um acordo que, fingindo dar aos boêmios liberdade de consciência, na verdade os entregava nas mãos de Roma. Os boêmios tinham apresentado quatro pontos como condição para a paz com Roma:
+
+- a pregação livre da Bíblia;
+- o direito de toda a igreja de receber o pão e o vinho na Ceia, e o uso da língua materna no culto;
+- a exclusão do clero de todos os cargos e poderes do governo civil;
+- e, em casos de crime, que os tribunais civis julgassem igualmente o clero e o povo.
+
+As autoridades do papa finalmente "concordaram em aceitar os quatro artigos dos hussitas, mas o direito de explicá-los, isto é, de decidir o sentido exato deles, ficaria com o concílio, ou seja, com o papa e o imperador" (Wylie, livro 3, cap. 18). Com essa base foi feito um tratado. E Roma ganhou pela falsidade e pela fraude o que não tinha conseguido ganhar pela guerra. É que, dando a sua própria interpretação aos artigos dos hussitas, como fazia com a Bíblia, ela podia torcer o sentido deles para servir aos seus próprios objetivos.
+
+Muitos na Boêmia, vendo que o acordo traía as suas liberdades, não puderam aceitá-lo. Surgiram desentendimentos e divisões, que levaram a brigas e derramamento de sangue entre eles mesmos. Nessa luta morreu o nobre Procópio, e as liberdades da Boêmia acabaram.
+
+### O fim de Sigismundo
+
+Sigismundo, o traidor de Huss e Jerônimo, tornou-se então rei da Boêmia. Sem ligar para o juramento que tinha feito de respeitar os direitos dos boêmios, começou a implantar o papado. Mas pouco ganhou por se submeter a Roma. Durante vinte anos a sua vida tinha sido cheia de trabalhos e perigos. Os seus exércitos tinham sido destruídos e os seus tesouros esvaziados numa luta longa e inútil. E agora, depois de reinar um ano, ele morreu. Deixou o seu reino à beira de uma guerra civil e deixou para as gerações seguintes um nome marcado pela vergonha.
+
+As revoltas, as brigas e o derramamento de sangue continuaram por muito tempo. De novo exércitos estrangeiros invadiram a Boêmia, e as divisões internas continuaram a perturbar a nação. Os que ficaram fiéis ao evangelho sofreram uma perseguição sangrenta.
+
+### Os Irmãos Unidos
+
+Os seus antigos irmãos, fazendo acordo com Roma, absorveram os erros dela. Por isso, os que ficaram firmes na fé antiga formaram uma igreja separada, com o nome de "Irmãos Unidos". Essa decisão fez com que fossem amaldiçoados por gente de todas as classes. Mesmo assim, a firmeza deles não foi abalada. Obrigados a buscar refúgio nas matas e nas cavernas, eles continuavam se reunindo para ler a Palavra de Deus e adorá-Lo juntos.
+
+Por meio de mensageiros enviados em segredo a vários países, souberam que aqui e ali havia "pessoas isoladas que confessavam a verdade, algumas nesta cidade e outras naquela, também perseguidas como eles. E souberam que, no meio das montanhas dos Alpes, havia uma igreja antiga, apoiada nos fundamentos da Escritura e protestando contra a corrupção idólatra de Roma" (Wylie, livro 3, cap. 19). Essa notícia foi recebida com grande alegria, e começou uma troca de cartas com os cristãos valdenses.
+
+### Esperando o amanhecer
+
+Firmes no evangelho, os boêmios esperaram durante a noite da sua perseguição. Na hora mais escura, ainda olhavam para o horizonte, como quem espera a manhã chegar. "Eles viveram em dias maus, mas [...] lembravam as palavras ditas primeiro por Huss e repetidas por Jerônimo: que um século teria de passar antes que o dia raiasse. Essas palavras eram para os taboritas [hussitas] o que as palavras de José foram para as tribos na casa da escravidão: 'Eu vou morrer, mas Deus certamente vai visitar vocês e tirar vocês daqui'" (Gênesis 50:24) (mesma obra, livro 3, cap. 19).
+
+"O final do século 15 viu o crescimento lento, mas seguro, das igrejas dos Irmãos. Embora estivessem longe de viver sem ser incomodados, tinham um descanso relativo. No começo do século 16, as suas igrejas eram duzentas, na Boêmia e na Morávia" (Ezra Hall Gillett, *Vida e Época de João Huss*, vol. 2). "Assim, foi grande o grupo restante que, escapando da fúria destruidora do fogo e da espada, teve a permissão de ver o amanhecer daquele dia que Huss tinha anunciado" (Wylie, livro 3, cap. 19).

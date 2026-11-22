@@ -124,7 +124,7 @@ Quando o sinal de aviso aparecesse, quem quisesse escapar não podia perder temp
 
 No reinado de Herodes, Jerusalém não só tinha ficado muito mais bonita. Ele também construiu torres, muralhas e fortalezas, que se somaram à força natural da posição da cidade. Assim, ela parecia impossível de ser conquistada. Quem naquela época anunciasse em público a sua destruição seria chamado de louco alarmista, como Noé no tempo dele. Mas Cristo tinha dito: "O céu e a terra vão passar, mas as Minhas palavras não vão passar" (Mateus 24:35). Por causa dos pecados de Jerusalém, a ira de Deus tinha sido anunciada contra ela. E a sua incredulidade teimosa tornava a sua condenação certa.
 
-O Senhor tinha dito pelo profeta Micas: "Ouçam isto, chefes dos descendentes de Jacó e líderes do povo de Israel, que odeiam a justiça e torcem tudo o que é certo. Vocês constroem Sião com sangue e Jerusalém com maldade. Os chefes dela julgam em troca de suborno, os sacerdotes ensinam por dinheiro e os profetas adivinham por pagamento. E ainda assim se apoiam no Senhor e dizem: 'O Senhor não está no meio de nós? Nenhum mal vai nos atingir'" (Miqueias 3:9-11).
+O Senhor tinha dito pelo profeta Miqueias: "Ouçam isto, chefes dos descendentes de Jacó e líderes do povo de Israel, que odeiam a justiça e torcem tudo o que é certo. Vocês constroem Sião com sangue e Jerusalém com maldade. Os chefes dela julgam em troca de suborno, os sacerdotes ensinam por dinheiro e os profetas adivinham por pagamento. E ainda assim se apoiam no Senhor e dizem: 'O Senhor não está no meio de nós? Nenhum mal vai nos atingir'" (Miqueias 3:9-11).
 
 Essas palavras descreviam com exatidão os moradores de Jerusalém, corruptos e que se achavam justos. Eles diziam obedecer rigorosamente aos mandamentos da lei de Deus, mas desobedeciam a todos os seus princípios. Odiavam Cristo porque a pureza e a santidade dEle mostravam a maldade deles. E O acusavam de ser a causa de todos os problemas que tinham caído sobre eles, quando na verdade esses problemas eram consequência dos pecados deles.
 
@@ -181,3 +181,91 @@ Mas a providência misericordiosa de Deus estava dirigindo os acontecimentos par
 Quando Céstio recuou, os judeus saíram de Jerusalém e foram atrás do exército que se retirava. Enquanto as duas forças estavam ocupadas com isso, os cristãos tiveram a chance de sair da cidade. Nessa época, o campo também estava livre de inimigos que poderiam tentar barrá-los. Na hora do cerco, os judeus estavam reunidos em Jerusalém para a Festa dos Tabernáculos. Assim, os cristãos de todo o país puderam fugir sem serem incomodados. Sem demora, eles fugiram para um lugar seguro: a cidade de Pela, na terra da Pereia, do outro lado do rio Jordão.
 
 As tropas judias perseguiram Céstio e seu exército e atacaram a retaguarda com tanta fúria que quase os destruíram por completo. Os romanos tiveram muita dificuldade para conseguir recuar. Os judeus saíram quase sem perdas e voltaram para Jerusalém em triunfo, carregando o que tinham tomado. Mas esse aparente sucesso só lhes trouxe mal. Ele encheu os judeus de um espírito de resistência teimosa contra os romanos, e isso logo trouxe uma desgraça indescritível sobre a cidade condenada.
+
+### A fome durante o cerco de Tito
+
+Foram terríveis as desgraças que caíram sobre Jerusalém quando Tito recomeçou o cerco. A cidade foi cercada na época da Páscoa, quando milhões de judeus estavam reunidos dentro das suas muralhas. Os depósitos de comida, que, se fossem bem guardados, dariam para alimentar os moradores por anos, já tinham sido destruídos. Isso aconteceu por causa da inveja e da vingança dos grupos rivais. Agora o povo passava por todos os horrores da fome.
+
+Uma medida de trigo era vendida por um talento (uma quantia enorme de dinheiro). A fome era tão forte que os homens roíam o couro dos cintos e das sandálias e a cobertura dos escudos. Muita gente saía escondida à noite para colher plantas silvestres que cresciam fora das muralhas. Muitos eram pegos e mortos com torturas cruéis. E, muitas vezes, os que voltavam em segurança eram roubados do que tinham colhido com tanto risco.
+
+Os que tinham poder aplicavam as torturas mais desumanas para arrancar do povo faminto as últimas migalhas de comida que talvez estivessem escondidas. E muitas vezes essas crueldades eram praticadas por homens que estavam bem alimentados e só queriam guardar comida para o futuro.
+
+Milhares morreram de fome e de doença. O amor natural entre as pessoas parecia ter desaparecido. Maridos roubavam suas esposas, e esposas, seus maridos. Viam-se filhos arrancando a comida da boca dos pais idosos.
+
+O profeta tinha perguntado: "Será que uma mãe pode esquecer o filho que ainda mama?" Dentro dos muros daquela cidade condenada veio a resposta: "As mulheres, que costumam ser tão carinhosas, cozinharam os próprios filhos. Eles viraram comida delas quando o meu povo foi destruído" (Isaías 49:15; Lamentações 4:10).
+
+Mais uma vez se cumpriu a profecia de aviso dada catorze séculos antes: "A mulher mais delicada e sensível do meio de vocês, que nem ousava pôr a sola do pé no chão de tão delicada e sensível, vai olhar com maldade para o marido que ela ama, para o filho e para a filha, e para os filhos que ela mesma vai dar à luz. Por falta de tudo, ela vai comê-los às escondidas, durante o cerco e o aperto que o inimigo vai trazer sobre as suas cidades" (Deuteronômio 28:56, 57).
+
+### Cruzes em volta da cidade
+
+Os chefes romanos tentaram aterrorizar os judeus para que se rendessem. Os prisioneiros que resistiam quando eram capturados eram chicoteados, torturados e crucificados diante da muralha da cidade. Centenas eram mortos assim todos os dias. Esse trabalho terrível continuou até que, ao longo do vale de Josafá e no Calvário, foram levantadas tantas cruzes que quase não havia espaço para andar entre elas. Assim se cumpriu de forma terrível aquela maldição dita diante do tribunal de Pilatos: "Que o sangue dEle caia sobre nós e sobre os nossos filhos!" (Mateus 27:25).
+
+Tito teria acabado de bom grado com aquela cena horrível, poupando Jerusalém de sofrer toda a sua condenação. Ele ficou horrorizado ao ver os corpos dos mortos amontoados nos vales. Como alguém fascinado, ele olhou do alto do Monte das Oliveiras para o templo magnífico e deu ordem para que nenhuma pedra dele fosse tocada.
+
+Antes de tentar tomar aquela fortaleza, ele fez um apelo sincero aos líderes judeus para que não o obrigassem a manchar com sangue o lugar sagrado. Se eles saíssem e lutassem em qualquer outro lugar, nenhum romano ia desrespeitar a santidade do templo. O próprio Josefo, num apelo muito eloquente, implorou que se rendessem, para salvar a si mesmos, a sua cidade e o seu lugar de culto.
+
+Mas as palavras dele foram respondidas com maldições cheias de ódio. Atiraram flechas contra ele, o último mediador humano deles, enquanto ele estava ali implorando. Os judeus tinham rejeitado os apelos do Filho de Deus. Agora, conselhos e súplicas só os deixavam mais decididos a resistir até o fim. Foram inúteis os esforços de Tito para salvar o templo. Alguém maior do que ele tinha dito que não ia ficar pedra sobre pedra.
+
+### O templo pega fogo
+
+A teimosia cega dos líderes judeus e os crimes horríveis cometidos dentro da cidade cercada encheram os romanos de horror e indignação. Por fim, Tito decidiu tomar o templo à força. Mas ele resolveu que, se fosse possível, o templo seria salvo da destruição. Só que as suas ordens não foram obedecidas.
+
+Depois que ele foi para a sua tenda, à noite, os judeus saíram do templo e atacaram os soldados que estavam do lado de fora. Na luta, um soldado jogou uma tocha acesa por uma abertura da varanda. Na mesma hora, as salas forradas de cedro em volta do templo pegaram fogo. Tito correu para o lugar, seguido por seus generais e soldados, e mandou que os soldados apagassem as chamas.
+
+Ninguém lhe deu ouvidos. Furiosos, os soldados jogaram tochas acesas nas salas ao lado do templo. Depois, com as espadas, mataram um grande número dos que tinham se abrigado ali. O sangue descia pelos degraus do templo como água. Milhares e milhares de judeus morreram. Acima do barulho da batalha, ouviam-se vozes gritando: "Icabode!", que quer dizer "a glória foi embora".
+
+> "Tito viu que era impossível conter a fúria dos soldados. Ele entrou com seus oficiais e examinou o interior do prédio sagrado. O esplendor deixou todos maravilhados. Como as chamas ainda não tinham chegado ao lugar santo, ele fez um último esforço para salvá-lo. Saiu correndo e de novo mandou os soldados pararem o avanço do incêndio. O centurião Liberal tentou obrigá-los a obedecer usando o seu bastão de comando. Mas até o respeito pelo imperador perdeu para o ódio furioso contra os judeus, para a excitação violenta da batalha e para a vontade sem fim de saquear.
+>
+> "Os soldados viam tudo em volta brilhando com ouro, que reluzia forte na luz selvagem das chamas. Eles imaginavam que havia tesouros incalculáveis guardados no santuário. Um soldado, sem ninguém perceber, enfiou uma tocha acesa entre as dobradiças da porta. Num instante o prédio inteiro estava em chamas. A fumaça que cegava e o fogo obrigaram os oficiais a recuar, e o nobre prédio foi deixado à sua própria sorte.
+>
+> "Era um espetáculo assustador para o romano. O que seria então para o judeu? Todo o alto do morro que dominava a cidade ardia como um vulcão. Um depois do outro, os prédios caíam com um estrondo enorme e eram engolidos pelo abismo de fogo. Os telhados de cedro pareciam lençóis de chamas. Os pontos mais altos, cobertos de ouro, brilhavam como lanças de luz vermelha. As torres dos portões soltavam colunas altas de fogo e fumaça.
+>
+> "Os morros vizinhos ficaram iluminados. Grupos escuros de pessoas olhavam, com uma ansiedade horrível, o avanço da destruição. As muralhas e as partes altas da cidade alta estavam cheias de rostos. Alguns estavam pálidos com a agonia do desespero. Outros estavam fechados de raiva, querendo uma vingança que não podiam ter.
+>
+> "Os gritos dos soldados romanos correndo de um lado para o outro e os uivos dos revoltosos que morriam nas chamas se misturavam com o rugido do incêndio e com o barulho de trovão das vigas caindo. O eco das montanhas respondia ou trazia de volta os gritos do povo nas alturas. Ao longo das muralhas se ouviam gritos e choro. Homens que estavam morrendo de fome juntavam as forças que lhes restavam para dar um grito de dor e desolação.
+>
+> "A matança lá dentro era ainda mais terrível do que o espetáculo visto de fora. Homens e mulheres, velhos e jovens, revoltosos e sacerdotes, os que lutavam e os que pediam piedade, todos eram mortos sem distinção. O número de mortos era maior que o número dos que matavam. Os soldados tinham que escalar montes de cadáveres para continuar o trabalho de extermínio." (Milman, *A História dos Judeus*, livro 16)
+
+### A cidade arrasada
+
+Depois da destruição do templo, a cidade inteira logo caiu nas mãos dos romanos. Os líderes judeus abandonaram suas torres, que ninguém conseguiria conquistar, e Tito as encontrou vazias. Ele olhou para elas espantado e declarou que Deus as tinha entregado nas mãos dele. Nenhuma máquina de guerra, por mais poderosa que fosse, teria vencido aquelas muralhas gigantescas.
+
+A cidade e o templo foram derrubados até os alicerces, e o terreno onde estava a casa santa foi "arado como um campo" (Jeremias 26:18). No cerco e na matança que veio depois, morreram mais de um milhão de pessoas. Os que sobreviveram foram levados como prisioneiros e vendidos como escravos. Outros foram arrastados até Roma para enfeitar o desfile de vitória do conquistador, jogados às feras nos anfiteatros ou espalhados pela terra, sem casa, como andarilhos.
+
+### Quem causou a destruição
+
+Os judeus tinham feito as próprias correntes. Eles mesmos tinham enchido o cálice da vingança. Na destruição completa que caiu sobre eles como nação e em todas as desgraças que os acompanharam quando foram espalhados pelo mundo, eles só estavam colhendo o que as suas próprias mãos tinham plantado. O profeta diz: "Israel, você destruiu a si mesmo"; "você caiu por causa da sua maldade" (Oseias 13:9; 14:1).
+
+Muitas vezes se diz que o sofrimento deles foi um castigo mandado diretamente por decisão de Deus. É assim que o grande enganador tenta esconder a obra dele mesmo. Rejeitando com teimosia o amor e a misericórdia de Deus, os judeus fizeram com que a proteção de Deus fosse retirada deles. Então Satanás teve permissão para governá-los como quisesse. As crueldades horríveis praticadas na destruição de Jerusalém mostram o poder vingativo de Satanás sobre os que se entregam ao controle dele.
+
+Não temos como saber o quanto devemos a Cristo pela paz e pela proteção que temos. É o poder de Deus, que segura o mal, que impede a humanidade de cair totalmente sob o controle de Satanás. Até os desobedientes e ingratos têm muitos motivos para agradecer pela misericórdia e pela paciência de Deus, que mantém sob controle o poder cruel e maldoso do inimigo. Mas, quando as pessoas passam dos limites da paciência de Deus, esse freio é retirado.
+
+Deus não age com o pecador como um carrasco que executa a sentença contra o pecado. Ele deixa os que rejeitam a Sua misericórdia entregues a si mesmos, para colherem o que plantaram. Cada raio de luz rejeitado, cada aviso desprezado ou ignorado, cada paixão a que a pessoa se entrega, cada desobediência à lei de Deus é uma semente plantada. E essa semente sempre dá a sua colheita.
+
+Quando o pecador resiste sem parar ao Espírito de Deus, por fim o Espírito se afasta dele. Aí não sobra nenhum poder para controlar as más paixões da alma, nem proteção contra a maldade e o ódio de Satanás. A destruição de Jerusalém é um aviso assustador e sério para todos os que brincam com as ofertas da graça de Deus e resistem aos apelos da Sua misericórdia. Nunca foi dado um testemunho mais claro de que Deus odeia o pecado e de que o castigo vai cair com certeza sobre os culpados.
+
+### Uma sombra do fim do mundo
+
+A profecia do Salvador sobre os juízos que viriam sobre Jerusalém vai ter mais um cumprimento. Aquela destruição terrível foi só uma pequena sombra desse outro cumprimento. No destino da cidade escolhida podemos ver a condenação de um mundo que rejeitou a misericórdia de Deus e pisou na Sua lei.
+
+São sombrias as histórias de sofrimento humano que a terra viu durante os seus longos séculos de crime. O coração fica doente e a mente desfalece só de pensar nelas. Terríveis têm sido os resultados de rejeitar a autoridade do Céu. Mas as revelações sobre o futuro mostram uma cena ainda mais escura.
+
+As histórias do passado — a longa fila de tumultos, conflitos e revoluções, "as botas dos guerreiros na confusão da batalha e as roupas cobertas de sangue" (Isaías 9:5) — o que são elas, comparadas com os horrores daquele dia? Naquele dia, o Espírito de Deus, que segura o mal, vai ser retirado por completo dos ímpios. Ele não vai mais conter a explosão das paixões humanas e da fúria de Satanás. Então o mundo vai ver, como nunca antes, os resultados do governo de Satanás.
+
+### O povo de Deus vai ser livrado
+
+Mas naquele dia, como no tempo da destruição de Jerusalém, o povo de Deus vai ser livrado: todos os que estiverem com o nome escrito entre os vivos (Isaías 4:3). Cristo declarou que virá pela segunda vez para reunir Seus fiéis junto de Si: "Então todos os povos da terra vão chorar. Eles vão ver o Filho do Homem vindo nas nuvens do céu, com poder e grande glória. E Ele vai mandar os Seus anjos com um forte toque de trombeta. Eles vão reunir os Seus escolhidos dos quatro ventos, de uma ponta do céu até a outra" (Mateus 24:30, 31).
+
+Então os que não obedecem ao evangelho vão ser consumidos pelo sopro da Sua boca e destruídos pelo brilho da Sua vinda (2 Tessalonicenses 2:8). Como o Israel antigo, os ímpios destroem a si mesmos. Eles caem por causa da sua própria maldade. Com uma vida de pecado, eles se colocaram tão fora de sintonia com Deus, e a natureza deles ficou tão rebaixada pelo mal, que a manifestação da glória de Deus é para eles um fogo que consome.
+
+### Fiquem atentos
+
+Que ninguém deixe de lado a lição que as palavras de Cristo nos dão. Ele avisou Seus discípulos sobre a destruição de Jerusalém e deu a eles um sinal de que a ruína estava chegando, para que pudessem escapar. Do mesmo jeito, Ele avisou o mundo sobre o dia da destruição final e deu sinais de que ele está chegando, para que todos os que quiserem possam fugir da ira que vai vir.
+
+Jesus declara: "Vai haver sinais no sol, na lua e nas estrelas. E na terra as nações vão ficar angustiadas" (Lucas 21:25; Mateus 24:29; Marcos 13:24-26; Apocalipse 6:12-17). Os que virem esses sinais da Sua vinda devem "saber que ela está perto, já às portas" (Mateus 24:33). "Por isso, fiquem atentos", é o Seu conselho (Marcos 13:35).
+
+Os que prestarem atenção ao aviso não vão ficar no escuro, nem vão ser pegos de surpresa por aquele dia. Mas, para os que não quiserem vigiar, "o dia do Senhor vai chegar como um ladrão de noite" (1 Tessalonicenses 5:2-5).
+
+Hoje o mundo não está mais disposto a crer na mensagem para este tempo do que os judeus estavam para aceitar o aviso do Salvador sobre Jerusalém. Quando quer que venha, o dia de Deus vai pegar os ímpios de surpresa. A vida vai estar seguindo a mesma rotina de sempre. As pessoas vão estar ocupadas com prazeres, negócios, comércio e em ganhar dinheiro. Os líderes religiosos vão estar exaltando o progresso e a sabedoria do mundo, e o povo vai estar adormecido numa falsa segurança.
+
+Então, como o ladrão que entra à meia-noite numa casa sem vigia, a destruição vai cair de repente sobre os descuidados e ímpios, "e eles não vão escapar" (1 Tessalonicenses 5:3).
