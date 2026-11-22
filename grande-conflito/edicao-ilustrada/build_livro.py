@@ -20,36 +20,39 @@ from pathlib import Path
 import build as proto  # reaproveita linha do tempo, destaque, CSS de fontes e nota
 
 RAIZ = Path(__file__).resolve().parent
-TEXTOS = RAIZ.parent / "reescrito"
+TEXTOS = RAIZ.parent / "reescrito-1911"
 IMG = RAIZ / "imagens"
 FONTES = RAIZ / "fontes"
 SAIDA = RAIZ / "saida"
 NOME = "O_Grande_Conflito_Edicao_Ilustrada"
 
 # Divisão de cada título em parte leve (Unbounded 400) e forte (Unbounded 700).
-DIVISAO = {
-    1: ("O destino do mundo", "foi anunciado"), 2: ("O valor", "dos mártires"),
-    3: ("Como começou", "a escuridão espiritual"), 4: ("Um povo que", "espalhava a luz"),
-    5: ("Os mensageiros de", "um tempo melhor"), 6: ("Dois heróis", "da Idade Média"),
-    7: ("A influência de", "um bom lar"), 8: ("O poder vitorioso", "da verdade"),
-    9: ("A luz chega", "à Suíça"), 10: ("A Europa", "acorda"),
-    11: ("Os príncipes defendem", "a verdade"), 12: ("Os nobres", "da França"),
-    13: ("A liberdade nos", "Países Baixos"), 14: ("A Reforma avança", "na Inglaterra"),
-    15: ("A Bíblia e a", "Revolução Francesa"), 16: ("O direito mais sagrado", "do ser humano"),
-    17: ("A esperança", "que traz alegria"), 18: ("Uma profecia", "muito importante"),
-    19: ("Luz para", "os nossos dias"), 20: ("Um grande movimento", "no mundo inteiro"),
-    21: ("A causa da decadência", "das igrejas"), 22: ("Profecias que", "trazem ânimo"),
-    23: ("O santuário do Céu,", "centro da nossa esperança"), 24: ("Quando começa", "o julgamento de Deus"),
-    25: ("A Lei de Deus", "não muda"), 26: ("A verdade", "é restaurada"),
-    27: ("A vida que satisfaz:", "como encontrar paz para a alma"), 28: ("O grande julgamento", "de investigação"),
-    29: ("Por que existe", "o sofrimento"), 30: ("O pior inimigo do ser humano,", "e como vencê-lo"),
-    31: ("Os defensores", "invisíveis das pessoas"), 32: ("As armadilhas", "de Satanás"),
-    33: ("O ser humano", "é imortal?"), 34: ("O espiritismo oferece", "alguma esperança?"),
-    35: ("Uma ameaça à", "liberdade de consciência"), 36: ("O maior perigo para", "o lar e para a vida"),
-    37: ("A nossa", "única proteção"), 38: ("O último convite", "de Deus"),
-    39: ("Chega o tempo", "de angústia"), 40: ("O povo de Deus", "é libertado"),
-    41: ("A Terra", "ficará deserta"), 42: ("A vitória final", "e gloriosa"),
-}
+# Sem entrada aqui, a divisão é automática (função dividir).
+DIVISAO_MANUAL = {}
+PREPS = {"de", "da", "do", "das", "dos", "e", "em", "na", "no", "nas", "nos", "à", "ao", "contra", "entre", "através", "diante"}
+
+
+def dividir(num, titulo):
+    if num in DIVISAO_MANUAL:
+        leve, forte = DIVISAO_MANUAL[num]
+        assert f"{leve} {forte}".strip() == titulo, (num, titulo)
+        return leve, forte
+    m = re.match(r"^(.+?[:,])\s+(.+)$", titulo)
+    if m:
+        return m.group(1), m.group(2)
+    w = titulo.split()
+    if len(w) == 1:
+        return "", titulo
+    melhor = None
+    for k in range(1, len(w)):
+        leve, forte = " ".join(w[:k]), " ".join(w[k:])
+        nota = -abs(len(forte) - 14) + (6 if w[k].lower() in PREPS else 0) - (8 if len(forte) > 24 else 0)
+        nota -= 4 if len(leve) > 26 else 0
+        if melhor is None or nota > melhor[0]:
+            melhor = (nota, leve, forte)
+    return melhor[1], melhor[2]
+
+
 KICKER = {1: "Jesus e Jerusalém"}
 ALT = {}  # textos alternativos específicos; padrão abaixo
 
@@ -59,9 +62,9 @@ ALT = {}  # textos alternativos específicos; padrão abaixo
 
 def carregar():
     """Lista de dicts: num (0 = introdução), titulo, blocos."""
-    partes = [TEXTOS / "00-introducao.md", TEXTOS / "01-a-08.md"] + [
-        TEXTOS / f"{n:02d}-capitulo.md" for n in range(9, 43)
-    ]
+    partes = [TEXTOS / "00-introducao.md"] + [TEXTOS / f"{n:02d}-capitulo.md" for n in range(1, 43)]
+    if (TEXTOS / "apendice.md").exists():
+        partes.append(TEXTOS / "apendice.md")
     texto = "\n".join(p.read_text(encoding="utf-8") for p in partes)
     caps = []
     for bloco in re.split(r"\n(?=## )", "\n" + texto):
@@ -70,14 +73,19 @@ def carregar():
             continue
         cab, *resto = bloco.split("\n")
         m = re.match(r"## Capítulo (\d+) — (.+)", cab)
-        num, tit = (int(m.group(1)), m.group(2).strip()) if m else (0, "Introdução")
+        if m:
+            num, tit = int(m.group(1)), m.group(2).strip()
+        elif "Apêndice" in cab:
+            num, tit = 99, "Apêndice"
+        else:
+            num, tit = 0, "Introdução"
         caps.append({"num": num, "titulo": tit, "linhas": resto})
-    assert [c["num"] for c in caps] == list(range(0, 43)), [c["num"] for c in caps]
+    nums = [c["num"] for c in caps]
+    assert nums[:43] == list(range(0, 43)) and nums[43:] in ([], [99]), nums
     for c in caps:
         c["epigrafe"], c["secoes"] = analisar(c["linhas"])
-        if c["num"]:
-            leve, forte = DIVISAO[c["num"]]
-            assert f"{leve} {forte}" == c["titulo"], (c["num"], c["titulo"])
+        if 0 < c["num"] < 99:
+            c["divisao"] = dividir(c["num"], c["titulo"])
     return caps
 
 
@@ -169,9 +177,9 @@ def corpo_html(cap, h="h3", epub=False):
                 itens = "".join(f"<li>{inline(x)}</li>" for x in cont)
                 out.append(f'<{tipo} class="lista">{itens}</{tipo}>')
         out.append("</section>")
-        if cap["num"] == 1 and tit == proto.DESTAQUE_APOS_SECAO:
-            out.append(proto.destaque_html())
-        if cap["num"] == 1 and tit == proto.LINHA_APOS_SECAO:
+        if cap["num"] == 1 and i == 1:
+            out.append(destaque_cap1(cap))
+        if cap["num"] == 1 and i == secao_linha_do_tempo(cap):
             lt = proto.linha_do_tempo_html("h3" if epub else "h2")
             if epub:
                 lt = lt.replace('<aside class="especial', '<aside epub:type="sidebar" class="especial')
@@ -179,11 +187,30 @@ def corpo_html(cap, h="h3", epub=False):
     return "\n".join(out)
 
 
+def destaque_cap1(cap):
+    """Destaque com o versículo de Lucas 19:41 como está no próprio capítulo."""
+    texto = " ".join(x for _, bl in cap["secoes"] for t, x in bl if t == "p")
+    m = re.search(r"[“\"]([^”\"]{10,160})[”\"]\s*\(Lucas 19:41\)", texto)
+    if not m:
+        return proto.destaque_html()
+    return ('<aside class="destaque" aria-hidden="true">'
+            f'<p class="destaque-texto">“{html.escape(m.group(1).strip())}”</p><p class="destaque-ref">Lucas 19:41</p></aside>')
+
+
+def secao_linha_do_tempo(cap):
+    """Coloca a linha do tempo depois da seção que narra o fim da cidade (mais de um milhão de mortos)."""
+    for i, (_, bl) in enumerate(cap["secoes"], 1):
+        if any(t == "p" and re.search(r"milhão", x) for t, x in bl):
+            return i
+    return max(1, len(cap["secoes"]) - 3)
+
+
 def titulo_html(cap):
-    leve, forte = DIVISAO[cap["num"]]
+    leve, forte = cap.get("divisao") or ("", cap["titulo"])
     n = len(forte)
     tam = "t1" if n <= 14 else "t2" if n <= 19 else "t3" if n <= 24 else "t4"
-    return f'<span class="leve">{html.escape(leve)}</span> <span class="forte {tam}">{html.escape(forte)}</span>'
+    leve_html = f'<span class="leve">{html.escape(leve)}</span> ' if leve else ""
+    return f'{leve_html}<span class="forte {tam}">{html.escape(forte)}</span>'
 
 
 # ---------------------------------------------------------------- imagens
@@ -196,7 +223,7 @@ def preparar_imagens():
     dst.mkdir(parents=True, exist_ok=True)
     pdf, epub = {}, {}
     Image.open(IMG / "capa-aprovada.png").convert("RGB").save(dst / "capa.jpg", quality=92)
-    for n in range(1, 43):
+    for n in range(0, 43):
         src = next(iter(sorted(IMG.glob(f"cap{n:02d}-abertura.*"))), None)
         if not src:
             continue
@@ -229,17 +256,27 @@ def html_pdf(caps, imgs):
             )
     sumario = ['<li class="sub0"><a href="#cap00">Introdução</a></li>'] + [
         f'<li><a href="#cap{c["num"]:02d}"><span class="num">{c["num"]:02d}</span> {html.escape(c["titulo"])}</a></li>'
-        for c in caps[1:]
-    ]
+        for c in caps if 0 < c["num"] < 99
+    ] + (['<li class="sub0"><a href="#cap99">Apêndice</a></li>'] if caps[-1]["num"] == 99 else [])
     partes = []
     for c in caps:
         n = c["num"]
+        if n == 99 or (n == 0 and 0 not in imgs):
+            kick, tit = ("Notas históricas", "Apêndice") if n == 99 else ("Antes do capítulo 1", "Introdução")
+            partes.append(
+                f'<article class="capitulo introducao pg{n:02d}" id="cap{n:02d}">'
+                f'<header class="intro-cabeca"><p class="kicker">{kick}</p>'
+                f'<h1 class="intro-titulo">{tit}</h1><div class="regua"></div></header>'
+                f"{corpo_html(c)}</article>"
+            )
+            continue
         if n == 0:
             partes.append(
-                f'<article class="capitulo introducao pg00" id="cap00">'
-                f'<header class="intro-cabeca"><p class="kicker">Antes do capítulo 1</p>'
-                f'<h1 class="intro-titulo">Introdução</h1><div class="regua"></div></header>'
-                f"{corpo_html(c)}</article>"
+                f'<section class="abertura" id="cap00"><div class="abertura-arte">'
+                f'<div class="abertura-titulo"><p class="abertura-num"><span class="traco"></span>Antes do capítulo 1</p>'
+                f'<h1 class="cap-titulo" style="bookmark-label: \'Introdução\'"><span class="forte t1">Introdução</span></h1>'
+                f"</div></div></section>"
+                f'<article class="capitulo pg00">{corpo_html(c)}<p class="fim-cap" aria-hidden="true">· · ·</p></article>'
             )
             continue
         marcador = "" if n in imgs else (
@@ -330,8 +367,14 @@ def montar_epub(caps, imgs_epub):
         subs = "".join(
             f'<li><a href="text/{arq}.xhtml#c{n:02d}-s{i:02d}">{inline(tit)}</a></li>'
             for i, (tit, _) in enumerate(c["secoes"], 1) if tit)
-        if n == 0:
-            cab = '<header class="intro-cabeca"><p class="kicker">Antes do capítulo 1</p><h1 class="intro-titulo" id="cap00-titulo">Introdução</h1></header>'
+        if n == 99:
+            cab = '<header class="intro-cabeca"><p class="kicker">Notas históricas</p><h1 class="intro-titulo" id="cap99-titulo">Apêndice</h1></header>'
+            tipo, rotulo = "appendix", "Apêndice"
+        elif n == 0:
+            arte = ('<figure class="abertura-arte"><img src="../img/cap00.jpg" alt="Ilustração de abertura da introdução: '
+                    'Jesus e Satanás sobre um panorama da história, do Éden à cidade de Deus."/></figure>' if 0 in imgs_epub else "")
+            cab = (f'<header class="abertura">{arte}<p class="abertura-num">Antes do capítulo 1</p>'
+                   '<h1 class="cap-titulo intro-titulo" id="cap00-titulo"><span class="forte">Introdução</span></h1></header>')
             tipo, rotulo = "introduction", "Introdução"
         else:
             arte = (f'<figure class="abertura-arte"><img src="../img/cap{n:02d}.jpg" '
