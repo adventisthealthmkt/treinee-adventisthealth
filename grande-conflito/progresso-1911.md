@@ -20,7 +20,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 15 — referências acrescentadas: Apocalipse 1:9, Isaías 57:15; Salmo 111:7 → 111:7-8; OCR corrigido (Apocalipse 11:12, 11:11, Isaías 54:17, Eclesiastes 8:11).
 - [x] Capítulo 16 — referência acrescentada: Judas 1:3; "Ibid." com fonte (Martyn, Bancroft).
 - [x] Capítulo 17 — OCR de referências corrigido (Atos 1:11, 3:21, Isaías 28:5, Oseias 8:2, 1, Sofonias 1:12) — conferido; citações de Taylor truncadas no OCR.
-- [ ] Capítulo 18
+- [x] Capítulo 18 — 2 Tessalonicenses 4:16 → 1 Tessalonicenses 4:16; OCR corrigido (Atos 8:4, 5; Gênesis 15:13; Josiah Litch; 11 de agosto); duas fontes ilegíveis lidas como Bliss, p. 250, 252 e p. 138.
 - [x] Capítulo 19 — OCR de referências corrigido: Jó 11:7, Miqueias 7:8, 9, 1 Pedro 1:10-12.
 - [x] Capítulo 20 — OCR de referências corrigido e conferido no contexto: Gênesis 1:26, 1 Coríntios 15:23, Mateus 24:36, Isaías 66:5.
 - [x] Capítulo 21 — referências acrescentadas: João 7:48, Tiago 4:4, 2 Timóteo 3:4, 5; citações de Barnes e do Religious Telescope com OCR danificado reconstruídas pelo sentido; linhas da citação de Beecher reordenadas.
