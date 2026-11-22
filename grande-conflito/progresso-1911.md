@@ -5,7 +5,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Introdução — OCR corrigido (Efésios 1:17-19; 1 João). Referências acrescentadas: Apocalipse 12:11, 14:5, 1:2, Colossenses 1:12, Efésios 5:2 (a menos certa; paralelo em Gálatas 2:20).
 - [ ] Capítulo 1
 - [x] Capítulo 2 — "Verses 35/37, 38" escritos como Hebreus 11:35 e 11:37, 38. Referências acrescentadas: Isaías 9:6, 1 Pedro 1:22. Trecho de Tertuliano com OCR danificado corrigido pelo sentido.
-- [ ] Capítulo 3
+- [x] Capítulo 3 — OCR corrigido (Lucas 21:16, 17; Oseias 4:6, 1, 2; Daniel 7:25). Efésios 6:17 mantido como no inglês (alusão à espada do Espírito).
 - [ ] Capítulo 4
 - [ ] Capítulo 5
 - [ ] Capítulo 6
