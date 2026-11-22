@@ -22,7 +22,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 17 — OCR de referências corrigido (Atos 1:11, 3:21, Isaías 28:5, Oseias 8:2, 1, Sofonias 1:12) — conferido; citações de Taylor truncadas no OCR.
 - [ ] Capítulo 18
 - [x] Capítulo 19 — OCR de referências corrigido: Jó 11:7, Miqueias 7:8, 9, 1 Pedro 1:10-12.
-- [ ] Capítulo 20
+- [x] Capítulo 20 — OCR de referências corrigido e conferido no contexto: Gênesis 1:26, 1 Coríntios 15:23, Mateus 24:36, Isaías 66:5.
 - [ ] Capítulo 21
 - [ ] Capítulo 22
 - [x] Capítulo 23 — trechos com OCR danificado (parágrafos 2 e 3; passagem de Levítico 10:17 e 16) reconstruídos pelo sentido.
