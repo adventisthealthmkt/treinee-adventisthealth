@@ -27,7 +27,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 22 — OCR corrigido (Lucas 19:40, Zacarias 9:9); "Verse 20" → 1 Coríntios 15:20; trechos com OCR danificado reconstruídos pelo sentido.
 - [x] Capítulo 23 — trechos com OCR danificado (parágrafos 2 e 3; passagem de Levítico 10:17 e 16) reconstruídos pelo sentido.
 - [x] Capítulo 24 — OCR "Malachi 3^" → Malaquias 3:4; referências acrescentadas: João 20:20, 20:13, 1 Coríntios 15:58, 1 Pedro 1:3, 1:8, Apocalipse 14:7, Mateus 25:6, 25:10. Dois trechos com OCR muito danificado (fim do 1º parágrafo; parábola das virgens) reconstruídos pelo sentido.
-- [ ] Capítulo 25
+- [x] Capítulo 25 — referências acrescentadas: Hebreus 8:5, Salmo 89:37; nome do jornal de 1850 lido como The Dublin Nation (OCR borrado); Towinsend → Townsend; números de página das fontes retirados.
 - [x] Capítulo 26 — referências acrescentadas: Apocalipse 14:12, Isaías 58:1; "Verse 8/20" → Isaías 56:8 e 8:20; OCR "8:i6" → Isaías 8:16.
 - [ ] Capítulo 27
 - [x] Capítulo 28 — OCR de referências corrigido (Isaías 43:25, Apocalipse 3:5, Mateus 10:32-33, Salmo 51:17, Lucas 20:35-36, Levítico 16:22, Daniel 5:27); um parágrafo ilegível reconstruído pelo sentido.
