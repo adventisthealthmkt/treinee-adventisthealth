@@ -13,7 +13,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 8 — referências acrescentadas: João 20:19, 10:20, 18:23, Mateus 10:28, 10:18-20, 10:34, Jó 9:5; fontes com OCR corrigido.
 - [x] Capítulo 9 — "Ibid." e fontes sem autor passaram a citar Wylie ou D'Aubigné; 21 citações com fonte.
 - [x] Capítulo 10 — referência acrescentada: 2 Coríntios 3:6.
-- [ ] Capítulo 11
+- [x] Capítulo 11 — "Ibid." trocados por D'Aubigné; OCR corrigido.
 - [ ] Capítulo 12
 - [x] Capítulo 13 — OCR corrigido (Low Countries; livros 10 e 18); "Ibid." com fonte por extenso (Brandt, Wylie).
 - [ ] Capítulo 14
