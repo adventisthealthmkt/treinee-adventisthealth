@@ -2,7 +2,7 @@
 
 Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 
-- [ ] Introdução
+- [x] Introdução — OCR corrigido (Efésios 1:17-19; 1 João). Referências acrescentadas: Apocalipse 12:11, 14:5, 1:2, Colossenses 1:12, Efésios 5:2 (a menos certa; paralelo em Gálatas 2:20).
 - [ ] Capítulo 1
 - [ ] Capítulo 2
 - [ ] Capítulo 3
