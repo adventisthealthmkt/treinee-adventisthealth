@@ -36,7 +36,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 31 — dois trechos com OCR muito danificado reconstruídos pelo sentido.
 - [x] Capítulo 32 — referência acrescentada: Mateus 6:13; OCR corrigido (João 1:9, 7:17, Jó 1:6); um parágrafo danificado reconstruído pelo sentido.
 - [ ] Capítulo 33
-- [ ] Capítulo 34
+- [x] Capítulo 34 — OCR de referências corrigido (Apocalipse 16:13, 14; 2 Tessalonicenses 2:10, 11; Isaías 28:17, 18). O inglês confirma "no punishment for the sinner" (erro do PDF em português).
 - [ ] Capítulo 35
 - [ ] Capítulo 36
 - [ ] Capítulo 37
