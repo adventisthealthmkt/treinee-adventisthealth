@@ -28,7 +28,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [ ] Capítulo 23
 - [ ] Capítulo 24
 - [ ] Capítulo 25
-- [ ] Capítulo 26
+- [x] Capítulo 26 — referências acrescentadas: Apocalipse 14:12, Isaías 58:1; "Verse 8/20" → Isaías 56:8 e 8:20; OCR "8:i6" → Isaías 8:16.
 - [ ] Capítulo 27
 - [ ] Capítulo 28
 - [ ] Capítulo 29
