@@ -3,3 +3,5 @@ saida/img/
 saida/prototipo-pdf.html
 saida/estilo-pdf.css
 __pycache__/
+saida/epub-livro/
+saida/livro-pdf.html

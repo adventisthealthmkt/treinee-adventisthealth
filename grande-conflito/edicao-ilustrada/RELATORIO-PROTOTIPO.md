@@ -71,3 +71,47 @@ O texto enviado pelo dono do projeto entra logo depois dos créditos, como pági
 pip install weasyprint pillow
 python build.py
 ```
+
+
+---
+
+# Etapa 3: edição completa
+
+| Arquivo | Situação |
+| --- | --- |
+| `saida/O_Grande_Conflito_Edicao_Ilustrada.pdf` | 876 páginas, 160 × 230 mm, cerca de 26 MB, fontes incorporadas, 945 marcadores (capítulos e seções), sumário com números de página |
+| `saida/O_Grande_Conflito_Edicao_Ilustrada.epub` | 11 MB, um arquivo por capítulo, validado no EPUBCheck 5.1.0: 0 erros, 0 avisos |
+| `build_livro.py` | Gera os dois arquivos (`python build_livro.py`, cerca de 35 segundos) |
+| `saida/previas-livro/` | Sumário, introdução e seis aberturas em PNG |
+
+## Estrutura
+
+Capa, rosto, créditos, nota sobre esta edição, sumário, introdução (abertura tipográfica, sem ilustração) e os capítulos 1 a 42.
+
+- Cada capítulo abre com a ilustração em página par, sangrada, e o título em Unbounded como texto real.
+- A leitura começa na página ímpar seguinte. O cabeçalho da direita traz o título do capítulo, e a primeira página não tem cabeçalho.
+- O texto é o da versão em linguagem simples (`../reescrito/`), sem alterações.
+
+## Decisões
+
+- **Títulos:** a divisão entre a parte leve (400) e a forte (700) foi definida à mão, capítulo por capítulo (dicionário `DIVISAO` em `build_livro.py`). A parte forte diminui de tamanho em quatro passos conforme o comprimento, para caber sem quebrar palavras.
+- **Subtítulo nas aberturas:** só o capítulo 1 tem ("Jesus e Jerusalém", do mockup aprovado). Nos outros, o título fica sozinho.
+- **Citações em bloco:**
+  - versículos bíblicos usam Literata itálica com fio terracota;
+  - historiadores e outros autores usam Inter com fio claro;
+  - a fonte da citação fica numa linha em versal.
+- **Listas:** só onde o texto enumera itens (cláusulas da bula etc.).
+- **Linha do tempo e destaque:** continuam apenas no capítulo 1.
+
+## Pendências e limitações
+
+- **Imagens em 166 dpi:** as aberturas dos capítulos 21 a 40 têm 1046 × 1504 px. Servem para tela, mas para impressão precisam ser exportadas em 1890 × 2717 px.
+- **Imagens borradas:** as dos capítulos 4, 5, 6, 7, 9 e 10 parecem ampliadas de originais menores.
+- **Anacronismos:**
+  - Capítulo 14: Palácio de Westminster e Big Ben.
+  - Capítulo 3: basílica com cúpula renascentista.
+  - Capítulo 8: a imagem mostra as teses, que o texto conta no capítulo 7.
+  - Capítulo 25: tábuas da Lei com símbolos no lugar de letras.
+- **Nota sobre esta edição:** diz que a edição tem como referência o original em inglês, mas o texto foi reescrito a partir do PDF em português da pasta `original/`.
+- **Impressão:** ainda falta a versão com sangria, marcas de corte e perfil CMYK. A capa precisa de uma arte-mestre sem texto e em alta resolução.
+- **EPUB:** validado e testado no navegador, mas ainda não testado em aplicativos de leitura (Apple Books, Play Livros, Kindle, Kobo).

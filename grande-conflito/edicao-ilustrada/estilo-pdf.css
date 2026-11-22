@@ -144,3 +144,33 @@ b { font-weight: 600; }
 .nota-titulo { font: italic 400 19pt/1.15 "Literata"; color: #151D33; margin: 0 0 7mm; bookmark-level: 1; }
 .nota p:not(.kicker) { font-size: 8.9pt; line-height: 1.5; margin-bottom: 2.6mm; color: #2B2533; }
 .nota b { color: #43253F; }
+
+/* ---------- edição completa ---------- */
+.cap-titulo .forte.t1 { font-size: 27pt; }
+.cap-titulo .forte.t2 { font-size: 24pt; }
+.cap-titulo .forte.t3 { font-size: 21pt; }
+.cap-titulo .forte.t4 { font-size: 19pt; }
+
+.capitulo ul.lista, .capitulo ol.lista { margin: 1mm 0 3.5mm; padding-left: 6mm; }
+.capitulo .lista li { margin-bottom: 1.6mm; padding-left: 1mm; }
+.capitulo ul.lista li::marker { color: #B45A48; }
+.capitulo ol.lista li::marker { font: 600 8pt "Unbounded"; color: #B45A48; }
+
+/* citação bíblica longa dentro do texto */
+.biblica { margin: 4mm 0 5mm; padding: 0 0 0 5mm; border-left: .8pt solid #B45A48; break-inside: auto; }
+.biblica p { font: italic 400 10.4pt/1.5 "Literata"; color: #43253F; }
+.biblica .fonte { font: 500 6.2pt "Unbounded"; font-style: normal; letter-spacing: .22em; text-transform: uppercase; color: #B45A48; margin-top: 2mm; }
+
+/* introdução: abertura tipográfica, sem ilustração */
+.introducao { break-before: right; }
+.intro-cabeca { padding-top: 10mm; margin-bottom: 12mm; }
+.intro-titulo { font: 700 25pt/1.05 "Unbounded"; text-transform: uppercase; color: #151D33; margin: 0; bookmark-level: 1; }
+.intro-cabeca .regua { margin-top: 7mm; }
+
+/* sumário com todos os capítulos */
+.sumario-livro { padding-top: 6mm; }
+.sumario-livro .sumario-titulo { margin-bottom: 8mm; }
+.sumario-livro li { margin-bottom: 1.9mm; font-size: 9.2pt; line-height: 1.35; }
+.sumario-livro a::after { font-size: 9pt; }
+.sumario-livro .num { display: inline-block; width: 7mm; margin-right: 1.5mm; font-size: 7pt; }
+.sumario-livro li.sub0 { padding-left: 8.5mm; margin-bottom: 3mm; }
