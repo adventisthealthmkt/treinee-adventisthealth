@@ -7,7 +7,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 2 — "Verses 35/37, 38" escritos como Hebreus 11:35 e 11:37, 38. Referências acrescentadas: Isaías 9:6, 1 Pedro 1:22. Trecho de Tertuliano com OCR danificado corrigido pelo sentido.
 - [x] Capítulo 3 — OCR corrigido (Lucas 21:16, 17; Oseias 4:6, 1, 2; Daniel 7:25). Efésios 6:17 mantido como no inglês (alusão à espada do Espírito).
 - [ ] Capítulo 4
-- [ ] Capítulo 5
+- [x] Capítulo 5 — referências acrescentadas: Mateus 15:6, Filipenses 3:10.
 - [ ] Capítulo 6
 - [ ] Capítulo 7
 - [ ] Capítulo 8

@@ -46,7 +46,7 @@ Os jovens eram desviados e corrompidos. Pela influência dos frades, muitos eram
 
 > "Mesmo que o seu pai esteja deitado diante da sua porta, chorando e lamentando, e a sua mãe mostre o corpo que o carregou e os seios que o amamentaram, pise neles e siga direto para Cristo."
 
-Com essa "desumanidade monstruosa", como Lutero mais tarde a chamou, "que tem mais de lobo e de tirano do que de cristão e de homem", o coração dos filhos ficava endurecido contra os pais (Barnas Sears, *A Vida de Lutero*). Assim os líderes do papa, como os fariseus antigamente, anulavam o mandamento de Deus por causa da sua tradição (Mateus 15:6). Assim os lares ficavam vazios, e os pais perdiam a companhia dos seus filhos e filhas.
+Com essa "desumanidade monstruosa", como Lutero mais tarde a chamou, "que tem mais de lobo e de tirano do que de cristão e de homem", o coração dos filhos ficava endurecido contra os pais (Barnas Sears, *A Vida de Lutero*, pp. 70, 69). Assim os líderes do papa, como os fariseus antigamente, anulavam o mandamento de Deus por causa da sua tradição (Mateus 15:6). Assim os lares ficavam vazios, e os pais perdiam a companhia dos seus filhos e filhas.
 
 Até os estudantes das universidades eram enganados pelas falsas promessas dos monges e convencidos a entrar nas suas ordens. Muitos depois se arrependiam, vendo que tinham estragado a própria vida e trazido tristeza aos pais. Mas, uma vez presos na armadilha, não conseguiam mais ficar livres. Muitos pais, com medo da influência dos monges, se recusavam a mandar os filhos para as universidades. O número de alunos nos grandes centros de estudo caiu muito. As escolas enfraqueceram, e a ignorância tomou conta.
 
@@ -78,7 +78,7 @@ Ele aprendeu muito do que depois daria força ao seu trabalho. Nesses representa
 
 Num dos seus folhetos, falando do papa e dos seus cobradores, ele disse:
 
-> "Eles tiram da nossa terra o sustento dos pobres e muitos milhares de marcos por ano do dinheiro do rei, em troca de sacramentos e coisas espirituais. Isso é a maldita heresia da simonia (vender coisas sagradas), e faz toda a cristandade concordar com essa heresia e sustentá-la. E, com certeza, mesmo que o nosso reino tivesse um enorme monte de ouro, e ninguém tirasse nada dele além do cobrador desse padre orgulhoso e mundano, com o tempo esse monte acabaria. Porque ele sempre tira dinheiro da nossa terra e não manda nada de volta, a não ser a maldição de Deus pela sua simonia." (John Lewis, *História da Vida e dos Sofrimentos de J. Wiclif*)
+> "Eles tiram da nossa terra o sustento dos pobres e muitos milhares de marcos por ano do dinheiro do rei, em troca de sacramentos e coisas espirituais. Isso é a maldita heresia da simonia (vender coisas sagradas), e faz toda a cristandade concordar com essa heresia e sustentá-la. E, com certeza, mesmo que o nosso reino tivesse um enorme monte de ouro, e ninguém tirasse nada dele além do cobrador desse padre orgulhoso e mundano, com o tempo esse monte acabaria. Porque ele sempre tira dinheiro da nossa terra e não manda nada de volta, a não ser a maldição de Deus pela sua simonia." (John Lewis, *História da Vida e dos Sofrimentos de J. Wiclif*, p. 37)
 
 Pouco depois de voltar para a Inglaterra, Wycliffe foi nomeado pelo rei como pároco (padre responsável) de Lutterworth. Isso mostrava que pelo menos o rei não tinha ficado aborrecido com a sua franqueza. A influência de Wycliffe era sentida nas decisões da corte e também na formação das crenças do país.
 
@@ -115,3 +115,105 @@ Mas, de repente, o seu trabalho foi interrompido. Ele ainda não tinha 60 anos. 
 A notícia deixou os frades muito alegres. Agora, pensavam, ele ia se arrepender amargamente do mal que tinha feito à igreja. E correram ao seu quarto para ouvir a sua confissão. Representantes das quatro ordens religiosas, com quatro autoridades civis, se reuniram em volta do homem que pensavam estar morrendo. "Você está com a morte nos lábios", disseram. "Arrependa-se das suas faltas e desdiga, na nossa frente, tudo o que você falou contra nós."
 
 O reformador ouviu em silêncio. Depois pediu ao seu ajudante que o levantasse na cama. Olhando firme para eles, que esperavam a sua retratação, disse com a voz firme e forte que tantas vezes os tinha feito tremer: "Não vou morrer, mas viver. E vou denunciar de novo as más obras dos frades" (D'Aubigné, livro 17, cap. 7). Espantados e envergonhados, os monges saíram correndo do quarto.
+
+### A primeira Bíblia em inglês
+
+As palavras de Wycliffe se cumpriram. Ele viveu o bastante para colocar nas mãos do seu povo a arma mais poderosa de todas contra Roma: a Bíblia. Ela era o meio escolhido pelo Céu para libertar, iluminar e evangelizar o povo.
+
+Havia muitos e grandes obstáculos para fazer esse trabalho. Wycliffe sofria com muitas fraquezas no corpo. Sabia que lhe restavam só poucos anos de trabalho. Via a oposição que ia enfrentar. Mas, animado pelas promessas da Palavra de Deus, seguiu em frente sem medo. Estava com a mente em pleno vigor e era rico em experiência. Deus, de modo especial, o tinha guardado e preparado para essa obra, a maior de todas as suas.
+
+Enquanto toda a cristandade estava em tumulto, o reformador, na sua casa paroquial em Lutterworth, sem se importar com a tempestade lá fora, se dedicou à tarefa que tinha escolhido.
+
+Por fim, o trabalho ficou pronto: a primeira tradução da Bíblia para o inglês que já tinha sido feita. A Palavra de Deus estava aberta para a Inglaterra. Agora o reformador não tinha mais medo da prisão nem da fogueira. Ele tinha colocado nas mãos do povo inglês uma luz que nunca seria apagada. Ao dar a Bíblia ao seu povo, ele fez mais para quebrar as correntes da ignorância e do vício, mais para libertar e elevar o seu país, do que as mais brilhantes vitórias nos campos de batalha jamais tinham feito.
+
+### A Bíblia entra nas casas
+
+Como a imprensa ainda não existia, as cópias da Bíblia só podiam ser feitas com um trabalho lento e cansativo. O interesse em ter o livro era tão grande que muitos se ofereceram de boa vontade para copiá-lo à mão. Mesmo assim, os copistas mal conseguiam atender aos pedidos. Alguns compradores mais ricos queriam a Bíblia inteira. Outros compravam só uma parte. Em muitos casos, várias famílias se juntavam para comprar uma cópia. Assim, a Bíblia de Wycliffe logo chegou às casas do povo.
+
+Esse apelo à razão tirou as pessoas da aceitação passiva dos ensinos do papa. Wycliffe passou a ensinar as doutrinas que marcam o protestantismo: a salvação pela fé em Cristo e a ideia de que só as Escrituras não erram. Os pregadores que ele tinha enviado espalhavam a Bíblia junto com os escritos do reformador. Fizeram isso com tanto sucesso que quase metade do povo da Inglaterra aceitou a nova fé.
+
+O aparecimento das Escrituras deixou as autoridades da igreja assustadas. Agora elas tinham de enfrentar algo mais poderoso do que Wycliffe, algo contra o qual as suas armas pouco adiantavam. Naquele tempo, não havia na Inglaterra nenhuma lei proibindo a Bíblia, porque ela nunca tinha sido publicada na língua do povo. Leis assim foram feitas depois e aplicadas com rigor. Enquanto isso, apesar dos esforços dos padres, houve por um tempo uma oportunidade para a Palavra de Deus circular.
+
+### Três tribunais
+
+De novo os líderes do papa fizeram planos para calar a voz do reformador. Ele foi chamado, um depois do outro, diante de três tribunais, mas sem resultado. Primeiro, um sínodo (reunião) de bispos declarou que os seus escritos eram heréticos. Eles ganharam o apoio do jovem rei Ricardo II e conseguiram um decreto real mandando para a prisão todos os que seguissem as doutrinas condenadas.
+
+Wycliffe recorreu do sínodo ao Parlamento. Sem medo, acusou a hierarquia da igreja diante do conselho do país e exigiu a reforma dos enormes abusos que a igreja aprovava. Com força convincente, descreveu a usurpação (tomar o que não é seu) e as corrupções da sede do papa. Os seus inimigos ficaram confusos.
+
+Os amigos e apoiadores de Wycliffe tinham sido obrigados a recuar. E todos esperavam com certeza que o próprio reformador, já velho, sozinho e sem amigos, se curvaria diante da autoridade unida da coroa e da mitra (o chapéu dos bispos, símbolo do poder da igreja). Mas, em vez disso, os papistas se viram derrotados. O Parlamento, despertado pelos apelos fortes de Wycliffe, cancelou o decreto de perseguição, e o reformador ficou livre de novo.
+
+Pela terceira vez ele foi levado a julgamento, agora diante do mais alto tribunal da igreja no reino. Ali não haveria nenhum favor para a heresia. Ali, finalmente, Roma ia vencer, e o trabalho do reformador ia parar. Era o que pensavam os papistas. Se conseguissem o que queriam, Wycliffe seria obrigado a negar as suas doutrinas, ou só sairia do tribunal para as chamas.
+
+### "A Verdade vai vencer vocês"
+
+Mas Wycliffe não se retratou. Não ia fingir. Defendeu sem medo os seus ensinos e rebateu as acusações dos seus perseguidores. Esquecendo-se de si mesmo, da sua posição e da ocasião, ele chamou os seus ouvintes diante do tribunal de Deus. E pesou os argumentos falsos e as mentiras deles na balança da verdade eterna.
+
+O poder do Espírito Santo foi sentido na sala do conselho. Os ouvintes estavam como que presos por Deus. Pareciam não ter forças para sair do lugar. Como flechas tiradas da aljava do Senhor, as palavras do reformador atravessavam o coração deles. A acusação de heresia que tinham feito contra ele, ele a devolveu contra eles com força convincente. Por que, perguntou, eles ousavam espalhar os seus erros? Para ganhar dinheiro, para fazer comércio com a graça de Deus?
+
+Por fim, disse: "Com quem vocês acham que estão lutando? Com um velho à beira da sepultura? Não! Com a Verdade. A Verdade, que é mais forte do que vocês e vai vencer vocês" (Wylie, livro 2, cap. 13). Dizendo isso, saiu da assembleia, e nenhum dos seus adversários tentou impedi-lo.
+
+### Chamado a Roma
+
+O trabalho de Wycliffe estava quase terminado. A bandeira da verdade, que ele tinha carregado por tanto tempo, logo ia cair da sua mão. Mas ele ainda daria testemunho do evangelho mais uma vez. A verdade ia ser anunciada dentro da própria fortaleza do reino do erro.
+
+Wycliffe foi chamado para ser julgado diante do tribunal do papa em Roma, que tantas vezes tinha derramado o sangue dos santos. Ele não ignorava o perigo que o ameaçava. Mesmo assim, teria obedecido à ordem, se um derrame (paralisia) não o tivesse impedido de fazer a viagem. Mas, embora a sua voz não fosse ouvida em Roma, ele podia falar por carta. E decidiu fazer isso. Da sua casa paroquial, o reformador escreveu ao papa uma carta respeitosa no tom e cristã no espírito. Mas ela era uma repreensão afiada à pompa e ao orgulho da sede do papa.
+
+> "Na verdade, eu me alegro", disse ele, "em abrir e declarar a todos a fé que eu tenho, e principalmente ao bispo de Roma. Como eu acredito que ela é sã e verdadeira, ele vai confirmar de muito boa vontade essa minha fé; ou, se ela estiver errada, vai corrigi-la.
+>
+> "Primeiro, eu entendo que o evangelho de Cristo é todo o conjunto da lei de Deus. ... Eu considero que o bispo de Roma, por ser o vigário (representante) de Cristo aqui na terra, é quem mais deve obedecer, acima de todos, a essa lei do evangelho. Porque a grandeza entre os discípulos de Cristo não estava em posição ou honras do mundo, mas em seguir Cristo de perto e com exatidão, na Sua vida e no Seu modo de agir. ... Cristo, no tempo em que viveu aqui, foi um homem muito pobre, que rejeitou e deixou de lado todo poder e honra do mundo. ...
+>
+> "Nenhum fiel deve seguir o próprio papa, nem qualquer dos homens santos, a não ser naquilo em que ele seguiu o Senhor Jesus Cristo. Porque Pedro e os filhos de Zebedeu erraram ao desejar honra do mundo, ao contrário de seguir os passos de Cristo. Por isso, nesses erros, eles não devem ser seguidos. ...
+>
+> "O papa deve deixar para o poder civil todo domínio e governo político, e deve levar e animar todo o seu clero a fazer o mesmo. Porque assim fez Cristo, especialmente por meio dos Seus apóstolos. Por isso, se eu errei em algum destes pontos, eu me submeto com toda a humildade à correção, até pela morte, se for preciso. E, se eu pudesse agir pessoalmente segundo a minha vontade ou desejo, com certeza me apresentaria diante do bispo de Roma. Mas o Senhor me visitou de outro modo, ao contrário disso, e me ensinou a obedecer antes a Deus do que aos homens."
+
+No final, ele disse: "Vamos orar ao nosso Deus para que Ele desperte o nosso papa Urbano VI, como ele começou, para que ele e o seu clero sigam o Senhor Jesus Cristo na vida e no modo de agir. E para que ensinem o povo de verdade, e o povo, da mesma forma, os siga fielmente nisso" (John Foxe, *Atos e Monumentos*, vol. 3, pp. 49, 50).
+
+Assim Wycliffe apresentou ao papa e aos seus cardeais a mansidão e a humildade de Cristo. Ele mostrou, não só a eles, mas a toda a cristandade, o contraste entre eles e o Mestre de quem diziam ser representantes.
+
+### "Que venha o golpe"
+
+Wycliffe tinha toda a certeza de que pagaria a sua fidelidade com a vida. O rei, o papa e os bispos estavam unidos para destruí-lo. Parecia certo que, no máximo em poucos meses, ele estaria na fogueira. Mas a sua coragem não balançou. "Por que vocês falam em buscar a coroa do martírio longe daqui?", disse ele. "Preguem o evangelho de Cristo para bispos orgulhosos, e o martírio não vai faltar. O quê? Eu viver e ficar calado? ... Nunca! Que venha o golpe; estou esperando por ele" (D'Aubigné, livro 17, cap. 8).
+
+Mas a providência de Deus ainda protegia o Seu servo. O homem que, durante a vida inteira, tinha defendido a verdade com coragem, correndo perigo de vida todos os dias, não ia cair vítima do ódio dos inimigos dela. Wycliffe nunca tinha procurado se proteger, mas o Senhor tinha sido o seu protetor. E agora, quando os seus inimigos tinham certeza de que iam pegá-lo, a mão de Deus o colocou fora do alcance deles. Na sua igreja em Lutterworth, quando ia dar a comunhão, ele caiu, atingido por um derrame, e pouco depois morreu.
+
+Deus tinha dado a Wycliffe o seu trabalho. Tinha posto a palavra da verdade na sua boca e colocado uma guarda em volta dele, para que essa palavra chegasse ao povo. A vida dele foi protegida e o seu trabalho foi prolongado até que estivesse lançado o alicerce para a grande obra da Reforma.
+
+### O primeiro dos reformadores
+
+Wycliffe veio da escuridão da Idade Média. Não houve ninguém antes dele de cujo trabalho ele pudesse tirar um modelo para o seu plano de reforma. Levantado como João Batista para cumprir uma missão especial, ele foi o anunciador de uma nova era. Mesmo assim, o conjunto de verdades que ele apresentou tinha uma unidade e uma inteireza que os reformadores depois dele não superaram. Alguns nem chegaram a esse ponto, mesmo cem anos mais tarde. O alicerce foi lançado tão largo e tão fundo, e a estrutura foi feita tão firme e tão certa, que não precisou ser reconstruída pelos que vieram depois.
+
+O grande movimento que Wycliffe começou ia libertar a consciência e a mente. Ia soltar as nações que por tanto tempo tinham estado amarradas ao carro de triunfo de Roma. E esse movimento nasceu da Bíblia. Ali estava a fonte daquele rio de bênçãos que, como a água da vida, tem corrido através dos séculos desde o século 14.
+
+Wycliffe aceitou as Sagradas Escrituras com fé total, como a revelação inspirada da vontade de Deus e como regra suficiente para a fé e para a vida. Ele tinha sido educado para ver a Igreja de Roma como autoridade divina, que não erra. E para aceitar, com respeito e sem perguntas, os ensinos e costumes firmados durante mil anos. Mas deu as costas a tudo isso para ouvir a santa Palavra de Deus. Essa era a autoridade que ele pedia ao povo que reconhecesse.
+
+Em vez da igreja falando por meio do papa, ele declarou que a única autoridade verdadeira é a voz de Deus falando por meio da Sua Palavra. E ensinou não só que a Bíblia é uma revelação perfeita da vontade de Deus, mas também que o Espírito Santo é o único que a interpreta. E que cada pessoa, estudando os seus ensinos, deve aprender por si mesma qual é o seu dever. Assim ele desviou a mente das pessoas do papa e da Igreja de Roma para a Palavra de Deus.
+
+Wycliffe foi um dos maiores reformadores. Poucos dos que vieram depois dele se igualaram a ele na amplitude da mente, na clareza das ideias, na firmeza para manter a verdade e na coragem para defendê-la. Vida pura, dedicação incansável ao estudo e ao trabalho, honestidade que não se vendia, e amor e fidelidade como os de Cristo no seu ministério marcaram o primeiro dos reformadores. E isso apesar da escuridão intelectual e da corrupção moral da época de onde ele saiu.
+
+### O poder da Bíblia para formar o caráter
+
+O caráter de Wycliffe é uma prova do poder que as Sagradas Escrituras têm para educar e transformar. Foi a Bíblia que fez dele o que ele foi. O esforço para entender as grandes verdades da revelação dá novidade e vigor a todas as capacidades da pessoa. Amplia a mente, afia a percepção e amadurece o juízo.
+
+O estudo da Bíblia enobrece cada pensamento, cada sentimento e cada desejo, como nenhum outro estudo consegue. Dá firmeza de propósito, paciência, coragem e força para aguentar. Aperfeiçoa o caráter e santifica a alma. Um estudo sério e respeitoso das Escrituras coloca a mente de quem estuda em contato direto com a mente infinita de Deus. Esse estudo daria ao mundo pessoas de inteligência mais forte e mais ativa, e de princípios mais nobres, do que o melhor treinamento que a filosofia humana já produziu. "Quando as Tuas palavras entram", diz o salmista, "trazem luz; dão entendimento" (Salmos 119:130).
+
+### Os lolardos e a perseguição
+
+As doutrinas ensinadas por Wycliffe continuaram a se espalhar por um tempo. Os seus seguidores, chamados wycliffitas e lolardos, não só percorreram a Inglaterra, mas se espalharam por outros países, levando o conhecimento do evangelho. Agora que o seu líder tinha partido, os pregadores trabalhavam com mais entusiasmo ainda, e multidões vinham ouvir os seus ensinos. Alguns nobres e até a esposa do rei estavam entre os convertidos. Em muitos lugares, houve uma mudança clara nos costumes do povo, e os símbolos de idolatria do romanismo foram tirados das igrejas.
+
+Mas logo caiu a tempestade sem piedade da perseguição sobre os que tinham ousado aceitar a Bíblia como guia. Os reis da Inglaterra, querendo fortalecer o seu poder com o apoio de Roma, não hesitaram em sacrificar os reformadores. Pela primeira vez na história da Inglaterra, a fogueira foi decretada contra os discípulos do evangelho. Um martírio vinha depois do outro.
+
+Os defensores da verdade, proibidos por lei e torturados, só podiam levar os seus clamores ao ouvido do Senhor dos Exércitos. Caçados como inimigos da igreja e traidores do reino, continuavam pregando em lugares escondidos. Encontravam abrigo como podiam nas casas simples dos pobres e muitas vezes se escondiam até em tocas e cavernas.
+
+Apesar da fúria da perseguição, durante séculos continuou a se ouvir um protesto calmo, piedoso, sério e paciente contra a corrupção da fé religiosa que dominava. Os cristãos daquele tempo antigo conheciam a verdade só em parte. Mas tinham aprendido a amar e obedecer à Palavra de Deus e sofriam por ela com paciência. Como os discípulos no tempo dos apóstolos, muitos sacrificaram os seus bens deste mundo pela causa de Cristo.
+
+Os que ainda podiam morar em suas casas abrigavam com alegria os irmãos expulsos. E, quando eles também eram expulsos, aceitavam com alegria a vida de foragidos. É verdade que milhares, apavorados com a fúria dos perseguidores, compraram a liberdade ao preço da sua fé. Saíram das prisões vestidos com roupas de penitentes para anunciar em público que voltavam atrás.
+
+Mas não foi pequeno o número dos que deram testemunho corajoso da verdade, entre eles homens de família nobre e também gente humilde e simples. Testemunharam em celas de masmorras, nas "torres dos lolardos" e no meio da tortura e das chamas. Alegravam-se por serem considerados dignos de conhecer "a participação nos Seus sofrimentos" (Filipenses 3:10).
+
+### As cinzas de Wycliffe
+
+Os papistas não tinham conseguido fazer o que queriam com Wycliffe enquanto ele vivia. E o ódio deles não se satisfazia enquanto o seu corpo descansava em paz na sepultura. Por decreto do Concílio de Constança, mais de 40 anos depois da sua morte, os seus ossos foram desenterrados e queimados em público, e as cinzas foram jogadas num riacho ali perto.
+
+"Esse riacho", diz um escritor antigo, "levou as cinzas dele para o rio Avon, o Avon para o Severn, o Severn para os mares estreitos, e eles para o grande oceano. E assim as cinzas de Wycliffe são o símbolo da sua doutrina, que agora está espalhada pelo mundo inteiro" (T. Fuller, *História da Igreja da Grã-Bretanha*, livro 4, seção 2, parágrafo 54). Os seus inimigos nem imaginavam o significado do seu ato maldoso.
+
+Foi pelos escritos de Wycliffe que João Huss, da Boêmia, foi levado a abandonar muitos dos erros do romanismo e a começar o trabalho de reforma. Assim, nesses dois países tão distantes um do outro, a semente da verdade foi plantada. Da Boêmia, o trabalho se estendeu a outras terras. A mente das pessoas foi dirigida à Palavra de Deus, esquecida havia tanto tempo. Uma mão divina estava preparando o caminho para a Grande Reforma.
