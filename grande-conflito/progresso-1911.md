@@ -18,7 +18,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 13 — OCR corrigido (Low Countries; livros 10 e 18); "Ibid." com fonte por extenso (Brandt, Wylie).
 - [ ] Capítulo 14
 - [ ] Capítulo 15
-- [ ] Capítulo 16
+- [x] Capítulo 16 — referência acrescentada: Judas 1:3; "Ibid." com fonte (Martyn, Bancroft).
 - [ ] Capítulo 17
 - [ ] Capítulo 18
 - [ ] Capítulo 19
