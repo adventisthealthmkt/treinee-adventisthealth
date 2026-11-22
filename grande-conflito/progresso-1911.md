@@ -32,7 +32,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [ ] Capítulo 27
 - [ ] Capítulo 28
 - [ ] Capítulo 29
-- [ ] Capítulo 30
+- [x] Capítulo 30 — referência acrescentada: Atos 20:19; parágrafo "Satan summons all his forces" com OCR danificado reconstruído pelo sentido.
 - [ ] Capítulo 31
 - [ ] Capítulo 32
 - [ ] Capítulo 33
