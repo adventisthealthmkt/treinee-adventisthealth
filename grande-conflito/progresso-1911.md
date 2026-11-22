@@ -10,7 +10,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 5 — referências acrescentadas: Mateus 15:6, Filipenses 3:10.
 - [x] Capítulo 6 — referência acrescentada: Gênesis 50:24.
 - [x] Capítulo 7 — fontes incompletas ("b. 2, ch. 6") completadas como D'Aubigné; OCR corrigido.
-- [ ] Capítulo 8
+- [x] Capítulo 8 — referências acrescentadas: João 20:19, 10:20, 18:23, Mateus 10:28, 10:18-20, 10:34, Jó 9:5; fontes com OCR corrigido.
 - [x] Capítulo 9 — "Ibid." e fontes sem autor passaram a citar Wylie ou D'Aubigné; 21 citações com fonte.
 - [x] Capítulo 10 — referência acrescentada: 2 Coríntios 3:6.
 - [ ] Capítulo 11

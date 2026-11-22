@@ -177,3 +177,117 @@ O Reformador respondeu:
 > "Já que vossa sereníssima majestade e vossas altas senhorias exigem de mim uma resposta clara, simples e precisa, vou dar uma, e é esta: eu não posso submeter a minha fé nem ao papa nem aos concílios, porque está claro como o dia que eles muitas vezes erraram e se contradisseram. Portanto, a não ser que eu seja convencido pelo testemunho das Escrituras ou pelo raciocínio mais claro, a não ser que eu seja convencido pelos textos que citei, e a não ser que assim a minha consciência fique presa à Palavra de Deus, eu não posso e não vou me retratar. Porque não é seguro para um cristão falar contra a sua consciência. Aqui estou eu. Não posso fazer outra coisa. Que Deus me ajude. Amém." (D'Aubigné, livro 7, cap. 8)
 
 Assim estava esse homem justo, firme sobre o alicerce seguro da Palavra de Deus. A luz do céu iluminava o seu rosto. A grandeza e a pureza do seu caráter, a paz e a alegria do seu coração ficaram visíveis para todos. Ele dava testemunho contra o poder do erro e mostrava a superioridade daquela fé que vence o mundo.
+
+### A assembleia fica espantada
+
+Por algum tempo, a assembleia inteira ficou sem palavras de tanto espanto. Na primeira resposta, Lutero tinha falado baixo, com uma atitude respeitosa, quase submissa. Os seguidores de Roma tinham entendido isso como sinal de que a coragem dele começava a falhar. Achavam que o pedido de mais tempo era só o começo da sua retratação. O próprio Carlos, olhando meio com desprezo para o corpo cansado do monge, a sua roupa simples e o seu jeito simples de falar, tinha dito: "Esse monge nunca vai fazer de mim um herege." Mas a coragem e a firmeza que ele mostrou agora, e também a força e a clareza dos seus argumentos, deixaram todos os lados surpresos.
+
+O imperador, cheio de admiração, exclamou: "Esse monge fala com um coração sem medo e uma coragem inabalável." Muitos príncipes alemães olharam com orgulho e alegria para esse representante da sua nação.
+
+Os partidários de Roma tinham sido derrotados, e a causa deles aparecia numa luz muito ruim. Eles tentaram manter o seu poder, não pela Bíblia, mas pelas ameaças, o argumento que Roma nunca deixa de usar. O porta-voz da Dieta disse: "Se você não se retratar, o imperador e os estados do império vão decidir o que fazer contra um herege que não quer se corrigir."
+
+Os amigos de Lutero, que tinham ouvido com grande alegria a sua nobre defesa, tremeram ao ouvir essas palavras. Mas o doutor disse com calma: "Que Deus seja o meu ajudador, porque eu não posso retirar nada" (D'Aubigné, livro 7, cap. 8).
+
+### "Não tenho outra resposta"
+
+Mandaram que ele saísse da Dieta enquanto os príncipes conversavam entre si. Todos sentiam que um momento decisivo tinha chegado. A recusa firme de Lutero em se submeter poderia afetar a história da igreja por séculos. Decidiram lhe dar mais uma oportunidade de se retratar. Pela última vez ele foi levado à assembleia. De novo perguntaram se ele ia renunciar às suas doutrinas. Ele disse: "Não tenho outra resposta a dar além da que já dei." Ficou claro que nem promessas nem ameaças fariam ele obedecer à ordem de Roma.
+
+Os líderes do papado ficaram irritados ao ver que o seu poder, que tinha feito reis e nobres tremerem, era desprezado assim por um monge humilde. Eles queriam fazê-lo sentir a sua ira, torturando-o até a morte. Mas Lutero, entendendo o perigo em que estava, tinha falado a todos com dignidade e calma cristãs. As suas palavras não tinham orgulho, raiva nem distorção dos fatos. Ele tinha se esquecido de si mesmo e dos grandes homens ao seu redor. Só sentia que estava na presença de Alguém infinitamente maior que papas, prelados, reis e imperadores.
+
+Cristo tinha falado por meio do testemunho de Lutero com um poder e uma grandeza que, naquele momento, encheram amigos e inimigos de reverência e espanto. O Espírito de Deus tinha estado presente naquela assembleia, tocando o coração dos líderes do império. Vários príncipes reconheceram com coragem que a causa de Lutero era justa. Muitos foram convencidos da verdade, mas em alguns essa impressão não durou. Houve ainda outro grupo que, na hora, não mostrou o que pensava. Mas, depois de estudar as Escrituras por conta própria, esses mais tarde se tornaram defensores corajosos da Reforma.
+
+O eleitor Frederico tinha esperado com ansiedade o comparecimento de Lutero diante da Dieta, e ouviu o seu discurso com profunda emoção. Com alegria e orgulho, ele viu a coragem, a firmeza e o domínio próprio do doutor, e decidiu defendê-lo com ainda mais firmeza. Ele comparou os dois lados da disputa e viu que a sabedoria de papas, reis e prelados tinha sido reduzida a nada pelo poder da verdade. O papado tinha sofrido uma derrota que seria sentida em todas as nações e em todas as épocas.
+
+### O imperador decide contra a verdade
+
+Quando o legado percebeu o efeito do discurso de Lutero, teve medo, como nunca antes, pela segurança do poder de Roma. Decidiu usar todos os meios que tinha para derrubar o Reformador. Com toda a eloquência e a habilidade diplomática pelas quais era tão conhecido, ele mostrou ao jovem imperador como seria tolo e perigoso sacrificar, por causa de um monge sem importância, a amizade e o apoio da poderosa sé (sede do governo da igreja) de Roma.
+
+As suas palavras tiveram efeito. No dia seguinte à resposta de Lutero, Carlos mandou apresentar uma mensagem à Dieta. Nela anunciava a sua decisão de seguir a política dos imperadores anteriores: manter e proteger a religião católica. Como Lutero tinha se recusado a renunciar aos seus erros, as medidas mais duras seriam usadas contra ele e contra as heresias que ensinava.
+
+> "Um único monge, enganado pela própria loucura, se levantou contra a fé da cristandade. Para deter essa impiedade, eu vou sacrificar os meus reinos, os meus tesouros, os meus amigos, o meu corpo, o meu sangue, a minha alma e a minha vida. Vou mandar embora o agostiniano Lutero, proibindo-o de causar a menor desordem no meio do povo. Depois vou agir contra ele e contra os seus seguidores como hereges rebeldes, com excomunhão, com interdição e com todos os meios que sirvam para destruí-los. Eu chamo os membros dos estados a se comportarem como cristãos fiéis." (D'Aubigné, livro 7, cap. 9)
+
+Mesmo assim, o imperador declarou que o salvo-conduto de Lutero devia ser respeitado. Antes de qualquer processo contra ele, ele devia ter permissão para chegar em casa em segurança.
+
+### Respeitar ou não o salvo-conduto
+
+Agora os membros da Dieta defendiam duas opiniões opostas. Os enviados e representantes do papa exigiram de novo que o salvo-conduto do Reformador não fosse respeitado. Eles diziam: "O Reno deve receber as cinzas dele, como recebeu as de João Huss há um século" (D'Aubigné, livro 7, cap. 9). Mas príncipes da Alemanha, mesmo sendo seguidores do papa e inimigos declarados de Lutero, protestaram contra essa quebra da palavra pública. Diziam que isso seria uma mancha na honra da nação. Lembraram as desgraças que tinham vindo depois da morte de Huss e declararam que não tinham coragem de trazer de novo esses males terríveis sobre a Alemanha e sobre a cabeça do seu jovem imperador.
+
+O próprio Carlos, respondendo a essa proposta vergonhosa, disse: "Mesmo que a honra e a palavra dada fossem expulsas do mundo inteiro, elas deveriam encontrar abrigo no coração dos príncipes" (D'Aubigné, livro 7, cap. 9). Os inimigos mais ferozes de Lutero, do lado do papa, insistiram ainda mais com ele para que tratasse o Reformador como Sigismundo tinha tratado Huss: que o entregasse à "misericórdia" da igreja. Mas Carlos V se lembrou da cena em que Huss, em plena assembleia, mostrou as suas correntes e lembrou ao rei a palavra que ele tinha dado. Então declarou: "Eu não gostaria de ficar envergonhado como Sigismundo" (Lenfant, vol. 1, p. 422).
+
+Mesmo assim, Carlos tinha rejeitado de propósito as verdades apresentadas por Lutero. O rei escreveu: "Estou firmemente decidido a imitar o exemplo dos meus antepassados" (D'Aubigné, livro 7, cap. 9). Ele tinha decidido que não ia sair do caminho do costume, nem mesmo para andar nos caminhos da verdade e da justiça. Porque os seus pais tinham feito assim, ele ia sustentar o papado, com toda a sua crueldade e corrupção. Foi essa a posição que ele tomou: recusou aceitar qualquer luz além da que os seus pais tinham recebido e recusou cumprir qualquer dever que eles não tinham cumprido.
+
+### A luz que recebemos hoje
+
+Hoje também há muitos que se agarram assim aos costumes e às tradições dos seus pais. Quando o Senhor lhes manda mais luz, eles se recusam a aceitar, porque essa luz não foi dada aos seus pais e não foi recebida por eles. Nós não estamos onde os nossos pais estavam. Por isso, os nossos deveres e responsabilidades não são os mesmos que os deles.
+
+Deus não vai nos aprovar se olharmos para o exemplo dos nossos pais para saber qual é o nosso dever, em vez de estudar a Palavra da verdade por nós mesmos. A nossa responsabilidade é maior do que a dos nossos antepassados. Somos responsáveis pela luz que eles receberam e que nos foi passada como herança. E somos responsáveis também pela luz a mais que está brilhando agora sobre nós a partir da Palavra de Deus.
+
+Cristo disse sobre os judeus que não creram: "Se Eu não tivesse vindo e falado com eles, eles não teriam culpa de pecado. Mas agora eles não têm desculpa para o seu pecado" (João 15:22). O mesmo poder divino tinha falado por meio de Lutero ao imperador e aos príncipes da Alemanha. E, enquanto a luz brilhava da Palavra de Deus, o Seu Espírito apelava pela última vez a muitos naquela assembleia.
+
+Séculos antes, Pilatos deixou que o orgulho e a vontade de agradar o povo fechassem o seu coração para o Salvador do mundo. Félix, tremendo, disse ao mensageiro da verdade: "Por agora, pode ir. Quando eu tiver uma oportunidade, mando chamar você" (Atos 24:25). O orgulhoso Agripa confessou: "Por pouco você não me convence a me tornar cristão" (Atos 26:28), mas deu as costas à mensagem enviada pelo Céu. Assim também Carlos V, cedendo ao orgulho e aos interesses deste mundo, decidiu rejeitar a luz da verdade.
+
+### O povo defende Lutero
+
+Os boatos sobre os planos contra Lutero se espalharam muito e causaram grande agitação em toda a cidade. O Reformador tinha feito muitos amigos. Eles conheciam a crueldade traiçoeira de Roma com todos os que tinham coragem de mostrar a sua corrupção, e decidiram que ele não seria sacrificado. Centenas de nobres se comprometeram a protegê-lo. Não poucos criticaram abertamente a mensagem do rei, dizendo que ela mostrava uma submissão fraca ao poder dominante de Roma.
+
+Nos portões das casas e nos lugares públicos foram colados cartazes, alguns condenando e outros apoiando Lutero. Num deles estavam escritas apenas as palavras cheias de significado do sábio: "Ai de você, terra, quando o seu rei é uma criança!" (Eclesiastes 10:16). O entusiasmo do povo a favor de Lutero em toda a Alemanha convenceu tanto o imperador como a Dieta de que qualquer injustiça contra ele poria em perigo a paz do império e até a firmeza do trono.
+
+Frederico da Saxônia mantinha uma reserva calculada. Ele escondia com cuidado o que realmente sentia pelo Reformador. Ao mesmo tempo, o protegia com uma vigilância incansável, observando todos os movimentos dele e todos os dos seus inimigos. Mas havia muitos que não tentavam esconder a sua simpatia por Lutero. Ele recebia visitas de príncipes, condes, barões e outras pessoas importantes, tanto do povo como da igreja.
+
+Spalatino escreveu: "O quartinho do doutor não cabia todas as visitas que apareciam" (Martyn, vol. 1, p. 404). O povo olhava para ele como se fosse mais do que um ser humano. Até os que não acreditavam nas suas doutrinas não podiam deixar de admirar aquela honestidade elevada que o levava a enfrentar a morte em vez de trair a sua consciência.
+
+### As tentativas de acordo
+
+Fizeram grandes esforços para conseguir que Lutero aceitasse um acordo com Roma. Nobres e príncipes lhe disseram que, se ele continuasse colocando a sua opinião contra a da igreja e dos concílios, logo seria expulso do império e não teria nenhuma defesa. A esse apelo, Lutero respondeu: "O evangelho de Cristo não pode ser pregado sem causar ofensa. [...] Por que, então, o medo ou a preocupação com o perigo deveria me separar do Senhor e daquela Palavra divina, que é a única verdade? Não. Prefiro entregar o meu corpo, o meu sangue e a minha vida" (D'Aubigné, livro 7, cap. 10).
+
+De novo insistiram para que ele se submetesse ao julgamento do imperador; assim não teria nada a temer. Ele respondeu: "Eu concordo, de todo o coração, que o imperador, os príncipes e até o cristão mais simples examinem e julguem as minhas obras. Mas com uma condição: que eles usem a Palavra de Deus como medida. As pessoas não têm nada a fazer a não ser obedecer a ela. Não forcem a minha consciência, que está presa e amarrada às Sagradas Escrituras" (D'Aubigné, livro 7, cap. 10).
+
+A outro apelo ele disse: "Eu aceito abrir mão do meu salvo-conduto. Coloco a minha pessoa e a minha vida nas mãos do imperador. Mas a Palavra de Deus, nunca!" (D'Aubigné, livro 7, cap. 10). Ele disse que estava disposto a se submeter à decisão de um concílio geral, mas só com a condição de que o concílio fosse obrigado a decidir de acordo com as Escrituras. E acrescentou: "No que diz respeito à Palavra de Deus e à fé, todo cristão é tão bom juiz para si mesmo quanto o papa, mesmo apoiado por um milhão de concílios, pode ser para ele" (Martyn, vol. 1, p. 410). Amigos e inimigos finalmente se convenceram de que não adiantava mais tentar um acordo.
+
+Se o Reformador tivesse cedido num único ponto, Satanás e os seus exércitos teriam vencido. Mas a sua firmeza inabalável foi o meio de libertar a igreja e de começar um tempo novo e melhor. A influência desse único homem, que teve coragem de pensar e agir por si mesmo nas questões de religião, ia afetar a igreja e o mundo, não só no seu tempo, mas em todas as gerações futuras. A sua firmeza e a sua fidelidade iam fortalecer, até o fim dos tempos, todos os que passassem por uma experiência parecida. O poder e a majestade de Deus se mostraram acima dos planos dos homens e acima do grande poder de Satanás.
+
+### A volta de Worms
+
+Logo Lutero recebeu ordem do imperador para voltar para casa. Ele sabia que esse aviso seria seguido rapidamente pela sua condenação. Nuvens ameaçadoras pairavam sobre o seu caminho. Mas, ao sair de Worms, o seu coração estava cheio de alegria e louvor. Ele disse: "O próprio diabo guardava a fortaleza do papa. Mas Cristo abriu nela uma grande brecha, e Satanás foi obrigado a confessar que o Senhor é mais poderoso do que ele" (D'Aubigné, livro 7, cap. 11).
+
+Depois de partir, Lutero ainda queria que a sua firmeza não fosse confundida com rebeldia. Por isso, escreveu ao imperador:
+
+> "Deus, que examina os corações, é a minha testemunha de que estou pronto para obedecer a vossa majestade com todo o empenho, na honra ou na desonra, na vida ou na morte, sem nenhuma exceção a não ser a Palavra de Deus, pela qual o homem vive. Em todos os assuntos desta vida presente, a minha fidelidade será inabalável, porque aqui perder ou ganhar não faz diferença para a salvação. Mas, quando se trata de interesses eternos, Deus não quer que o homem se submeta ao homem. Porque essa submissão nas coisas espirituais é um verdadeiro culto, e deve ser prestada somente ao Criador." (D'Aubigné, livro 7, cap. 11)
+
+Na viagem de volta de Worms, Lutero foi recebido com ainda mais honras do que na ida. Chefes da igreja com título de príncipe deram boas-vindas ao monge excomungado, e governantes honraram o homem que o imperador tinha condenado. Pediram que ele pregasse e, apesar da proibição do imperador, ele subiu de novo ao púlpito. Ele disse: "Eu nunca prometi acorrentar a Palavra de Deus, e não vou fazer isso" (Martyn, vol. 1, p. 420).
+
+### O decreto contra Lutero
+
+Pouco tempo depois que ele saiu de Worms, os seguidores do papa convenceram o imperador a publicar um decreto (édito) contra ele. Nesse decreto, Lutero era chamado de "o próprio Satanás em forma de homem e vestido com roupa de monge" (D'Aubigné, livro 7, cap. 11). O decreto mandava que, assim que o salvo-conduto vencesse, fossem tomadas medidas para parar o seu trabalho.
+
+Todos ficavam proibidos de abrigá-lo, de lhe dar comida ou bebida, ou de ajudá-lo ou apoiá-lo de qualquer forma, por palavra ou por ação, em público ou em particular. Ele devia ser preso onde quer que estivesse e entregue às autoridades. Os seus seguidores também deviam ser presos e ter os seus bens tomados. Os seus escritos deviam ser destruídos. E, por fim, todos os que tivessem coragem de agir contra esse decreto também estavam incluídos na condenação.
+
+O eleitor da Saxônia e os príncipes mais amigos de Lutero tinham saído de Worms pouco depois da partida dele, e o decreto do imperador recebeu a aprovação da Dieta. Agora os seguidores de Roma estavam radiantes. Achavam que o destino da Reforma estava selado.
+
+### Escondido em Wartburg
+
+Mas Deus tinha preparado uma saída para o Seu servo naquela hora de perigo. Um olhar atento tinha acompanhado os movimentos de Lutero, e um coração fiel e nobre tinha decidido salvá-lo. Estava claro que Roma só ficaria satisfeita com a morte dele. Só escondido ele poderia ser protegido da boca do leão. Deus deu sabedoria a Frederico da Saxônia para criar um plano para salvar o Reformador.
+
+Com a ajuda de amigos fiéis, o plano do eleitor foi realizado, e Lutero ficou bem escondido de amigos e inimigos. Na viagem de volta para casa, ele foi agarrado, separado dos que o acompanhavam e levado às pressas pela floresta até o castelo de Wartburg, uma fortaleza isolada na montanha. A sua captura e o seu esconderijo foram cercados de tanto mistério que nem o próprio Frederico soube, por muito tempo, para onde ele tinha sido levado.
+
+Essa ignorância era proposital. Enquanto o eleitor não soubesse onde Lutero estava, ele não poderia revelar nada. Ele se certificou de que o Reformador estava seguro, e com isso ficou satisfeito.
+
+A primavera, o verão e o outono passaram, o inverno chegou, e Lutero continuava preso. Aleandro e os seus partidários comemoravam, porque a luz do evangelho parecia prestes a se apagar. Mas, em vez disso, o Reformador estava enchendo a sua lâmpada no depósito da verdade. E a luz dela ia brilhar com um brilho ainda maior.
+
+### Os dias na fortaleza
+
+Na segurança amiga de Wartburg, Lutero, por algum tempo, se alegrou por estar livre do calor e da confusão da batalha. Mas ele não conseguiu ficar satisfeito por muito tempo com o sossego e o descanso. Acostumado a uma vida de atividade e de luta dura, mal aguentava ficar parado. Naqueles dias de solidão, a situação da igreja aparecia diante dele. E ele clamava desesperado: "Ai! Não há ninguém, neste último dia da Sua ira, para ficar como um muro diante do Senhor e salvar Israel!" (D'Aubigné, livro 9, cap. 2).
+
+Outras vezes, os seus pensamentos se voltavam para si mesmo, e ele tinha medo de ser acusado de covardia por ter se retirado da luta. Depois se culpava por estar parado e se dando conforto. Mas, ao mesmo tempo, ele fazia a cada dia mais do que parecia possível para um homem só. A sua pena (caneta) nunca ficava parada. Enquanto os seus inimigos se gabavam de que ele tinha sido calado, ficavam espantados e confusos com provas concretas de que ele continuava ativo.
+
+Uma enorme quantidade de folhetos escritos por ele circulava por toda a Alemanha. Ele também prestou um serviço importantíssimo ao seu povo: traduziu o Novo Testamento para a língua alemã. Do seu Patmos de pedra (como a ilha onde João esteve exilado), ele continuou, por quase um ano inteiro, a anunciar o evangelho e a repreender os pecados e os erros do seu tempo.
+
+### Por que Deus afastou Lutero
+
+Mas Deus não tinha tirado o Seu servo da vida pública só para protegê-lo da ira dos seus inimigos, nem mesmo só para lhe dar um tempo de sossego para esses trabalhos importantes. Havia resultados mais preciosos do que esses a alcançar. Na solidão e no esconderijo da montanha, Lutero ficou longe dos apoios humanos e dos elogios das pessoas. Assim, ele foi livrado do orgulho e da confiança em si mesmo que o sucesso tantas vezes traz. Pelo sofrimento e pela humilhação, ele foi preparado para andar de novo com segurança nas alturas perigosas a que tinha sido elevado tão de repente.
+
+Quando as pessoas se alegram com a liberdade que a verdade traz, elas tendem a exaltar aqueles que Deus usou para quebrar as correntes do erro e da superstição. Satanás procura desviar os pensamentos e o amor das pessoas para longe de Deus e prendê-los aos instrumentos humanos. Ele leva as pessoas a honrar o simples instrumento e a esquecer a Mão que dirige todos os acontecimentos da providência.
+
+Muitas vezes, líderes religiosos que são elogiados e venerados assim perdem de vista que dependem de Deus e passam a confiar em si mesmos. O resultado é que eles tentam controlar a mente e a consciência do povo, que tende a buscar orientação neles em vez de buscá-la na Palavra de Deus. A obra de reforma muitas vezes é atrasada por esse espírito que os seus próprios apoiadores alimentam.
+
+Deus queria proteger a causa da Reforma desse perigo. Ele desejava que aquela obra levasse a marca de Deus, e não a do homem. Os olhos das pessoas tinham se voltado para Lutero como aquele que explicava a verdade. Ele foi afastado para que todos os olhos se voltassem para o Autor eterno da verdade.
