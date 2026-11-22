@@ -21,7 +21,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 16 — referência acrescentada: Judas 1:3; "Ibid." com fonte (Martyn, Bancroft).
 - [ ] Capítulo 17
 - [ ] Capítulo 18
-- [ ] Capítulo 19
+- [x] Capítulo 19 — OCR de referências corrigido: Jó 11:7, Miqueias 7:8, 9, 1 Pedro 1:10-12.
 - [ ] Capítulo 20
 - [ ] Capítulo 21
 - [ ] Capítulo 22
