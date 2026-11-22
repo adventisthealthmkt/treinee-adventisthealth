@@ -154,6 +154,30 @@ def corpo_capitulo(secoes, h="h3", ids=True):
     return "\n".join(out)
 
 
+NOTA = RAIZ / "nota-edicao.md"
+
+
+def nota_html():
+    paras = [p.strip() for p in NOTA.read_text(encoding="utf-8").split("\n\n") if p.strip()]
+    out = []
+    for p in paras:
+        t = html.escape(p, quote=False)
+        t = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
+        t = t.replace("O Grande Conflito,", "<i>O Grande Conflito</i>,", 1) if not out else t
+        out.append(f"<p>{t}</p>")
+    return "".join(out)
+
+
+CREDITOS = (
+    "<p><b>O Grande Conflito</b> — edição ilustrada em linguagem simples.<br/>"
+    "Texto de Ellen G. White, adaptado em linguagem simples.</p>"
+    "<p>As frases foram reescritas em português simples e não devem ser lidas como citações literais da autora. "
+    "As passagens bíblicas também foram reescritas em linguagem atual, sempre com a referência indicada.</p>"
+    "<p>Ilustrações e projeto gráfico desenvolvidos para esta edição.</p>"
+    "<p>Tipografia: Unbounded, Inter e Literata (SIL Open Font License).</p>"
+)
+
+
 # ---------------------------------------------------------------- imagens
 
 
@@ -229,7 +253,7 @@ def html_pdf(epigrafe, secoes, imgs):
 <meta name="author" content="Ellen G. White">
 <meta name="description" content="Edição ilustrada em linguagem simples — protótipo do capítulo 1">
 <style>{CSS_FONTES}
-.abertura-arte{{background-image:linear-gradient(to bottom, rgba(21,29,51,0) 38%, rgba(21,29,51,.72) 62%, #151D33 88%), {abertura_fundo}}}
+.abertura-arte{{background-image:linear-gradient(to bottom, rgba(21,29,51,0) 52%, rgba(21,29,51,.55) 70%, #151D33 92%), {abertura_fundo}}}
 @page leitura:right{{@top-right{{content:"{TITULO_CAP}"}}}}
 @page :nth(1 of leitura){{@top-right{{content:none}} background:#FAF6EE {rodape} no-repeat bottom center / 100% auto}}
 </style>
@@ -248,12 +272,14 @@ def html_pdf(epigrafe, secoes, imgs):
 </section>
 
 <section class="creditos">
-  <p><b>O Grande Conflito</b> — edição ilustrada em linguagem simples.<br>
-  Texto adaptado de <i>O Grande Conflito</i>, de Ellen G. White.</p>
-  <p>Este livro é uma adaptação. As frases foram reescritas em português simples e não devem ser lidas como citações literais da autora. As passagens bíblicas também foram reescritas em linguagem atual, sempre com a referência indicada.</p>
-  <p>Protótipo editorial para avaliação interna. Publicar ou distribuir esta adaptação depende de autorização dos titulares de direitos do texto de referência.</p>
-  <p>Tipografia: Unbounded, Inter e Literata (SIL Open Font License).</p>
+  {CREDITOS}
   <p>Protótipo gerado em {datetime.now(timezone.utc):%d/%m/%Y}.</p>
+</section>
+
+<section class="nota" id="nota">
+  <p class="kicker">Antes de começar</p>
+  <h2 class="nota-titulo">Nota sobre esta edição</h2>
+  {nota_html()}
 </section>
 
 <nav class="sumario" aria-label="Sumário">
@@ -343,12 +369,10 @@ def montar_epub(epigrafe, secoes, imgs):
         '<h1 class="rosto-titulo"><span class="leve">O grande</span> <span class="forte">Conflito</span></h1>'
         '<div class="regua"></div><p class="rosto-sub">Edição ilustrada em linguagem simples</p></section>', "frontmatter"), encoding="utf-8")
     t.joinpath("creditos.xhtml").write_text(xhtml("Créditos",
-        '<section epub:type="copyright-page" class="creditos">'
-        "<p><b>O Grande Conflito</b> — edição ilustrada em linguagem simples. Texto adaptado de <i>O Grande Conflito</i>, de Ellen G. White.</p>"
-        "<p>Este livro é uma adaptação. As frases foram reescritas em português simples e não devem ser lidas como citações literais da autora. "
-        "As passagens bíblicas também foram reescritas em linguagem atual, sempre com a referência indicada.</p>"
-        "<p>Protótipo editorial para avaliação interna. Publicar ou distribuir esta adaptação depende de autorização dos titulares de direitos do texto de referência.</p>"
-        "<p>Tipografia: Unbounded, Inter e Literata (SIL Open Font License).</p></section>", "frontmatter"), encoding="utf-8")
+        f'<section epub:type="copyright-page" class="creditos">{CREDITOS}</section>', "frontmatter"), encoding="utf-8")
+    t.joinpath("nota.xhtml").write_text(xhtml("Nota sobre esta edição",
+        '<section epub:type="preface" class="nota" aria-labelledby="nota-titulo"><p class="kicker">Antes de começar</p>'
+        f'<h1 class="nota-titulo" id="nota-titulo">Nota sobre esta edição</h1>{nota_html()}</section>', "frontmatter"), encoding="utf-8")
 
     epi_txt, epi_ref = separar_ref(epigrafe)
     if tem_abertura:
@@ -384,6 +408,7 @@ def montar_epub(epigrafe, secoes, imgs):
 <nav epub:type="toc" id="toc" role="doc-toc"><h1 class="sumario-titulo">Sumário</h1><ol>
 <li><a href="text/rosto.xhtml">Página de rosto</a></li>
 <li><a href="text/creditos.xhtml">Créditos</a></li>
+<li><a href="text/nota.xhtml">Nota sobre esta edição</a></li>
 <li><a href="text/cap01.xhtml">Capítulo 1 — {TITULO_CAP}</a><ol>{itens_secoes}</ol></li>
 </ol></nav>
 <nav epub:type="landmarks" hidden=""><ol>
@@ -403,8 +428,8 @@ def montar_epub(epigrafe, secoes, imgs):
         manifest.append('<item id="cap01-img" href="img/cap01-abertura.jpg" media-type="image/jpeg"/>')
     for i, f in enumerate(sorted((tmp / "OEBPS/fonts").glob("*.ttf"))):
         manifest.append(f'<item id="f{i}" href="fonts/{f.name}" media-type="font/ttf"/>')
-    spine = ["capa", "rosto", "creditos", "nav", "cap01"]
-    for s in spine[:3] + spine[4:]:
+    spine = ["capa", "rosto", "creditos", "nota", "nav", "cap01"]
+    for s in [x for x in spine if x != "nav"]:
         manifest.append(f'<item id="{s}" href="text/{s}.xhtml" media-type="application/xhtml+xml"/>')
     agora = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     opf = f"""<?xml version="1.0" encoding="utf-8"?>

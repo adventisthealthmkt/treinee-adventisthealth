@@ -12,14 +12,20 @@
 
 O protótipo contém: capa, página de rosto, créditos, sumário, abertura do capítulo 1 (página par), o capítulo 1 completo em páginas de leitura e uma página especial (linha do tempo).
 
-## Pendente: ilustração de abertura
+## Ilustrações de abertura
 
-A abertura do capítulo 1 tem um **marcador** no lugar da ilustração. Por decisão do dono do projeto, ele vai enviar as ilustrações.
+Recebidas e salvas em `imagens/capNN-abertura.png`, com 1890 × 2717 px (160 × 230 mm a 300 dpi): capítulos 1, 2, 4, 6, 7, 9, 11–20. A do capítulo 1 já está no protótipo.
 
-- O gerador do Canva testado escrevia o título dentro da imagem e só devolvia miniaturas de 133 × 200 px.
-- Basta salvar `imagens/cap01-abertura.jpg` (retrato 2:3, ideal 2400 × 3450 px ou mais) e rodar `python build.py`. A imagem entra sangrada na página par e no topo do capítulo no EPUB.
-- O terço inferior deve ficar livre e escuro, porque é onde entra o título.
-- Opcional: `imagens/cap01-rodape.jpg` (paisagem larga). O script a esmaece no tom do papel e a aplica no rodapé da primeira página de leitura, como no mockup.
+Faltam os capítulos 3, 5, 8, 10 e 21–42. Na produção integral, capítulo sem imagem recebe o marcador "ilustração a inserir".
+
+Pontos de atenção nas imagens recebidas:
+
+- **Capítulo 14:** ao fundo aparecem o Palácio de Westminster e a torre do Big Ben, construídos no século XIX. A cena é dos séculos XIV a XVI, então isso é um anacronismo.
+- **Capítulos 4, 6, 7 e 9:** têm o tamanho certo, mas parecem ampliadas de um original menor. Os detalhes ficam borrados e o fundo, pixelado. Na tela funcionam, mas para impressão o ideal é gerar de novo em alta resolução.
+
+## Nota sobre esta edição
+
+O texto enviado pelo dono do projeto entra logo depois dos créditos, como página própria. Ele aparece sem alterações em `nota-edicao.md`.
 
 ## Decisões tipográficas
 
@@ -43,7 +49,7 @@ A abertura do capítulo 1 tem um **marcador** no lugar da ilustração. Por deci
   - Milman em bloco recuado com fio claro e a fonte em versal.
 - O **destaque** ("Quando se aproximou e viu a cidade, ele chorou por ela", Lucas 19:41) repete um versículo que já está no texto. No EPUB, ele é marcado para não ser lido duas vezes por leitores de tela.
 - **Linha do tempo:** usa só fatos narrados no próprio capítulo. Os anos 66 e 70 d.C. vêm de Flávio Josefo, como indica a nota da página. Não criei mapa, porque o capítulo não traz dados geográficos além de Pela e do Jordão.
-- **Créditos:** informam que o texto é adaptação, não citação literal, e que a distribuição depende de autorização dos titulares de direitos.
+- **Créditos:** informam que o texto é adaptação, não citação literal. A questão de direitos foi para a "Nota sobre esta edição".
 
 ## Limitações conhecidas
 

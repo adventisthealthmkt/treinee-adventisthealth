@@ -138,3 +138,9 @@ p { margin: 0; }
 
 .fim-cap { text-align: center; color: #B45A48; font: 600 12pt "Literata"; letter-spacing: .2em; margin-top: 6mm; }
 b { font-weight: 600; }
+
+/* ---------- nota sobre esta edição ---------- */
+.nota { page: frente; break-before: right; padding-top: 6mm; hyphens: auto; hyphenate-character: "-"; hyphenate-limit-chars: 8 3 3; }
+.nota-titulo { font: italic 400 19pt/1.15 "Literata"; color: #151D33; margin: 0 0 7mm; bookmark-level: 1; }
+.nota p:not(.kicker) { font-size: 8.9pt; line-height: 1.5; margin-bottom: 2.6mm; color: #2B2533; }
+.nota b { color: #43253F; }

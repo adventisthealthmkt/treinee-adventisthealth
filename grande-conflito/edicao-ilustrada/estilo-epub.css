@@ -72,3 +72,8 @@ body.sem-margem { margin: 0; }
 .sumario-titulo { font-family: "Unbounded", sans-serif; font-weight: 700; text-transform: uppercase; color: #151D33; }
 nav ol { list-style: none; padding-left: 1em; }
 nav a { text-decoration: none; }
+
+/* nota sobre esta edição */
+.nota { padding-top: 1em; }
+.nota-titulo { font-family: "Literata", serif; font-style: italic; font-weight: 400; font-size: 1.6em; line-height: 1.15; color: #151D33; margin: 0 0 1em; }
+.nota b { color: #43253F; }
