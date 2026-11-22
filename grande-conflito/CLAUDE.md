@@ -87,3 +87,7 @@ Depois de escrever, percorra o original parágrafo por parágrafo e confira se c
 - os parágrafos finais de aplicação para os dias de hoje, que costumam ser os mais esquecidos.
 
 Se algo faltar, acrescente no lugar certo antes de marcar o capítulo como feito.
+
+## Fonte da edição (atualizado)
+
+A partir desta revisão, o texto em linguagem simples é feito **a partir do inglês da edição de 1911** (domínio público), que está em `original-en/` (OCR da cópia do Internet Archive, item in.ernet.dli.2015.153256). O resultado vai para `reescrito-1911/`. Não use a tradução em português de `original/` nem a versão antiga de `reescrito/` como base. As mesmas regras de linguagem, conteúdo, formato e completude continuam valendo.
