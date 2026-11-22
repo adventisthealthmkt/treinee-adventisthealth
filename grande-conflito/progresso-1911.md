@@ -15,7 +15,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 10 — referência acrescentada: 2 Coríntios 3:6.
 - [ ] Capítulo 11
 - [ ] Capítulo 12
-- [ ] Capítulo 13
+- [x] Capítulo 13 — OCR corrigido (Low Countries; livros 10 e 18); "Ibid." com fonte por extenso (Brandt, Wylie).
 - [ ] Capítulo 14
 - [ ] Capítulo 15
 - [ ] Capítulo 16
