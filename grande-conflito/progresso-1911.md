@@ -12,7 +12,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [ ] Capítulo 7
 - [ ] Capítulo 8
 - [x] Capítulo 9 — "Ibid." e fontes sem autor passaram a citar Wylie ou D'Aubigné; 21 citações com fonte.
-- [ ] Capítulo 10
+- [x] Capítulo 10 — referência acrescentada: 2 Coríntios 3:6.
 - [ ] Capítulo 11
 - [ ] Capítulo 12
 - [ ] Capítulo 13
