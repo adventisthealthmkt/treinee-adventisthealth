@@ -34,7 +34,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 29 — referências acrescentadas: 1 João 3:4, Isaías 42:21; "Verse 17/6" → Ezequiel 28:17 e 28:6.
 - [x] Capítulo 30 — referência acrescentada: Atos 20:19; parágrafo "Satan summons all his forces" com OCR danificado reconstruído pelo sentido.
 - [x] Capítulo 31 — dois trechos com OCR muito danificado reconstruídos pelo sentido.
-- [ ] Capítulo 32
+- [x] Capítulo 32 — referência acrescentada: Mateus 6:13; OCR corrigido (João 1:9, 7:17, Jó 1:6); um parágrafo danificado reconstruído pelo sentido.
 - [ ] Capítulo 33
 - [ ] Capítulo 34
 - [ ] Capítulo 35
