@@ -29,7 +29,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 24 — OCR "Malachi 3^" → Malaquias 3:4; referências acrescentadas: João 20:20, 20:13, 1 Coríntios 15:58, 1 Pedro 1:3, 1:8, Apocalipse 14:7, Mateus 25:6, 25:10. Dois trechos com OCR muito danificado (fim do 1º parágrafo; parábola das virgens) reconstruídos pelo sentido.
 - [x] Capítulo 25 — referências acrescentadas: Hebreus 8:5, Salmo 89:37; nome do jornal de 1850 lido como The Dublin Nation (OCR borrado); Towinsend → Townsend; números de página das fontes retirados.
 - [x] Capítulo 26 — referências acrescentadas: Apocalipse 14:12, Isaías 58:1; "Verse 8/20" → Isaías 56:8 e 8:20; OCR "8:i6" → Isaías 8:16.
-- [ ] Capítulo 27
+- [x] Capítulo 27 — OCR de referências corrigido (2 Coríntios 7:9-11, 1 João 3:4, Romanos 8:4, João 8:29, Salmo 40:8, Colossenses 1:9-11, Apocalipse 21:27); início de João 14:14 reconstruído; trechos da citação de Edwards A. Park reconstruídos pelo sentido.
 - [x] Capítulo 28 — OCR de referências corrigido (Isaías 43:25, Apocalipse 3:5, Mateus 10:32-33, Salmo 51:17, Lucas 20:35-36, Levítico 16:22, Daniel 5:27); um parágrafo ilegível reconstruído pelo sentido.
 - [x] Capítulo 29 — referências acrescentadas: 1 João 3:4, Isaías 42:21; "Verse 17/6" → Ezequiel 28:17 e 28:6.
 - [x] Capítulo 30 — referência acrescentada: Atos 20:19; parágrafo "Satan summons all his forces" com OCR danificado reconstruído pelo sentido.
