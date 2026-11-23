@@ -35,7 +35,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 30 — referência acrescentada: Atos 20:19; parágrafo "Satan summons all his forces" com OCR danificado reconstruído pelo sentido.
 - [x] Capítulo 31 — dois trechos com OCR muito danificado reconstruídos pelo sentido.
 - [x] Capítulo 32 — referência acrescentada: Mateus 6:13; OCR corrigido (João 1:9, 7:17, Jó 1:6); um parágrafo danificado reconstruído pelo sentido.
-- [ ] Capítulo 33
+- [x] Capítulo 33 — "Verse(s)" com referência completa; OCR corrigido (Frith, 1 Coríntios 6:10); números de página das obras retirados.
 - [x] Capítulo 34 — OCR de referências corrigido (Apocalipse 16:13, 14; 2 Tessalonicenses 2:10, 11; Isaías 28:17, 18). O inglês confirma "no punishment for the sinner" (erro do PDF em português).
 - [ ] Capítulo 35
 - [x] Capítulo 36 — OCR corrigido (1 Reis 18:17, 18 e palavras soltas).
