@@ -41,7 +41,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 36 — OCR corrigido (1 Reis 18:17, 18 e palavras soltas).
 - [x] Capítulo 37 — referências acrescentadas: Lucas 10:25-26, Atos 9:6.
 - [x] Capítulo 38 — trecho quase ilegível do OCR ("The laborers..." até "listen") reconstruído pelo sentido.
-- [ ] Capítulo 39
+- [x] Capítulo 39 — concluído após a interrupção pelo limite de uso; termina no mesmo ponto do inglês (Isaías 26:20, 21).
 - [ ] Capítulo 40
 - [x] Capítulo 41 — referência acrescentada: 2 Tessalonicenses 2:8; "Verses 3-6, R.V." → Isaías 14:3-6; OCR corrigido.
 - [x] Capítulo 42 — OCR corrigido (Apocalipse 20:11, 21:4, 21:3).
