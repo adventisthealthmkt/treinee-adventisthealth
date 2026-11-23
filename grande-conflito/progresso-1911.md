@@ -43,6 +43,6 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 38 — trecho quase ilegível do OCR ("The laborers..." até "listen") reconstruído pelo sentido.
 - [ ] Capítulo 39
 - [ ] Capítulo 40
-- [ ] Capítulo 41
+- [x] Capítulo 41 — referência acrescentada: 2 Tessalonicenses 2:8; "Verses 3-6, R.V." → Isaías 14:3-6; OCR corrigido.
 - [ ] Capítulo 42
 - [ ] Apêndice
