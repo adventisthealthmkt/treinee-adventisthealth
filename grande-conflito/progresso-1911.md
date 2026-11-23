@@ -44,5 +44,5 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [ ] Capítulo 39
 - [ ] Capítulo 40
 - [x] Capítulo 41 — referência acrescentada: 2 Tessalonicenses 2:8; "Verses 3-6, R.V." → Isaías 14:3-6; OCR corrigido.
-- [ ] Capítulo 42
+- [x] Capítulo 42 — OCR corrigido (Apocalipse 20:11, 21:4, 21:3).
 - [ ] Apêndice
