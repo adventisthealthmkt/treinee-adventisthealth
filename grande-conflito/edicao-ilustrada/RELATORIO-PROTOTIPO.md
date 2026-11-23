@@ -115,3 +115,21 @@ Capa, rosto, créditos, nota sobre esta edição, sumário, introdução (abertu
 - **Nota sobre esta edição:** diz que a edição tem como referência o original em inglês, mas o texto foi reescrito a partir do PDF em português da pasta `original/`.
 - **Impressão:** ainda falta a versão com sangria, marcas de corte e perfil CMYK. A capa precisa de uma arte-mestre sem texto e em alta resolução.
 - **EPUB:** validado e testado no navegador, mas ainda não testado em aplicativos de leitura (Apple Books, Play Livros, Kindle, Kobo).
+
+
+---
+
+# Revisão: texto refeito a partir do inglês de 1911
+
+- **Nova fonte:** o texto em linguagem simples foi refeito a partir do inglês da edição de 1911, que está em domínio público.
+  - Os 42 capítulos e a introdução vêm da cópia in.ernet.dli.2015.153256 do Internet Archive.
+  - O apêndice vem da cópia greatcontroversy00whit, uma impressão original de 1911 da Pacific Press.
+  - Os textos estão em `../original-en/`, e o resultado em `../reescrito-1911/`. Na reescrita, a tradução em português não foi usada.
+- **Apêndice:** a cópia do Internet Archive traz o apêndice revisado em 1956, que pode ter direitos autorais. Por isso ele não foi usado. O livro usa o apêndice original de 1911, com 40 notas.
+- **Títulos:** os títulos dos capítulos seguem o inglês (ex.: "A destruição de Jerusalém").
+- **Introdução:** ganhou uma abertura ilustrada.
+- **Arquivos finais:**
+  - PDF com 903 páginas, cerca de 26 MB.
+  - EPUB validado no EPUBCheck 5.1.0: 0 erros, 0 avisos.
+- **Nota sobre esta edição:** passa a descrever o processo real ("tem como referência a obra original em inglês").
+- **Registro de cada parte:** `../progresso-1911.md` lista, para cada capítulo, as correções de OCR, as referências acrescentadas e os trechos danificados que foram reconstruídos pelo sentido.
