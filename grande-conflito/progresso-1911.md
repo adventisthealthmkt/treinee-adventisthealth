@@ -40,7 +40,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 35 — referências acrescentadas: 1 Timóteo 6:20, Êxodo 20:10; OCR corrigido (Mosheim século 11, Thomas Morer).
 - [x] Capítulo 36 — OCR corrigido (1 Reis 18:17, 18 e palavras soltas).
 - [x] Capítulo 37 — referências acrescentadas: Lucas 10:25-26, Atos 9:6.
-- [ ] Capítulo 38
+- [x] Capítulo 38 — trecho quase ilegível do OCR ("The laborers..." até "listen") reconstruído pelo sentido.
 - [ ] Capítulo 39
 - [ ] Capítulo 40
 - [ ] Capítulo 41
