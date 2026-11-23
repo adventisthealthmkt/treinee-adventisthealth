@@ -28,7 +28,13 @@ NOME = "O_Grande_Conflito_Edicao_Ilustrada"
 
 # Divisão de cada título em parte leve (Unbounded 400) e forte (Unbounded 700).
 # Sem entrada aqui, a divisão é automática (função dividir).
-DIVISAO_MANUAL = {}
+DIVISAO_MANUAL = {
+    3: ("O afastamento", "da fé"), 7: ("A separação de Lutero", "de Roma"),
+    16: ("Os Pais", "Peregrinos"), 21: ("Um aviso", "rejeitado"), 23: ("O que é", "o santuário?"),
+    24: ("No Lugar", "Santíssimo"), 25: ("A lei de Deus", "não muda"), 29: ("A origem", "do mal"),
+    30: ("A inimizade entre", "o ser humano e Satanás"), 36: ("O conflito", "que está para chegar"),
+    40: ("O povo de Deus", "é libertado"), 42: ("O fim do", "grande conflito"),
+}
 PREPS = {"de", "da", "do", "das", "dos", "e", "em", "na", "no", "nas", "nos", "à", "ao", "contra", "entre", "através", "diante"}
 
 
@@ -118,7 +124,13 @@ def analisar(linhas):
         elif all(re.match(r"^\d+\. ", x) for x in g):
             destino.append(("ol", [re.sub(r"^\d+\. ", "", x) for x in g]))
         else:
-            destino.append(("p", " ".join(g)))
+            texto = " ".join(g)
+            # versículo de abertura antes do primeiro subtítulo, escrito como parágrafo
+            if (len(secoes) == 1 and not destino and epigrafe is None and texto[:1] in "\"“"
+                    and re.search(r"\(\D+\d+:\d+[^()]*\)\s*$", texto)):
+                epigrafe = texto
+                continue
+            destino.append(("p", texto))
     if not secoes[0][1]:
         secoes.pop(0)
     return epigrafe, secoes
