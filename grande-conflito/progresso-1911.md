@@ -39,7 +39,7 @@ Fonte: `original-en/`. Resultado: `reescrito-1911/`.
 - [x] Capítulo 34 — OCR de referências corrigido (Apocalipse 16:13, 14; 2 Tessalonicenses 2:10, 11; Isaías 28:17, 18). O inglês confirma "no punishment for the sinner" (erro do PDF em português).
 - [x] Capítulo 35 — referências acrescentadas: 1 Timóteo 6:20, Êxodo 20:10; OCR corrigido (Mosheim século 11, Thomas Morer).
 - [x] Capítulo 36 — OCR corrigido (1 Reis 18:17, 18 e palavras soltas).
-- [ ] Capítulo 37
+- [x] Capítulo 37 — referências acrescentadas: Lucas 10:25-26, Atos 9:6.
 - [ ] Capítulo 38
 - [ ] Capítulo 39
 - [ ] Capítulo 40
